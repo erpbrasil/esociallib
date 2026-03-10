@@ -26,7 +26,7 @@ requires-python = ">=3.10"
 dependencies = [
     # Geração e serialização XML
     "xsdata[lxml]>=24.0",
-    "lxml>=4.9",
+    "lxml",
     # Ecossistema erpbrasil — assinatura ICP-Brasil e transmissão SOAP mTLS
     "erpbrasil.assinatura>=1.8.0",
     "erpbrasil.transmissao>=1.1.0",
