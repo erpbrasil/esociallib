@@ -1,0 +1,48 @@
+Código|Descrição|dtinicio|dtfim
+11|Base de cálculo da contribuição previdenciária normal|01012014|
+12|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 15 anos de contribuição|01012014|
+13|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 20 anos de contribuição|01012014|
+14|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 25 anos de contribuição|01012014|
+15|Base de cálculo da contribuição previdenciária adicional normal - Exclusiva do empregador|01012014|
+16|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 15 anos de contribuição - Exclusiva do empregador|01012014|
+17|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 20 anos de contribuição - Exclusiva do empregador|01012014|
+18|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 25 anos de contribuição - Exclusiva do empregador|01012014|
+19|Base de cálculo da contribuição previdenciária exclusiva do empregado|01012014|
+21|Valor total descontado do trabalhador para recolhimento à Previdência Social|01012014|
+22|Valor descontado do trabalhador para recolhimento ao SEST|01012014|
+23|Valor descontado do trabalhador para recolhimento ao SENAT|01012014|
+31|Valor pago ao trabalhador a título de salário-família|01012014|
+32|Valor pago ao trabalhador a título de salário-maternidade|01012014|
+41|Base de cálculo da contribuição previdenciária normal - Categorias 107 e 108|01012020|
+42|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 15 anos de contribuição - Categorias 107 e 108|01012020|
+43|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 20 anos de contribuição - Categorias 107 e 108|01012020|
+44|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 25 anos de contribuição - Categorias 107 e 108|01012020|
+45|Base de cálculo da contribuição previdenciária adicional normal - Exclusiva do empregador - Categorias 107 e 108|01012020|
+46|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 15 anos de contribuição - Exclusiva do empregador - Categorias 107 e 108|01012020|
+47|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 20 anos de contribuição - Exclusiva do empregador - Categorias 107 e 108|01012020|
+48|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 25 anos de contribuição - Exclusiva do empregador - Categorias 107 e 108|01012020|
+49|Base de cálculo da contribuição previdenciária exclusiva do empregado - Categorias 107 e 108|01012020|
+51|Base de cálculo da contribuição previdenciária normal - 13º salário - Lei 14.973/2024|01012025|
+52|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 15 anos de contribuição - 13º salário - Lei 14.973/2024|01012025|
+53|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 20 anos de contribuição - 13º salário - Lei 14.973/2024|01012025|
+54|Base de cálculo da contribuição previdenciária adicional para o financiamento dos benefícios de aposentadoria especial após 25 anos de contribuição - 13º salário - Lei 14.973/2024|01012025|
+71|Incidência suspensa em decorrência de decisão judicial - Base de cálculo - BC da Contribuição Previdenciária - CP normal - 13º salário - Lei 14.973/2024|01012025|
+72|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 15 anos de trabalho - 13º salário - Lei 14.973/2024|01012025|
+73|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 20 anos de trabalho - 13º salário - Lei 14.973/2024|01012025|
+74|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 25 anos de trabalho - 13º salário - Lei 14.973/2024|01012025|
+81|Incidência suspensa em decorrência de decisão judicial - Base de cálculo - BC da Contribuição Previdenciária - CP normal - Categorias 107 e 108|01012020|
+82|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 15 anos de trabalho - Categorias 107 e 108|01012020|
+83|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 20 anos de trabalho - Categorias 107 e 108|01012020|
+84|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 25 anos de trabalho - Categorias 107 e 108|01012020|
+85|Incidência suspensa em decorrência de decisão judicial - BC CP normal - Exclusiva do empregador - Categorias 107 e 108|01012020|
+86|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 15 anos de trabalho - Exclusiva do empregador - Categorias 107 e 108|01012020|
+87|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 20 anos de trabalho - Exclusiva do empregador - Categorias 107 e 108|01012020|
+88|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 25 anos de trabalho - Exclusiva do empregador - Categorias 107 e 108|01012020|
+91|Incidência suspensa em decorrência de decisão judicial - BC CP normal|01012014|
+92|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 15 anos de trabalho|01012014|
+93|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 20 anos de trabalho|01012014|
+94|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 25 anos de trabalho|01012014|
+95|Incidência suspensa em decorrência de decisão judicial - BC CP normal - Exclusiva do empregador|01012014|
+96|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 15 anos de trabalho - Exclusiva do empregador|01012014|
+97|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 20 anos de trabalho - Exclusiva do empregador|01012014|
+98|Incidência suspensa em decorrência de decisão judicial - BC CP aposentadoria especial aos 25 anos de trabalho - Exclusiva do empregador|01012014|

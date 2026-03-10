@@ -1,0 +1,118 @@
+CODIGO|NOME|DTINICIO|DTFIM|CODIGORUBRICAESOCIAL|CAMPOFIXO|RESTRICAONAOXIBIR
+50|Saldo de <<>>/dias Salário (líquido de <<>>/faltas e DSR)|01012014||eSocial3000;eSocial5060;eSocial5070|S|
+51|Comissões|01012014|||S|
+52|Gratificação|01012014||eSocial1410|S|
+53|Adic. de Insalubridade <<>>%|01012014||eSocial1300|S|
+54|Adic. de Periculosidade <<>>%|01012014||eSocial1310|S|
+55.1|Adic. Noturno <<>> Horas a <<>>%|01012014||eSocial1130|S|
+55.2|Adic. Noturno em Dobro <<>> Horas a <<>>%|01012014||eSocial1131|N|
+56.1|Horas Extras <<>> Horas a <<>>%|01012014||eSocial1100|S|
+56.2|Horas Extras Noturnas <<>> Horas a <<>>%|01012014||eSocial1101|N|
+56.3|Horas Extras em Dobro <<>> Horas a <<>>%|01012014||eSocial1102|N|
+56.4|Horas Extras Noturnas em Dobro <<>> Horas a <<>>%|01012014||eSocial1103|N|
+56.5|Horas Extras Banco de Horas <<>> Horas a <<>>%|01012014||eSocial1120|N|
+57|Gorjetas|01012014|||S|
+58|Descanso Semanal Remunerado (DSR)|01012014||eSocial1200|S|
+59|Reflexo do DSR sobre Salário Variável|01012014|||S|eSocial1210;eSocial1211;eSocial1212
+59.1|Reflexo do DSR sobre Salário Variável (Horas Extras)|01012014||eSocial1210|N|
+59.2|Reflexo do DSR sobre Salário Variável (Adicional Noturno)|01012014||eSocial1211|N|
+59.3|Reflexo do DSR sobre Salário Variável (Adicional de Viagem do Empregado Doméstico)|01012014||eSocial1212|N|
+60|Multa por atraso no pagamento da rescisão (art. 477, § 8º, da CLT)|01012014||eSocial3110|S|
+61|Indenização pela Extinção Antecipada do Contrato a Termo pelo Empregador|01012014||eSocial3100|N|
+62|Salário-Família|01012014|31012017|eSocial1720|S|
+62|Salário-Família|01022017||eSocial1720;eSocial1721|S|
+63|13º Salário Proporcional <<>>/12 avos|01012014||eSocial3020|S|
+64.1|13º Salário–Exerc. <<>> - <<>>/12 avos|01012014||eSocial1810|S|
+65|Férias Proporc <<>>/12 avos|01012014||eSocial3050|S|
+66|Férias Venc. Per. Aquisitivo DD/MM/AAAA  a DD/MM/AAAA|01012014||eSocial3060|S|
+67|Férias Vencidas (Reflexo/Dobra) Per. Aquisitivo AAAA a AAAA|01012014||eSocial3040|N|
+68|Terço Constituc. de Férias|01012014||eSocial3070|S|
+69|Aviso Prévio Indenizado <<>>/dias|01012014||eSocial3030|S|
+70|13º Salário (Aviso Prévio Indenizado)|01012014||eSocial3010|S|
+71|Férias (Aviso Prévio Indenizado)|01012014||eSocial3065|S|
+73|Prêmios|01012014||eSocial1430|N|
+79|Salário-Família Excedente|01012014||eSocial1730|N|
+89|Abonos Desvinculados do Salário|01012014||eSocial1620|N|
+95.1|DSR - Descanso Semanal Remunerado em Dobro|01012014|30112016|eSocial1220|N|
+95.1|Descanso Semanal e/ou Feriado Trabalhados|01122016||eSocial1220|N|
+95.2|Adicional de Viagem do Empregado Doméstico|01012014||eSocial1340|N|
+95.3|Intervalo para Repouso e Alimentação não Concedido|01012014||eSocial1140|N|
+95.4|Intervalo entre Duas Jornadas de Trabalho não Concedido|01012014||eSocial1150|N|
+95.5|Abonos|01012014||eSocial1600|N|
+95.6|Outros Adicionais|01012014||eSocial1350|N|
+95.7|13º Salário Complementar|01012014||eSocial1820|N|
+95.8|Férias Gozadas no Mês|01012014||eSocial1910|N|
+95.9|Terço Constitucional de Férias Gozadas no Mês|01012014||eSocial1920|N|
+95.10|Abono Pecuniário de Férias|01012014||eSocial1930|N|
+95.11|Terço Constitucional de Férias sobre Abono Pecuniário|01012014||eSocial1940|N|
+95.12|Férias Gozadas (Reflexo/Dobra)|01012014||eSocial1950|N|
+95.13|Abono Pecuniário de Férias (Reflexo/Dobra)|01012014||eSocial1955|N|
+95.14|Indenização por Quebra de Estabilidade|01012014|30062016|eSocial3120|N|
+95.15|Diferença de Remuneração Mensal|01012014|30062016|eSocial3500|N|
+95.16|Diferença de 13º Salário|01012014|30062016|eSocial3501|N|
+95.17|Diferença de Férias Gozadas|01012014|30062016|eSocial3502|N|
+95.18|Diferença de Verbas Indenizatórias|01012014|30062016|eSocial3503|N|
+95.14|Diferença de Férias Gozadas|01072016||eSocial3508|N|
+95.15|Diferença do Adicional de 1/3 sobre Férias Gozadas|01072016||eSocial3509|N|
+95.16|Diferença de Abono Pecuniário de Férias|01072016||eSocial3510|N|
+95.17|Diferença do Adicional de 1/3 sobre Abono Pecuniário|01072016||eSocial3511|N|
+95.18|Diferença da Dobra de Férias na Vigência do Contrato|01072016||eSocial3512|N|
+95.19|Diferença da Dobra de Abono Pecuniário de Férias|01072016||eSocial3513|N|
+95.20|Indenização por Quebra de Estabilidade|01072016||eSocial3120|N|
+95.21|Retroativo – Diferença de Remuneração Mensal|01072016||eSocial3500|N|
+95.22|Retroativo – Diferença de 13º Salário|01072016||eSocial3501|N|
+95.23|Retroativo – Diferença de Férias Gozadas|01072016||eSocial3502|N|
+95.24|Retroativo – Diferença de Verbas Indenizatórias|01072016||eSocial3503|N|
+95.25|Compensação de Provisão de INSS sobre Férias no Mês|01012014||eSocial5183|N|
+95.26|Pagamento prorrogado - Adicional 1/3 sobre férias|01042020|31052020|eSocial1925;eSocial4000|N|
+95.26|Pagamento prorrogado - Adicional 1/3 sobre férias|01062020|31122020|eSocial4000|N|
+95.26|Pagamento prorrogado - Adicional 1/3 sobre férias|01042021|31122021|eSocial1925;eSocial4000|N|
+95.27|Pagamento prorrogado - Abono pecuniário de férias + 1/3|01042020|31052020|eSocial1945;eSocial4001|N|
+95.27|Pagamento prorrogado - Abono pecuniário de férias + 1/3|01062020|31122020|eSocial4001|N|
+95.27|Pagamento prorrogado - Abono pecuniário de férias + 1/3|01042021|31122021|eSocial1945;eSocial4001|N|
+95.28|Ajuda Compensatória - Lei 14.020/2020|01042020|31122020|eSocial2000|N|
+95.28|Ajuda Compensatória - MP 1.045/2021|01042021||eSocial2000|N|
+95.29|Indenização Rescisória - Prog. Emerg. de Manut. do Emprego e da Renda|01042020||eSocial3200|N|
+95.30|Indenização do art. 9º da Lei 7.238/1984|01012014||eSocial3080|N|
+95.31|Indenização do art. 14º da Lei 5.889/1973|01012014||eSocial3090|N|
+95.32|Compensação de provisão de parcela de empréstimo eConsignado no mês - Férias|01052025||eSocial9783|N|
+99|Ajuste do Saldo Devedor|01012014||eSocial1840|N|
+100.1|Pensão Alimentícia – Salário|01012014||eSocial5110|S|
+100.2|Pensão Alimentícia – 13° salário|01012014||eSocial5111|N|
+100.3|Pensão Alimentícia – Férias|01012014||eSocial5112|N|
+101|Adiantamento Salarial|01012014||eSocial5098|S|
+102|Adiantamento 13º Salário|01012014||eSocial5040|S|
+103|Aviso Prévio Indenizado <<>>/dias|01012014||eSocial5000|S|
+104|Indenização pela Extinção Antecipada do Contrato a Termo pelo Empregado|01012014||eSocial5010|N|
+106|Vale Transporte – Restituição|01012014||eSocial5095|N|
+107|Vale Transporte|01012014||eSocial5090|N|
+111.1|Contribuição Sindical – Compulsória|01012014||eSocial5120|N|
+111.2|Contribuição Sindical – Associativa|01012014||eSocial5121|N|
+111.3|Contribuição Sindical – Assistencial|01012014||eSocial5122|N|
+111.4|Contribuição Sindical – Confederativa|01012014||eSocial5123|N|
+112.1|Previdência Social|01012014||eSocial5180|S|
+112.2|Prev Social - 13º Salário|01012014||eSocial5181|S|
+114.1|IRRF|01012014||eSocial5190|S|
+114.2|IRRF sobre 13º Salário|01012014||eSocial5192|S|
+114.3|IRRF sobre Férias|01012014||eSocial5191|N|
+115.1|Atrasos|01012014||eSocial5050|N|
+115.2|Seguro de Vida|01012014||eSocial5160|N|
+115.3|Assistência Médica e/ou Odontológica|01012014||eSocial5166|N|
+115.4|Previdência Privada|01012014||eSocial5150|N|
+115.5|Habitação|01012014||eSocial5170|N|
+115.6|Danos Causados pelo Empregado|01012014||eSocial5140|N|
+115.7|Pagamento do 13º Salário|01012014||eSocial5041|N|
+115.8|Pagamento de Férias Gozadas e Abono Pecuniário|01012014||eSocial5031|N|
+115.9|13º Salário Complementar|01012014||eSocial5048|N|
+115.10|Diferença de Descontos Indenizatórios|01012014|30062016|eSocial5500|N|
+115.10|Retroativo – Diferença de Descontos Indenizatórios|01072016||eSocial5500|N|
+115.11|Devolução de Remuneração Mensal|01072016||eSocial5550|N|
+115.12|Devolução de 13º Salário – Ano Corrente|01072016||eSocial5551|N|
+115.13|Devolução de 13º Salário – Anos Anteriores|01072016||eSocial5554|N|
+115.14|Devolução de Férias Gozadas|01072016||eSocial5552|N|
+115.15|Devolução de Verbas Indenizatórias|01072016||eSocial5553|N|
+115.16|Pagamento de Férias Antecipadas (Gozadas e/ou Vendidas) em Período Aquisitivo em Curso|01042020||eSocial5032|N|
+116|Valor Líquido de TRCT Quitado – Decisão Judicial|01012014||eSocial5199|N|
+118|Antecipação de Pagamento de Férias|01012014||eSocial5029|N|
+119|Desconto Empréstimo eConsignado|01052025||eSocial9700|N|
+120|Apoio Financeiro MP 1.230/2024|01062024||eSocial5200|N|

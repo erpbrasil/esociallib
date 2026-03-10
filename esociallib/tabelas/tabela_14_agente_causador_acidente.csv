@@ -1,0 +1,249 @@
+CODIGO|DESCRICAO|DTINICIO|DTFIM
+302010200|Rua e estrada - superfície utilizada para sustentar pessoas|01012014|
+302010250|Calçada ou caminho para pedestre - superfície utilizada para sustentar pessoas|01012014|
+302010300|Piso de edifício - superfície utilizada para sustentar pessoas|01012014|
+302010350|Escada permanente cujos degraus permitem apoio integral do pé, degrau - superfície utilizada para sustentar pessoas|01012014|
+302010400|Rampa - superfície utilizada para sustentar pessoas|01012014|
+302010450|Passarela ou plataforma permanentes - superfície utilizada para sustentar pessoas|01012014|
+302010500|Piso de mina - superfície utilizada para sustentar pessoas|01012014|
+302010550|Chão - superfície utilizada para sustentar pessoas|01012014|
+302010600|Piso de andaime e plataforma desmontável - superfície utilizada para sustentar pessoas|01012014|
+302010650|Piso de veiculo - superfície utilizada para sustentar pessoas|01012014|
+302010700|Telhado|01012014|
+302010900|Superfície de sustentação, NIC - superfície utilizada para sustentar pessoas|01012014|
+302030900|Escada móvel ou fixada, NIC|01012014|
+302050100|Edifício - edifício ou estrutura|01012014|
+302050200|Depósito fixo (tanque, silo, paiol, etc.) - edifício ou estrutura|01012014|
+302050300|Cais, doca - edifício ou estrutura|01012014|
+302050400|Dique, barragem - edifício ou estrutura|01012014|
+302050500|Ponte, viaduto - edifício ou estrutura|01012014|
+302050600|Arquibancada, estádio - edifício ou estrutura|01012014|
+302050700|Andaime, plataforma - edifício ou estrutura|01012014|
+302050800|Torre, poste - edifício ou estrutura|01012014|
+302050900|Edifício ou estrutura (exceto piso, superfície de sustentação ou área de circulação), NIC|01012014|
+302070100|Escavação (para edifício, estrada, etc.)|01012014|
+302070300|Canal, fosso|01012014|
+302070500|Poço, entrada, galeria, etc. de mina|01012014|
+302070700|Túnel|01012014|
+302070900|Escavação, fosso, túnel, NIC|01012014|
+302090000|Superfície e estrutura, NIC|01012014|
+303010040|Martelo, malho, marreta - ferramenta manual sem força motriz|01012014|
+303010080|Machadinha, enxó - ferramenta manual sem força motriz|01012014|
+303010120|Faca, facão - ferramenta manual sem força motriz|01012014|
+303010160|Tesoura, tesourão - ferramenta manual sem força motriz|01012014|
+303010200|Formão, cinzel - ferramenta manual sem força motriz|01012014|
+303010240|Serra, serrote - ferramenta manual sem força motriz|01012014|
+303010280|Alicate, torques, tenaz - ferramenta manual sem força motriz|01012014|
+303010320|Plaina - ferramenta manual sem força motriz|01012014|
+303010360|Lima, grosa - ferramenta manual sem força motriz|01012014|
+303010400|Punção, ponteiro, vazador, talhadeira - ferramenta manual sem força motriz|01012014|
+303010440|Pua, trado, verruma, máquina de furar manual - ferramenta manual sem força motriz|01012014|
+303010480|Chave de parafuso - ferramenta manual sem força motriz|01012014|
+303010520|Chave de porca ou de abertura regulável, chave de boca - ferramenta manual sem força motriz|01012014|
+303010560|Alavanca, pé-de-cabra - ferramenta manual sem força motriz|01012014|
+303010600|Corda, cabo, corrente - ferramenta manual sem força motriz|01012014|
+303010640|Machado - ferramenta manual sem força motriz|01012014|
+303010680|Enxada, enxadão, sacho - ferramenta manual sem força motriz|01012014|
+303010720|Pá, cavadeira - ferramenta manual sem força motriz|01012014|
+303010760|Picareta - ferramenta manual sem força motriz|01012014|
+303010800|Garfo, ancinho, forcado - ferramenta manual sem força motriz|01012014|
+303010900|Ferramenta manual sem força motriz, NIC|01012014|
+303015050|Martelete, socador - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015100|Talhadeira - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015150|Cortadeira, guilhotina - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015200|Serra - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015250|Punção, ponteiro, vazador - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015300|Perfuratriz - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015350|Rebitadeira - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015400|Máquina de aparafusar - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015450|Esmeril - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015500|Politriz, enceradeira - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015550|Ferro de passar - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015600|Ferramenta de soldagem - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015650|Maçarico - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015700|Ferramenta acionada por explosivo - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015750|Jato de areia - ferramenta portátil com força motriz ou aquecimento|01012014|
+303015900|Ferramenta portátil com força motriz ou aquecimento, NIC|01012014|
+303020040|Serra - máquina|01012014|
+303020080|Tesoura, guilhotina, máquina de cortar - máquina|01012014|
+303020120|Laminadora, calandra - máquina|01012014|
+303020160|Furadeira, broqueadeira, torno, fresa - máquina|01012014|
+303020200|Prensa - máquina|01012014|
+303020240|Plaina, tupia - máquina|01012014|
+303020280|Máquina de fundir, de forjar, de soldar|01012014|
+303020320|Britador, moinho - máquina|01012014|
+303020360|Misturador, batedeira, agitador - máquina|01012014|
+303020400|Peneira mecânica, máquina separadora - máquina|01012014|
+303020440|Politriz, lixadora, esmeril - máquina|01012014|
+303020480|Máquina de terraplenagem e construção de estrada|01012014|
+303020520|Máquina de mineração e perfuração (de túnel, poço, etc.)|01012014|
+303020560|Máquina agrícola|01012014|
+303020600|Máquina têxtil|01012014|
+303020640|Máquina de costurar e de pespontar|01012014|
+303020680|Máquina de imprimir|01012014|
+303020720|Máquina de escritório|01012014|
+303020760|Máquina de embalar ou empacotar|01012014|
+303020900|Máquina, NIC|01012014|
+303025300|Transportador por gravidade|01012014|
+303025600|Transportador com força motriz|01012014|
+303025900|Transportador, NIC|01012014|
+303030050|Guindaste - equipamento de guindar|01012014|
+303030100|Ponte rolante - equipamento de guindar|01012014|
+303030150|Elevador - equipamento de guindar|01012014|
+303030200|Elevador de caçamba para mineração - equipamento de guindar|01012014|
+303030250|Pá mecânica, draga - equipamento de guindar|01012014|
+303030300|Talha - equipamento de guindar|01012014|
+303030350|Pau de carga - equipamento de guindar|01012014|
+303030400|Macaco (mecânico, hidráulico, pneumático) - equipamento de guindar|01012014|
+303030450|Guincho pneumático - equipamento de guindar|01012014|
+303030500|Guincho elétrico - equipamento de guindar|01012014|
+303030900|Equipamento de guindar, NIC|01012014|
+303035300|Correia - dispositivo de transmissão de energia mecânica|01012014|
+303035400|Corrente, corda, cabo - dispositivo de transmissão de energia mecânica|01012014|
+303035500|Tambor, polia, roldana - dispositivo de transmissão de energia mecânica|01012014|
+303035600|Embreagem de fricção - dispositivo de transmissão de energia mecânica|01012014|
+303035700|Engrenagem - dispositivo de transmissão de energia mecânica|01012014|
+303035900|Dispositivo de transmissão de energia mecânica, NIC|01012014|
+303040100|Gerador - equipamento elétrico|01012014|
+303040200|Condutor - equipamento elétrico|01012014|
+303040300|Transformador, conversor - equipamento elétrico|01012014|
+303040400|Painel de controle, barramento, chave, interruptor, disjuntor, fusível - equipamento elétrico|01012014|
+303040500|Reostato, dispositivo de partida e aparelho de controle, capacitor, retificador, bateria de acumuladores - equipamento elétrico|01012014|
+303040600|Motor elétrico - equipamento elétrico|01012014|
+303040700|Equipamento magnético - equipamento elétrico|01012014|
+303040750|Equipamento eletrolítico - equipamento elétrico|01012014|
+303040800|Equipamento de aquecimento elétrico - equipamento elétrico|01012014|
+303040900|Equipamento elétrico, NIC|01012014|
+303045200|Motor (combustão interna, vapor)|01012014|
+303045400|Bomba|01012014|
+303045600|Turbina|01012014|
+303045900|Motor, bomba, turbina, NIC|01012014|
+303050200|Caldeira|01012014|
+303050400|Vaso sob pressão (para líquido, gás ou vapor)|01012014|
+303050600|Tubo sob pressão (mangueira ou tubo para liquido, gás ou vapor)|01012014|
+303050900|Caldeira, vaso sob pressão, NIC|01012014|
+303055200|Caixão pneumático - equipamento para trabalho em ambiente de pressão anormal|01012014|
+303055400|Escafandro - equipamento para trabalho em ambiente de pressão anormal|01012014|
+303055600|Equipamento de mergulho - equipamento para trabalho em ambiente de pressão anormal|01012014|
+303055900|Equipamento para trabalho em ambiente de pressão anormal, NIC|01012014|
+303060000|Forno, estufa, retorta, aquecedor de ambiente, fogão, etc. (exceto quando a lesão principal for choque elétrico ou eletroplessão) - equipamento de aquecimento|01012014|
+303065000|Equipamento emissor de radiação não ionizante|01012014|
+303065300|Equipamento de iluminação - equipamento emissor de radiação não ionizante|01012014|
+303065600|Arco elétrico - equipamento emissor de radiação não ionizante|01012014|
+303065900|Equipamento emissor de radiação não ionizante, NIC|01012014|
+303066300|Equipamento de iluminação|01012014|
+303066600|Arco elétrico|01012014|
+303070200|Equipamento de raios X - equipamento ou substância emissor de radiação ionizante|01012014|
+303070400|Reator (inclui combustível e resíduo) - equipamento ou substância emissor de radiação ionizante|01012014|
+303070600|Fonte de radioisótopo - equipamento ou substância emissor de radiação ionizante|01012014|
+303070900|Equipamento ou substância emissor de radiação ionizante, NIC|01012014|
+303075100|Bicicleta|01012014|
+303075150|Triciclo|01012014|
+303075200|Motocicleta, motoneta|01012014|
+303075250|Veículo rodoviário motorizado|01012014|
+303075300|Veículo sobre trilho|01012014|
+303075350|Veículo aquático|01012014|
+303075400|Aeronave|01012014|
+303075450|Empilhadeira|01012014|
+303075500|Rebocador mecânico, mula mecânica|01012014|
+303075550|Carro de mão|01012014|
+303075600|Trator|01012014|
+303075650|Veículo de terraplenagem|01012014|
+303075700|Veículo de tração animal|01012014|
+303075750|Veículo deslizante|01012014|
+303075800|Veículo funicular (tração por cabo)|01012014|
+303075900|Veículo, NIC|01012014|
+303090000|Ferramenta, máquina, equipamento, veículo, NIC|01012014|
+305004100|Composto metálico (de chumbo, mercúrio, zinco, cadmio, cromo, etc.)|01012014|
+305004150|Composto de arsênio|01012014|
+305004200|Gás carbônico (dióxido de carbono, CO2)|01012014|
+305004250|Monóxido de carbono (CO)|01012014|
+305004300|Óxidos de nitrogênio (vapores nitrosos)|01012014|
+305004350|Ácido|01012014|
+305004400|Álcali|01012014|
+305004450|Composto de fósforo|01012014|
+305004500|Dissulfeto de carbono|01012014|
+305004550|Cianeto ou composto de cianogênio|01012014|
+305004600|Álcool|01012014|
+305004650|Tetracloreto de carbono|01012014|
+305004700|Composto orgânico halogenado (tricloretileno, percloretileno, cloreto de metilo, substâncias refrigerantes)|01012014|
+305004750|Composto aromático (benzol, toluol, xilol, anilina, etc.)|01012014|
+305004900|Substância química, NIC|01012014|
+305008500|Água (usar quando o estado líquido contribuir preponderantemente para a ocorrência)|01012014|
+305008900|Líquido, NIC|01012014|
+305020000|Partículas não identificadas|01012014|
+305024100|Pele, crina, pelo, lã (em bruto) - produto animal|01012014|
+305024300|Pena - produto animal|01012014|
+305024500|Couro cru ou curtido - produto animal|01012014|
+305024700|Osso - produto animal|01012014|
+305024900|Produto animal, NIC|01012014|
+305028000|Madeira (toro, madeira serrada, pranchão, poste, barrote, ripa e produto de madeira)|01012014|
+305032000|Produto mineral metálico - produto de mineração em bruto ou beneficiado, como minério e concentrado de minério|01012014|
+305032500|Metal (inclui liga ferrosa e não ferrosa, tubo, placa, perfil, trilho, vergalhão, arame, porca, rebite, prego, etc., metal fundido, lingote e sucata de fundição, exceto minério)|01012014|
+305036000|Produto mineral não metálico - produto de mineração, escavação, desbarrancamento, etc., como detrito, argila, areia, cascalho, pedra, etc.|01012014|
+305040100|Petróleo bruto, bruto reduzido|01012014|
+305040150|Asfalto, alcatrão, piche|01012014|
+305040200|Óleo combustível|01012014|
+305040250|Parafina, óleo lubrificante e de corte, graxas|01012014|
+305040300|Gasóleo, óleo diesel|01012014|
+305040350|Querosene|01012014|
+305040400|Nafta e solvente de nafta (éter de petróleo, álcool mineral, solvente aromático, etc.)|01012014|
+305040450|Gasolina (exceto quando a ocorrência for causada preponderantemente por composto de chumbo)|01012014|
+305040500|Hidrocarboneto gasoso (inclui gás liquefeito, gás encanado de nafta, gás natural)|01012014|
+305040600|Carvão|01012014|
+305040650|Coque|01012014|
+305040700|Gás encanado de carvão|01012014|
+305040900|Produto de petróleo e de carvão, NIC|01012014|
+305044000|Vidraria, fibra de vidro, lâmina, etc., exceto frasco, garrafa|01012014|
+305048000|Cerâmica|01012014|
+305048300|Tijolo e telha - cerâmica|01012014|
+305048400|Louça de mesa e outros utensílios (de porcelana, barro, etc.) - cerâmica|01012014|
+305048500|Tubo, manilha - cerâmica|01012014|
+305048600|Revestimento cerâmico (azulejo, mosaico, etc.) - cerâmica|01012014|
+305048700|Louca sanitária (pia, vaso sanitário, etc.) - cerâmica|01012014|
+305048900|Cerâmica, NIC|01012014|
+305052000|Têxteis (inclui fibras animais após o primeiro desengorduramento e limpeza, fibras vegetais e sintéticas (exceto vidro), fio, linha, tecido, passamanaria, feltro e produtos têxteis em geral)|01012014|
+305056000|Plástico (inclui pó, folha, trefilado, barra, perfil, etc.; não inclui produto a ser usado na fabricação de plástico)|01012014|
+305060000|Papel e pasta para papel|01012014|
+305064000|Produto alimentício (inclui carne, leite e derivados, legumes, frutas, cereais e derivados)|01012014|
+305064300|Carne e derivados|01012014|
+305064400|Leite e derivados|01012014|
+305064500|Legume, verdura e derivados|01012014|
+305064600|Fruta e derivados|01012014|
+305064700|Cereal e derivados|01012014|
+305064900|Produto alimentício (inclusive de origem animal), NIC|01012014|
+305068300|Medicamento em geral (exceto produto biológico)|01012014|
+305068600|Produto biológico (soro, toxina, antitoxina, vacina, plasma) - medicamento|01012014|
+305072000|Produto de limpeza, sabão, detergente|01012014|
+305076000|Sucata, entulho, resíduo|01012014|
+305090000|Substância química, material, produto, NIC|01012014|
+306020000|Animal vivo|01012014|
+306040000|Vegetal - planta, árvore, em estado natural, não beneficiada (não inclui grão debulhado, fruto colhido, toro mesmo com galho)|01012014|
+306060000|Agente infeccioso ou parasitário (inclui bactéria, fungo, organismo parasitário, vírus, etc.; não inclui produto químico, preparado farmacêutico ou alimento)|01012014|
+306090000|Ser vivo, NIC|01012014|
+307030100|Cadeira banco - mobiliário e acessórios|01012014|
+307030200|Mesa, carteira, exceto mesa elástica desmontável - mobiliário e acessórios|01012014|
+307030250|Mesa elástica desmontável - mobiliário e acessórios|01012014|
+307030300|Balcão, bancada - mobiliário e acessórios|01012014|
+307030400|Arquivo, fichário, estante - mobiliário e acessórios|01012014|
+307030500|Tapete, forração de piso, capacho - mobiliário e acessórios|01012014|
+307030600|Luminária, globo, lâmpada - mobiliário e acessórios|01012014|
+307030900|Mobiliário e acessórios, NIC|01012014|
+307040100|Caixa, engradado, caixote - embalagem, recipiente (vazio ou cheio)|01012014|
+307040300|Frasco, garrafa - embalagem, recipiente (vazio ou cheio)|01012014|
+307040500|Barril, barrica, barrilete, tambor - embalagem, recipiente (vazio ou cheio)|01012014|
+307040700|Tanque, cilindro (transportáveis e não sob pressão) - embalagem, recipiente (vazio ou cheio)|01012014|
+307040900|Embalagem, recipiente (vazio ou cheio), NIC|01012014|
+307050900|Vestuário, NIC|01012014|
+307070000|Área ou ambiente de trabalho (o agente do acidente ocorrido em consequência de fenômeno atmosférico, meteoro, etc., assim como da ação da radiação solar, deverá ser incluído neste item)|01012014|
+309000000|Agente do acidente, NIC|01012014|
+309500000|Agente do acidente inexistente|01012014|
+354000000|Energia|01012014|
+354010300|Pressão ambiente alta (trabalho em caixão pneumático, mergulho)|01012014|
+354010600|Pressão ambiente baixa (ar rarefeito)|01012014|
+354020000|Ruído|01012014|
+354040000|Fogo, chama, material incandescente ou quente, fumaça|01012014|
+354050300|Temperatura ambiente (não inclui a de objeto ou substância quente)|01012014|
+355016000|Aerodispersoides|01012014|
+355016600|Neblina|01012014|
+355016800|Gás e vapor|01012014|

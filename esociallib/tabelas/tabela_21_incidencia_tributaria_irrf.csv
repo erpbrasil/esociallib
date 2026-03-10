@@ -1,0 +1,88 @@
+CODIGO|DESCRICAO|DTINICIO|DTFIM
+0|Rendimento não tributável|01102015|30062021
+1|Rendimento não tributável em função de acordos internacionais de bitributação|01102015|30062021
+9|Verba transitada pela folha de pagamento de natureza diversa de rendimento ou retenção/isenção/dedução de IR (exemplo: desconto de convênio farmácia, desconto de consignações, etc.)|01102015|
+11|Remuneração mensal|01102015|
+12|13º salário|01102015|
+13|Férias|01102015|
+14|PLR|01102015|
+15|Rendimentos Recebidos Acumuladamente - RRA|01102015|30062021
+31|Remuneração mensal|01102015|
+32|13º salário|01102015|
+33|Férias|01102015|
+34|PLR|01102015|
+35|Rendimentos Recebidos Acumuladamente - RRA|01102015|30062021
+41|Previdência Social Oficial - PSO - Remuneração mensal|01102015|
+42|PSO - 13º salário|01102015|
+43|PSO - Férias|01102015|
+44|PSO - RRA|01102015|30062021
+46|Previdência complementar - Salário mensal|01102015|
+47|Previdência complementar - 13º salário|01102015|
+48|Previdência complementar - Férias|01102015|
+51|Pensão alimentícia - Remuneração mensal|01102015|
+52|Pensão alimentícia - 13º salário|01102015|
+53|Pensão alimentícia - Férias|01102015|
+54|Pensão alimentícia - PLR|01102015|
+55|Pensão alimentícia - RRA|01102015|30062021
+61|Fundo de Aposentadoria Programada Individual - FAPI - Remuneração mensal|01102015|
+62|Fundo de Aposentadoria Programada Individual - FAPI - 13º salário|01102015|
+63|Fundação de previdência complementar do servidor público - Remuneração mensal|01102015|
+64|Fundação de previdência complementar do servidor público - 13º salário|01102015|
+65|Fundação de previdência complementar do servidor público - Férias|01102015|
+66|Fundo de Aposentadoria Programada Individual - FAPI - Férias|01102015|
+67|Plano privado coletivo de assistência à saúde|01102015|
+68|Desconto Simplificado Mensal|01052023|
+70|Parcela isenta 65 anos - Remuneração mensal|01102015|
+71|Parcela isenta 65 anos - 13º salário|01102015|
+72|Diárias|01102015|
+73|Ajuda de custo|01102015|
+74|Indenização e rescisão de contrato, inclusive a título de PDV e acidentes de trabalho|01102015|
+75|Abono pecuniário|01102015|
+76|Rendimento de beneficiário com moléstia grave ou acidente em serviço - Remuneração mensal|01102015|
+77|Rendimento de beneficiário com moléstia grave ou acidente em serviço - 13º salário|01102015|
+78|Valores pagos a titular ou sócio de microempresa ou empresa de pequeno porte, exceto pró-labore e aluguéis|01102015|30062021
+700|Auxílio moradia|01102015|
+701|Parte não tributável do valor de serviço de transporte de passageiros ou cargas|01102015|
+702|Bolsa médico residente - Remuneração mensal|01102015|
+703|Bolsa médico residente - 13º salário|01102015|
+704|Juros de mora recebidos, devidos pelo atraso no pagamento de remuneração por exercício de emprego, cargo ou função|01102015|
+79|Outras isenções (o nome da rubrica deve ser claro para identificação da natureza dos valores)|01102015|
+81|Depósito judicial|01102015|30062021
+82|Compensação judicial do ano-calendário|01102015|30062021
+83|Compensação judicial de anos anteriores|01102015|30062021
+91|Remuneração mensal|01102015|30062021
+92|13º salário|01102015|30062021
+93|Férias|01102015|30062021
+94|PLR|01102015|30062021
+95|RRA|01102015|30062021
+9011|Remuneração mensal|01102015|
+9012|13º salário|01102015|
+9013|Férias|01102015|
+9014|PLR|01102015|
+9031|Remuneração mensal|01102015|
+9032|13º salário|01102015|
+9033|Férias|01102015|
+9034|PLR|01102015|
+9831|Depósito judicial - Mensal|01102015|
+9832|Depósito judicial - 13º salário|01102015|
+9833|Depósito judicial - Férias|01102015|
+9834|Depósito judicial - PLR|01102015|
+9041|Previdência Social Oficial - PSO - Remuneração mensal|01102015|
+9042|PSO - 13º salário|01102015|
+9043|PSO - Férias|01102015|
+9046|Previdência complementar - Salário mensal|01102015|
+9047|Previdência complementar - 13º salário|01102015|
+9048|Previdência complementar - Férias|01102015|
+9051|Pensão alimentícia - Remuneração mensal|01102015|
+9052|Pensão alimentícia - 13º salário|01102015|
+9053|Pensão alimentícia - Férias|01102015|
+9054|Pensão alimentícia - PLR|01102015|
+9061|Fundo de Aposentadoria Programada Individual - FAPI - Remuneração mensal|01102015|
+9062|Fundo de Aposentadoria Programada Individual - FAPI - 13º salário|01102015|
+9063|Fundação de previdência complementar do servidor público - Remuneração mensal|01102015|
+9064|Fundação de previdência complementar do servidor público - 13º salário|01102015|
+9065|Fundação de previdência complementar do servidor público - Férias|01102015|
+9066|Fundo de Aposentadoria Programada Individual - FAPI - Férias|01102015|
+9067|Plano privado coletivo de assistência à saúde|01102015|
+9082|Compensação judicial do ano-calendário|01102015|
+9083|Compensação judicial de anos anteriores|01102015|

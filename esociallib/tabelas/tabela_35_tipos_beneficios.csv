@@ -1,0 +1,66 @@
+CODIGO|DESCRICAO|DTINICIO|DTFIM|GRUPO|DESCGRUPO|PERALTGRUPO
+0101|Aposentadoria por idade e tempo de contribuição - Proventos com integralidade, revisão pela paridade|01012014||01|Aposentadoria por Idade e Tempo de Contribuição|01;02;03
+0102|Aposentadoria por idade e tempo de contribuição - Proventos pela média, reajuste manter valor real|01012014||01|Aposentadoria por Idade e Tempo de Contribuição|01;02;03
+0103|Aposentadoria por idade - Proventos proporcionais calculado sobre integralidade, revisão pela paridade|01012014||01|Aposentadoria por Idade e Tempo de Contribuição|01;02;03
+0104|Aposentadoria por idade - Proventos proporcionais calculado sobre a média, reajuste manter valor real|01012014||01|Aposentadoria por Idade e Tempo de Contribuição|01;02;03
+0105|Aposentadoria compulsória - Proventos proporcionais calculado sobre integralidade, revisão pela paridade|01012014||01|Aposentadoria por Idade e Tempo de Contribuição|01;02;03
+0106|Aposentadoria compulsória - Proventos proporcionais calculado sobre a média, reajuste manter valor real|01012014||01|Aposentadoria por Idade e Tempo de Contribuição|01;02;03
+0107|Aposentadoria de professor - Proventos com integralidade, revisão pela paridade|01012014||01|Aposentadoria por Idade e Tempo de Contribuição|01;02;03
+0108|Aposentadoria de professor - Proventos pela média, reajuste manter valor real|01012014||01|Aposentadoria por Idade e Tempo de Contribuição|01;02;03
+0109|Aposentadoria de servidor vinculado a RPC - Proventos limitados ao teto do RGPS|01012014||01|Aposentadoria por Idade e Tempo de Contribuição|01;02;03
+0201|Aposentadoria especial - Risco|01012014||02|Aposentadoria Especial|01;02;03
+0202|Aposentadoria especial - Exposição a agentes nocivos|01012014||02|Aposentadoria Especial|01;02;03
+0203|Aposentadoria da pessoa com deficiência|01012014||02|Aposentadoria Especial|01;02;03
+0204|Aposentadoria especial do policial civil|01012014||02|Aposentadoria Especial|01;02;03
+0205|Aposentadoria especial - Risco - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS|01012014||02|Aposentadoria Especial|01;02;03
+0206|Aposentadoria especial - Exposição a agentes nocivos - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS|01012014||02|Aposentadoria Especial|01;02;03
+0207|Aposentadoria da pessoa com deficiência - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS|01012014||02|Aposentadoria Especial|01;02;03
+0208|Aposentadoria especial de policial - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS|01012014||02|Aposentadoria Especial|01;02;03
+0301|Aposentadoria por invalidez - Proventos com integralidade, revisão pela paridade|01012014||03|Aposentadoria por Invalidez/Incapacidade Permanente|01;02;03
+0302|Aposentadoria por invalidez - Proventos pela média, reajuste manter valor real|01012014||03|Aposentadoria por Invalidez/Incapacidade Permanente|01;02;03
+0303|Aposentadoria por invalidez - Proventos proporcionais calculado sobre integralidade, revisão pela paridade|01012014||03|Aposentadoria por Invalidez/Incapacidade Permanente|01;02;03
+0304|Aposentadoria por invalidez - Proventos proporcionais calculado sobre a média, reajuste manter valor real|01012014||03|Aposentadoria por Invalidez/Incapacidade Permanente|01;02;03
+0305|Aposentadoria por invalidez - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS|01012014||03|Aposentadoria por Invalidez/Incapacidade Permanente|01;02;03
+0401|Reforma por invalidez|01012014||04|Militares (Reforma)|04;05
+0402|Reforma|01012014||04|Militares (Reforma)|04;05
+0403|Reforma compulsória proporcional|01012014||04|Militares (Reforma)|04;05
+0404|Reforma compulsória integral|01012014||04|Militares (Reforma)|04;05
+0405|Reforma por incapacidade definitiva|01012014||04|Militares (Reforma)|04;05
+0501|Reserva remunerada compulsória integral|01012014||05|Militares (Reserva)|04;05
+0502|Reserva remunerada integral|01012014||05|Militares (Reserva)|04;05
+0503|Reserva remunerada proporcional|01012014||05|Militares (Reserva)|04;05
+0504|Reserva remunerada compulsória proporcional|01012014||05|Militares (Reserva)|04;05
+0601|Pensão por morte (art. 40, § 7º, da CF/1988)|01012014||06|Pensão por Morte|06
+0602|Pensão por morte com paridade, decorrente do art. 6º-A da EC 41/2003|01012014||06|Pensão por Morte|06
+0603|Pensão por morte com paridade, decorrente do art. 3º da EC 47/2005|01012014||06|Pensão por Morte|06
+0604|Pensão por morte militar|01012014||06|Pensão por Morte|06
+0605|Pensão por morte - Plano próprio|01012014||06|Pensão por Morte|06
+0606|Pensão por morte - EC 103/2019|01012014||06|Pensão por Morte|06
+0701|Complementação de aposentadoria do RGPS|01012014||07|Complementação do Benefício do Regime Geral de Previdência Social (RGPS)|07
+0702|Complementação de pensão por morte do RGPS|01012014||07|Complementação do Benefício do Regime Geral de Previdência Social (RGPS)|07
+0801|Aposentadoria sem paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0802|Aposentadoria com paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0803|Aposentadoria por invalidez com paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0804|Aposentadoria por invalidez sem paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0805|Transferência para reserva concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0806|Reforma concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0807|Pensão por morte com paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0808|Pensão por morte sem paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0809|Outros benefícios previdenciários concedidos antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0810|Aposentadoria de parlamentar - Plano próprio|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0811|Aposentadoria de servidor vinculado ao Poder Legislativo - Plano próprio|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0812|Pensão por morte - Plano próprio|01012014||08|Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)|08
+0901|Benefício especial proporcional - Servidor pertencente a RPPS que opta pelo RPC da União|01012014||09|Benefícios Especiais com Vínculo Previdenciário|09
+0902|Benefício especial proporcional - Servidor pertencente a RPPS que opta pelo RPC - Demais entes da Federação, de acordo com as disposições das leis específicas|01012014||09|Benefícios Especiais com Vínculo Previdenciário|09
+0909|Outros benefícios especiais com vínculo previdenciário|01012014||09|Benefícios Especiais com Vínculo Previdenciário|09
+1001|Pensão especial sem vínculo previdenciário|01012014||10|Benefícios Especiais sem Vínculo Previdenciário|10
+1002|Anistiado político (Lei 10.559/2002)|01012014||10|Benefícios Especiais sem Vínculo Previdenciário|10
+1009|Outros benefícios sem vínculo previdenciário|01012014||10|Benefícios Especiais sem Vínculo Previdenciário|10
+1101|Aposentadoria voluntária com proventos proporcionais ao tempo de mandato - Leis próprias|01012014||11|Parlamentares|11
+1102|Aposentadoria voluntária com proventos integrais ao tempo de mandato - Leis próprias|01012014||11|Parlamentares|11
+1103|Aposentadoria por invalidez permanente - Proventos integrais - Leis próprias|01012014||11|Parlamentares|11
+1104|Aposentadoria por invalidez permanente - Proventos proporcionais ao tempo de mandato - Leis próprias|01012014||11|Parlamentares|11
+1105|Pensão por morte de parlamentar - Lei específica|01012014||11|Parlamentares|11
+1106|Pensão por morte de parlamentar - Planos anteriores à EC 20/1998|01012014||11|Parlamentares|11
+1201|Pensão por morte ficta|01012014||12|Benefícios Específicos do Sistema de Proteção Social dos Militares das Forças Armadas - SPSMFA|12
+1202|Pensão especial|01012014||12|Benefícios Específicos do Sistema de Proteção Social dos Militares das Forças Armadas - SPSMFA|12

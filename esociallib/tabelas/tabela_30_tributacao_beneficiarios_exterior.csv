@@ -1,0 +1,12 @@
+CODIGO|DESCRICAO|DTINICIO|DTFIM
+10|Retenção do IRRF - Alíquota padrão|01012014|
+11|Retenção do IRRF - Alíquota da tabela progressiva|01012014|
+12|Retenção do IRRF - Alíquota diferenciada (países com tributação favorecida)|01012014|
+13|Retenção do IRRF - Alíquota limitada conforme cláusula em convênio|01012014|
+30|Retenção do IRRF - Outras hipóteses|01012014|
+40|Não retenção do IRRF - Isenção estabelecida em convênio|01012014|
+41|Não retenção do IRRF - Isenção prevista em lei interna|01012014|
+42|Não retenção do IRRF - Alíquota zero prevista em lei interna|01012014|
+43|Não retenção do IRRF - Pagamento antecipado do imposto|01012014|
+44|Não retenção do IRRF - Medida judicial|01012014|
+50|Não retenção do IRRF - Outras hipóteses|01012014|

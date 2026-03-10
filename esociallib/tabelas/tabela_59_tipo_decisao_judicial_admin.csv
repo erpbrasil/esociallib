@@ -1,0 +1,15 @@
+Codigo|Descricao|DtInicio|DtFim|TpSusp
+01|Liminar em Mandado de Segurança|01012014||2
+02|Depósito Judicial do Montante Integral|01012014||2
+03|Depósito Administrativo do Montante Integral|01012014||1
+04|Antecipação de Tutela|01012014||2
+05|Liminar em Medida Cautelar|01012014||2
+08|Sentença em Mandado de Segurança Favorável ao Contribuinte|01012014||2
+09|Sentença em Ação Ordinária Favorável ao Contribuinte e Confirmada pelo TRF|01012014||2
+10|Acórdão do TRF Favorável ao Contribuinte|01012014||2
+11|Acórdão do STJ em Recurso Especial Favorável ao Contribuinte|01012014||2
+12|Acórdão do STF em Recurso Extraordinário Favorável ao Contribuinte|01012014||2
+13|Sentença 1ª instância não transitada em julgado com efeito suspensivo|01012014||2
+14|Contestação Administrativa FAP|01012014||1;4
+90|Decisão Definitiva a favor do contribuinte|01012014||2
+92|Sem suspensão da exigibilidade|01012014||1;2

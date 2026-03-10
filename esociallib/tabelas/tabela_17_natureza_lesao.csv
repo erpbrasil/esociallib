@@ -1,0 +1,30 @@
+CODIGO|DESCRICAO|DTINICIO|DTFIM
+702000000|Lesão imediata|01012014|
+702005000|Escoriação, abrasão (ferimento superficial)|01012014|
+702010000|Corte, laceração, ferida contusa, punctura (ferida aberta)|01012014|
+702015000|Contusão, esmagamento (superfície cutânea intacta)|01012014|
+702020000|Distensão, torção|01012014|
+702025000|Inflamação de articulação, tendão ou músculo (inclui sinovite, tenossionovite, etc.; não inclui distensão, torção ou suas consequências)|01012014|
+702030000|Luxação|01012014|
+702035000|Fratura|01012014|
+702040000|Queimadura ou escaldadura - efeito de temperatura elevada ou efeito do contato com substância quente (inclui queimadura por eletricidade, mas não inclui choque elétrico; não inclui queimadura por substância química, efeito de radiação, queimadura de sol, incapacidade sistêmica como intermação, queimadura por atrito, etc.)|01012014|
+702042000|Queimadura química (lesão de tecido provocada pela ação corrosiva de produto químico, suas emanações, etc.)|01012014|
+702045000|Efeito de radiação (imediato) - queimadura de sol e toda forma de lesão de tecido, osso ou fluido orgânico, por exposição à radiação|01012014|
+702048000|Congelamento, geladura e outros efeitos da exposição à baixa temperatura|01012014|
+702050000|Asfixia, estrangulamento, afogamento|01012014|
+702055000|Intermação, insolação, cãibra, exaustão e outros efeitos da temperatura ambiente elevada (não inclui queimadura de sol ou outros efeitos de radiação)|01012014|
+702060000|Choque elétrico e eletroplessão (eletrocussão)|01012014|
+702065000|Hérnia de qualquer natureza, ruptura|01012014|
+702070000|Amputação ou enucleação|01012014|
+702075000|Perda ou diminuição de sentido (audição, visão, olfato, paladar e tato, desde que não seja sequela de outra lesão)|01012014|
+702080000|Concussão cerebral|01012014|
+702090000|Lesão imediata, NIC|01012014|
+704020000|Doença contagiosa ou infecciosa (tuberculose, brucelose, etc.)|01012014|
+704030000|Pneumoconiose (silicose, asbestose, etc.)|01012014|
+704040000|Dermatose (erupção, inflamação da pele, inclusive furúnculo, etc.) - geralmente provocada pelo contato direto com substâncias ou agentes sensibilizantes ou irritantes, tais como medicamentos, óleos, agentes biológicos, plantas, madeiras ou metais (não inclui lesão provocada pela ação corrosiva de produtos químicos, queimadura por contato com substâncias quentes, efeito de exposição à radiação, efeito de exposição a baixas temperaturas ou inflamação ou irritação causada por fricção ou impacto)|01012014|
+704050000|Envenenamento sistêmico - condição mórbida sistêmica provocada por inalação, ingestão ou absorção cutânea de substância tóxica, que afete o metabolismo, o funcionamento do sistema nervoso, do aparelho circulatório, do aparelho digestivo, do aparelho respiratório, dos órgãos de excreção, do sistema musculoesquelético, etc. (inclui ação de produto químico, medicamento, metal ou peçonha; não inclui efeito de radiação, pneumoconiose, efeito corrosivo de produto químico, irritação cutânea, septicemia ou caso de ferida infectada)|01012014|
+704060000|Perda ou diminuição mediatas de sentido (audição, visão, olfato, paladar e tato, desde que não seja sequela de outra lesão)|01012014|
+704070000|Efeito de radiação (mediato) - queimadura do sol e toda forma de lesão de tecido, osso, ou fluido orgânico por exposição à radiação.|01012014|
+704090000|Doença, NIC|01012014|
+706050000|Lesões múltiplas|01012014|
+706090000|Outras lesões, NIC|01012014|

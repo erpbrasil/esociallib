@@ -1,0 +1,183 @@
+CODIGO|DESCRICAO|DTINICIO|DTFIM
+A|Área|01012014|
+AC|Acesso|01012014|
+ACA|Acampamento|01012014|
+ACL|Acesso Local|01012014|
+AD|Adro|01012014|
+AE|Área Especial|01012014|
+AER|Aeroporto|01012014|
+AL|Alameda|01012014|
+ALD|Aldeia|01012014|
+AMD|Avenida Marginal Direita|01012014|
+AME|Avenida Marginal Esquerda|01012014|
+AN|Anel Viário|01012014|
+ANT|Antiga Estrada|01012014|
+ART|Artéria|01012014|
+AT|Alto|01012014|
+ATL|Atalho|01012014|
+A V|Área Verde|01012014|
+AV|Avenida|01012014|
+AVC|Avenida Contorno|01012014|
+AVM|Avenida Marginal|01012014|
+AVV|Avenida Velha|01012014|
+BAL|Balneário|01012014|
+BC|Beco|01012014|
+BCO|Buraco|01012014|
+BEL|Belvedere|01012014|
+BL|Bloco|01012014|
+BLO|Balão|01012014|
+BLS|Blocos|01012014|
+BLV|Bulevar|01012014|
+BSQ|Bosque|01012014|
+BVD|Boulevard|01012014|
+BX|Baixa|01012014|
+C|Cais|01012014|
+CAL|Calçada|01012014|
+CAM|Caminho|01012014|
+CAN|Canal|01012014|
+CH|Chácara|01012014|
+CHA|Chapadão|01012014|
+CIC|Ciclovia|01012014|
+CIR|Circular|01012014|
+CJ|Conjunto|01012014|
+CJM|Conjunto Mutirão|01012014|
+CMP|Complexo Viário|01012014|
+COL|Colônia|01012014|
+COM|Comunidade|01012014|
+CON|Condomínio|01012014|
+COND|Condomínio|01012014|
+COR|Corredor|01012014|
+CPO|Campo|01012014|
+CRG|Córrego|01012014|
+CTN|Contorno|01012014|
+DSC|Descida|01012014|
+DSV|Desvio|01012014|
+DT|Distrito|01012014|
+EB|Entre Bloco|01012014|
+EIM|Estrada Intermunicipal|01012014|
+ENS|Enseada|01012014|
+ENT|Entrada Particular|01012014|
+EQ|Entre Quadra|01012014|
+ESC|Escada|01012014|
+ESD|Escadaria|01012014|
+ESE|Estrada Estadual|01012014|
+ESI|Estrada Vicinal|01012014|
+ESL|Estrada de Ligação|01012014|
+ESM|Estrada Municipal|01012014|
+ESP|Esplanada|01012014|
+ESS|Estrada de Servidão|01012014|
+EST|Estrada|01012014|
+ESV|Estrada Velha|01012014|
+ETA|Estrada Antiga|01012014|
+ETC|Estação|01012014|
+ETD|Estádio|01012014|
+ETN|Estância|01012014|
+ETP|Estrada Particular|01012014|
+ETT|Estacionamento|01012014|
+EVA|Evangélica|01012014|
+EVD|Elevada|01012014|
+EX|Eixo Industrial|01012014|
+FAV|Favela|01012014|
+FAZ|Fazenda|01012014|
+FER|Ferrovia|01012014|
+FNT|Fonte|01012014|
+FRA|Feira|01012014|
+FTE|Forte|01012014|
+GAL|Galeria|01012014|
+GJA|Granja|01012014|
+HAB|Núcleo Habitacional|01012014|
+IA|Ilha|01012014|
+IGP|Igarapé|01012014|
+IND|Indeterminado|01012014|
+IOA|Ilhota|01012014|
+JD|Jardim|01012014|
+JDE|Jardinete|01012014|
+LD|Ladeira|01012014|
+LGA|Lagoa|01012014|
+LGO|Lago|01012014|
+LOT|Loteamento|01012014|
+LRG|Largo|01012014|
+LT|Lote|01012014|
+MER|Mercado|01012014|
+MNA|Marina|01012014|
+MOD|Modulo|01012014|
+MRG|Projeção|01012014|
+MRO|Morro|01012014|
+MTE|Monte|01012014|
+NUC|Núcleo|01012014|
+NUR|Núcleo Rural|01012014|
+O|Outros|01012014|
+OUT|Outeiro|01012014|
+PAR|Paralela|01012014|
+PAS|Passeio|01012014|
+PAT|Pátio|01012014|
+PC|Praça|01012014|
+PCE|Praça de Esportes|01012014|
+PDA|Parada|01012014|
+PDO|Paradouro|01012014|
+PNT|Ponta|01012014|
+PR|Praia|01012014|
+PRL|Prolongamento|01012014|
+PRM|Parque Municipal|01012014|
+PRQ|Parque|01012014|
+PRR|Parque Residencial|01012014|
+PSA|Passarela|01012014|
+PSG|Passagem|01012014|
+PSP|Passagem de Pedestre|01012014|
+PSS|Passagem Subterrânea|01012014|
+PTE|Ponte|01012014|
+PTO|Porto|01012014|
+Q|Quadra|01012014|
+QTA|Quinta|01012014|
+QTS|Quintas|01012014|
+R|Rua|01012014|
+R I|Rua Integração|01012014|
+R L|Rua de Ligação|01012014|
+R P|Rua Particular|01012014|
+R V|Rua Velha|01012014|
+RAM|Ramal|01012014|
+RCR|Recreio|01012014|
+REC|Recanto|01012014|
+RER|Retiro|01012014|
+RES|Residencial|01012014|
+RET|Reta|01012014|
+RLA|Ruela|01012014|
+RMP|Rampa|01012014|
+ROA|Rodo Anel|01012014|
+ROD|Rodovia|01012014|
+ROT|Rotula|01012014|
+RPE|Rua de Pedestre|01012014|
+RPR|Margem|01012014|
+RTN|Retorno|01012014|
+RTT|Rotatória|01012014|
+SEG|Segunda Avenida|01012014|
+SIT|Sitio|01012014|
+SRV|Servidão|01012014|
+ST|Setor|01012014|
+SUB|Subida|01012014|
+TCH|Trincheira|01012014|
+TER|Terminal|01012014|
+TR|Trecho|01012014|
+TRV|Trevo|01012014|
+TUN|Túnel|01012014|
+TV|Travessa|01012014|
+TVP|Travessa Particular|01012014|
+TVV|Travessa Velha|01012014|
+UNI|Unidade|01012014|
+V|Via|01012014|
+V C|Via Coletora|01012014|
+V L|Via Local|01012014|
+VAC|Via de Acesso|01012014|
+VAL|Vala|01012014|
+VCO|Via Costeira|01012014|
+VD|Viaduto|01012014|
+V-E|Via Expressa|01012014|
+VER|Vereda|01012014|
+VEV|Via Elevado|01012014|
+VL|Vila|01012014|
+VLA|Viela|01012014|
+VLE|Vale|01012014|
+VLT|Via Litorânea|01012014|
+VPE|Via de Pedestre|01012014|
+VRT|Variante|01012014|
+ZIG|Zigue-Zague|01012014|

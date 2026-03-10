@@ -1,0 +1,228 @@
+CODIGO|DESCRICAO|DTINICIO|DTFIM|CODGRUPO|CODCBO|TPTRAB
+eSocial-001|Empregado doméstico nos serviços gerais|01012014||512|512105|1
+eSocial-002|Empregado doméstico arrumador|01012014||512|512110|1
+eSocial-003|Empregado doméstico faxineiro|01012014||512|512115|1
+eSocial-004|Babá|01012014||516|516205|1
+eSocial-005|Passador de roupas|01012014||516|516415|1
+eSocial-006|Lavadeiro, em geral|01012014||516|516305|1
+eSocial-007|Caseiro|01012014||512|512105|1
+eSocial-008|Governanta de residência|01012014||513|513105|1
+eSocial-009|Mordomo de residência|01012014||513|513105|1
+eSocial-010|Cozinheiro do serviço doméstico|01012014||513|513210|1
+eSocial-011|Cuidador de pessoas idosas e dependentes|01012014||516|516210|1
+eSocial-012|Motorista no serviço doméstico|01012014||782|782305|1
+eSocial-013|Motorista particular|01012014||782|782305|1
+eSocial-014|Preparador físico|01012014||224|224120|1
+eSocial-015|Chefe de cozinha|01012014||371|271105|1
+eSocial-016|Subchefe de cozinha|01012014||271|271105|1
+eSocial-017|Supervisor de cozinha|01012014||271|271105|1
+eSocial-018|Dama de companhia|01012014||516|516210|1
+eSocial-019|Garçom|01012014||513|513405|1
+eSocial-020|Jardineiro|01012014||622|622010|1
+eSocial-021|Porteiro|01012014||517|517410|1
+eSocial-022|Vigia|01012014||517|517420|1
+eSocial-023|Secretário, em geral|01012014||351|351505|1
+eSocial-024|Enfermeiro|01012014||223|223505|1
+eSocial-025|Atendente de enfermagem no serviço doméstico|01012014||515|515110|1
+eSocial-026|Auxiliar de enfermagem|01012014||322|322230|1
+eSocial-027|Técnico de enfermagem|01012014||322|322205|1
+eSocial-028|Assistente social|01012014||251|251605|1
+eSocial-029|Fisioterapeutas|01012014||223|223605|1
+eSocial-030|Médicos, em geral|01012014||225|225125|1
+eSocial-031|Nutricionistas|01012014||223|223710|1
+eSocial-032|Fonoaudiólogos|01012014||223|223810|1
+eSocial-033|Psicólogos e psicanalistas|01012014||251|251510|1
+eSocial-034|Terapeutas ocupacionais e afins|01012014||223|223905|1
+eSocial-035|Professores de educação infantil|01012014||231|231105|1
+eSocial-036|Professores de ensino fundamental|01012014||231|231210|1
+eSocial-037|Professores do ensino médio|01012014||232|232110|1
+eSocial-038|Administradores|01012014||252|252105|1
+eSocial-039|Contadores e afins|01012014||252|252210|1
+eSocial-040|Economista doméstico|01012014||251|251610|1
+eSocial-041|Marinheiro de esporte e recreio|01012014||782|782725|1
+eSocial-042|Marinheiro de convés|01012014||782|782705|1
+eSocial-043|Moço de convés|01012014||782|782715|1
+eSocial-044|Piloto comercial de helicóptero|01012014||341|341110|1
+eSocial-045|Piloto de aeronaves|01012014||215|215305|1
+eSocial-200|Técnico agrícola|01012014||321|321105|2
+eSocial-201|Técnico agropecuário|01012014||321|321110|2
+eSocial-202|Técnico em piscicultura|01012014||321|321305|2
+eSocial-203|Técnico em carcinicultura|01012014||321|321310|2
+eSocial-204|Técnico em mitilicultura|01012014||321|321315|2
+eSocial-205|Técnico em ranicultura|01012014||321|321320|2
+eSocial-206|Produtor agropecuário, em geral|01012014||611|611005|2
+eSocial-207|Produtor agrícola polivalente|01012014||612|612005|2
+eSocial-208|Produtor de arroz|01012014||612|612105|2
+eSocial-209|Produtor de cana-de-açúcar|01012014||612|612110|2
+eSocial-210|Produtor de cereais de inverno|01012014||612|612115|2
+eSocial-211|Produtor de gramíneas forrageiras|01012014||612|612120|2
+eSocial-212|Produtor de milho e sorgo|01012014||612|612125|2
+eSocial-213|Produtor de algodão|01012014||612|612205|2
+eSocial-214|Produtor de curauá|01012014||612|612210|2
+eSocial-215|Produtor de juta|01012014||612|612215|2
+eSocial-216|Produtor de rami|01012014||612|612220|2
+eSocial-217|Produtor de sisal|01012014||612|612225|2
+eSocial-218|Produtor na olericultura de legumes|01012014||612|612305|2
+eSocial-219|Produtor na olericultura de raízes, bulbos e tubérculos|01012014||612|612310|2
+eSocial-220|Produtor na olericultura de talos, folhas e flores|01012014||612|612315|2
+eSocial-221|Produtor na olericultura de frutos e sementes|01012014||612|612320|2
+eSocial-222|Produtor de flores de corte|01012014||612|612405|2
+eSocial-223|Produtor de flores em vaso|01012014||612|612410|2
+eSocial-224|Produtor de forrações|01012014||612|612415|2
+eSocial-225|Produtor de plantas ornamentais|01012014||612|612420|2
+eSocial-226|Produtor de árvores frutíferas|01012014||612|612505|2
+eSocial-227|Produtor de espécies frutíferas rasteiras|01012014||612|612510|2
+eSocial-228|Produtor de espécies frutíferas trepadeiras|01012014||612|612515|2
+eSocial-229|Cafeicultor|01012014||612|612605|2
+eSocial-230|Produtor de cacau|01012014||612|612610|2
+eSocial-231|Produtor de erva-mate|01012014||612|612615|2
+eSocial-232|Produtor de fumo|01012014||612|612620|2
+eSocial-233|Produtor de guaraná|01012014||612|612625|2
+eSocial-234|Produtor da cultura de amendoim|01012014||612|612705|2
+eSocial-235|Produtor da cultura de canola|01012014||612|612710|2
+eSocial-236|Produtor da cultura de coco-da-baia|01012014||612|612715|2
+eSocial-237|Produtor da cultura de dendê|01012014||612|612720|2
+eSocial-238|Produtor da cultura de girassol|01012014||612|612725|2
+eSocial-239|Produtor da cultura de linho|01012014||612|612730|2
+eSocial-240|Produtor da cultura de mamona|01012014||612|612735|2
+eSocial-241|Produtor da cultura de soja|01012014||612|612740|2
+eSocial-242|Produtor de especiarias|01012014||612|612805|2
+eSocial-243|Produtor de plantas aromáticas e medicinais|01012014||612|612810|2
+eSocial-244|Criador em pecuária polivalente|01012014||613|613005|2
+eSocial-245|Criador de animais domésticos|01012014||613|613010|2
+eSocial-246|Criador de asininos e muares|01012014||613|613105|2
+eSocial-247|Criador de bovinos (corte)|01012014||613|613110|2
+eSocial-248|Criador de bovinos (leite)|01012014||613|613115|2
+eSocial-249|Criador de bubalinos (corte)|01012014||613|613120|2
+eSocial-250|Criador de bubalinos (leite)|01012014||613|613125|2
+eSocial-251|Criador de eqüinos|01012014||613|613130|2
+eSocial-252|Criador de caprinos|01012014||613|613205|2
+eSocial-253|Criador de ovinos|01012014||613|613210|2
+eSocial-254|Criador de suínos|01012014||613|613215|2
+eSocial-255|Avicultor|01012014||613|613305|2
+eSocial-256|Cunicultor|01012014||613|613310|2
+eSocial-257|Apicultor|01012014||613|613405|2
+eSocial-258|Criador de animais produtores de veneno|01012014||613|613410|2
+eSocial-259|Minhocultor|01012014||613|613415|2
+eSocial-260|Sericultor|01012014||613|613420|2
+eSocial-261|Supervisor de exploração agrícola|01012014||620|620105|2
+eSocial-262|Supervisor de exploração agropecuária|01012014||620|620110|2
+eSocial-263|Supervisor de exploração pecuária|01012014||620|620115|2
+eSocial-264|Trabalhador agropecuário em geral|01012014||621|621005|2
+eSocial-265|Trabalhador na produção de mudas e sementes|01012014||622|622015|2
+eSocial-266|Trabalhador volante da agricultura|01012014||622|622020|2
+eSocial-267|Trabalhador da cultura de arroz|01012014||622|622105|2
+eSocial-268|Trabalhador da cultura de cana-de-açúcar|01012014||622|622110|2
+eSocial-269|Trabalhador da cultura de milho e sorgo|01012014||622|622115|2
+eSocial-270|Trabalhador da cultura de trigo, aveia, cevada e triticale|01012014||622|622120|2
+eSocial-271|Trabalhador da cultura de algodão|01012014||622|622205|2
+eSocial-272|Trabalhador da cultura de sisal|01012014||622|622210|2
+eSocial-273|Trabalhador da cultura do rami|01012014||622|622215|2
+eSocial-274|Trabalhador na olericultura (frutos e sementes)|01012014||622|622305|2
+eSocial-275|Trabalhador na olericultura (legumes)|01012014||622|622310|2
+eSocial-276|Trabalhador na olericultura (raízes, bulbos e tubérculos)|01012014||622|622315|2
+eSocial-277|Trabalhador na olericultura (talos, folhas e flores)|01012014||622|622320|2
+eSocial-278|Trabalhador no cultivo de flores e folhagens de corte|01012014||622|622405|2
+eSocial-279|Trabalhador no cultivo de flores em vaso|01012014||622|622410|2
+eSocial-280|Trabalhador no cultivo de forrações|01012014||622|622415|2
+eSocial-281|Trabalhador no cultivo de mudas|01012014||622|622420|2
+eSocial-282|Trabalhador no cultivo de plantas ornamentais|01012014||622|622425|2
+eSocial-283|Trabalhador no cultivo de árvores frutíferas|01012014||622|622505|2
+eSocial-284|Trabalhador no cultivo de espécies frutíferas rasteiras|01012014||622|622510|2
+eSocial-285|Trabalhador no cultivo de trepadeiras frutíferas|01012014||622|622515|2
+eSocial-286|Trabalhador da cultura de cacau|01012014||622|622605|2
+eSocial-287|Trabalhador da cultura de café|01012014||622|622610|2
+eSocial-288|Trabalhador da cultura de erva-mate|01012014||622|622615|2
+eSocial-289|Trabalhador da cultura de fumo|01012014||622|622620|2
+eSocial-290|Trabalhador da cultura de guaraná|01012014||622|622625|2
+eSocial-291|Trabalhador na cultura de amendoim|01012014||622|622705|2
+eSocial-292|Trabalhador na cultura de canola|01012014||622|622710|2
+eSocial-293|Trabalhador na cultura de coco-da-baía|01012014||622|622715|2
+eSocial-294|Trabalhador na cultura de dendê|01012014||622|622720|2
+eSocial-295|Trabalhador na cultura de mamona|01012014||622|622725|2
+eSocial-296|Trabalhador na cultura de soja|01012014||622|622730|2
+eSocial-297|Trabalhador na cultura do girassol|01012014||622|622735|2
+eSocial-298|Trabalhador na cultura do linho|01012014||622|622740|2
+eSocial-299|Trabalhador da cultura de especiarias|01012014||622|622805|2
+eSocial-300|Trabalhador da cultura de plantas aromáticas e medicinais|01012014||622|622810|2
+eSocial-301|Adestrador de animais|01012014||623|623005|2
+eSocial-302|Inseminador|01012014||623|623010|2
+eSocial-303|Trabalhador de pecuária polivalente|01012014||623|623015|2
+eSocial-304|Tratador de animais|01012014||623|623020|2
+eSocial-305|Trabalhador da pecuária (asininos e muares)|01012014||623|623105|2
+eSocial-306|Trabalhador da pecuária (bovinos corte)|01012014||623|623110|2
+eSocial-307|Trabalhador da pecuária (bovinos leite)|01012014||623|623115|2
+eSocial-308|Trabalhador da pecuária (bubalinos)|01012014||623|623120|2
+eSocial-309|Trabalhador da pecuária (eqüinos)|01012014||623|623125|2
+eSocial-310|Trabalhador da caprinocultura|01012014||623|623205|2
+eSocial-311|Trabalhador da ovinocultura|01012014||623|623210|2
+eSocial-312|Trabalhador da suinocultura|01012014||623|623215|2
+eSocial-313|Trabalhador da avicultura de corte|01012014||623|623305|2
+eSocial-314|Trabalhador da avicultura de postura|01012014||623|623310|2
+eSocial-315|Operador de incubadora|01012014||623|623315|2
+eSocial-316|Trabalhador da cunicultura|01012014||623|623320|2
+eSocial-317|Sexador|01012014||623|623325|2
+eSocial-318|Trabalhador em criatórios de animais produtores de veneno|01012014||623|623405|2
+eSocial-319|Trabalhador na apicultura|01012014||623|623410|2
+eSocial-320|Trabalhador na minhocultura|01012014||623|623415|2
+eSocial-321|Trabalhador na sericicultura|01012014||623|623420|2
+eSocial-322|Supervisor da aqüicultura|01012014||630|630105|2
+eSocial-323|Supervisor da área florestal|01012014||630|630110|2
+eSocial-324|Catador de caranguejos e siris|01012014||631|631005|2
+eSocial-325|Catador de mariscos|01012014||631|631010|2
+eSocial-326|Pescador artesanal de lagostas|01012014||631|631015|2
+eSocial-327|Pescador artesanal de peixes e camarões|01012014||631|631020|2
+eSocial-328|Pescador artesanal de água doce|01012014||631|631105|2
+eSocial-329|Pescador industrial|01012014||631|631205|2
+eSocial-330|Pescador profissional|01012014||631|631210|2
+eSocial-331|Criador de camarões|01012014||631|631305|2
+eSocial-332|Criador de jacarés|01012014||631|631310|2
+eSocial-333|Criador de mexilhões|01012014||631|631315|2
+eSocial-334|Criador de ostras|01012014||631|631320|2
+eSocial-335|Criador de peixes|01012014||631|631325|2
+eSocial-336|Criador de quelônios|01012014||631|631330|2
+eSocial-337|Criador de rãs|01012014||631|631335|2
+eSocial-338|Gelador industrial|01012014||631|631405|2
+eSocial-339|Gelador profissional|01012014||631|631410|2
+eSocial-340|Proeiro|01012014||631|631415|2
+eSocial-341|Redeiro (pesca)|01012014||631|631420|2
+eSocial-342|Guia florestal|01012014||632|632005|2
+eSocial-343|Raizeiro|01012014||632|632010|2
+eSocial-344|Viveirista florestal|01012014||632|632015|2
+eSocial-345|Classificador de toras|01012014||632|632105|2
+eSocial-346|Cubador de madeira|01012014||632|632110|2
+eSocial-347|Identificador florestal|01012014||632|632115|2
+eSocial-348|Operador de motosserra|01012014||632|632120|2
+eSocial-349|Trabalhador de extração florestal, em geral|01012014||632|632125|2
+eSocial-350|Seringueiro|01012014||632|632205|2
+eSocial-351|Trabalhador da exploração de espécies produtoras de gomas não elásticas|01012014||632|632210|2
+eSocial-352|Trabalhador da exploração de resinas|01012014||632|632215|2
+eSocial-353|Trabalhador da exploração de andiroba|01012014||632|632305|2
+eSocial-354|Trabalhador da exploração de babaçu|01012014||632|632310|2
+eSocial-355|Trabalhador da exploração de bacaba|01012014||632|632315|2
+eSocial-356|Trabalhador da exploração de buriti|01012014||632|632320|2
+eSocial-357|Trabalhador da exploração de carnaúba|01012014||632|632325|2
+eSocial-358|Trabalhador da exploração de coco-da-praia|01012014||632|632330|2
+eSocial-359|Trabalhador da exploração de copaíba|01012014||632|632335|2
+eSocial-360|Trabalhador da exploração de malva (pãina)|01012014||632|632340|2
+eSocial-361|Trabalhador da exploração de murumuru|01012014||632|632345|2
+eSocial-362|Trabalhador da exploração de oiticica|01012014||632|632350|2
+eSocial-363|Trabalhador da exploração de ouricuri|01012014||632|632355|2
+eSocial-364|Trabalhador da exploração de pequi|01012014||632|632360|2
+eSocial-365|Trabalhador da exploração de piaçava|01012014||632|632365|2
+eSocial-366|Trabalhador da exploração de tucum|01012014||632|632370|2
+eSocial-367|Trabalhador da exploração de açaí|01012014||632|632405|2
+eSocial-368|Trabalhador da exploração de castanha|01012014||632|632410|2
+eSocial-369|Trabalhador da exploração de pinhão|01012014||632|632415|2
+eSocial-370|Trabalhador da exploração de pupunha|01012014||632|632420|2
+eSocial-371|Trabalhador da exploração de árvores e arbustos produtores de substâncias aromát. medic. e tóxicas|01012014||632|632505|2
+eSocial-372|Trabalhador da exploração de cipós produtores de substâncias aromáticas, medicinais e tóxicas|01012014||632|632510|2
+eSocial-373|Trabalhador da exploração de madeiras tanantes|01012014||632|632515|2
+eSocial-374|Trabalhador da exploração de raízes produtoras de substâncias aromáticas, medicinais e tóxicas|01012014||632|632520|2
+eSocial-375|Trabalhador da extração de substâncias aromáticas, medicinais e tóxicas, em geral|01012014||632|632525|2
+eSocial-376|Carvoeiro|01012014||632|632605|2
+eSocial-377|Carbonizador|01012014||632|632610|2
+eSocial-378|Ajudante de carvoaria|01012014||632|632615|2
+eSocial-379|Condutor de veículos de tração animal (ruas e estradas)|01012014||782|782805|2
+eSocial-380|Tropeiro|01012014||782|782810|2
+eSocial-381|Boiadeiro|01012014||782|782815|2

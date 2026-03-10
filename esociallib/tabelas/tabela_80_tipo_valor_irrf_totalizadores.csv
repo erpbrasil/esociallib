@@ -1,0 +1,89 @@
+Código|Descrição|dtinicio|dtfim
+00|Rendimento não tributável|01012014|
+01|Rendimento não tributável em função de acordos internacionais de bitributação|01012014|
+09|Outras verbas não consideradas como base de cálculo ou rendimento|01012014|
+11|Rendimento tributável - Remuneração mensal|01012014|
+12|Rendimento tributável - 13º salário|01012014|
+13|Rendimento tributável - Férias|01012014|
+14|Rendimento tributável - PLR|01012014|
+15|Rendimento tributável - Rendimentos Recebidos Acumuladamente - RRA|01012014|
+31|Retenção - Remuneração mensal|01012014|
+32|Retenção - 13º salário|01012014|
+33|Retenção - Férias|01012014|
+34|Retenção - PLR|01012014|
+35|Retenção - RRA|01012014|
+41|Dedução da base de cálculo - Previdência Social Oficial - PSO - Remuneração mensal|01012014|
+42|Dedução da base de cálculo - PSO - 13º salário|01012014|
+43|Dedução da base de cálculo - PSO - Férias|01012014|
+44|Dedução da base de cálculo - PSO - RRA|01012014|
+46|Dedução da base de cálculo - Previdência privada - Salário mensal|01012014|
+47|Dedução da base de cálculo - Previdência privada - 13º salário|01012014|
+51|Dedução da base de cálculo - Pensão alimentícia - Remuneração mensal|01012014|
+52|Dedução da base de cálculo - Pensão alimentícia - 13º salário|01012014|
+53|Dedução da base de cálculo - Pensão alimentícia - Férias|01012014|
+54|Dedução da base de cálculo - Pensão alimentícia - PLR|01012014|
+55|Dedução da base de cálculo - Pensão alimentícia - RRA|01012014|
+61|Dedução da base de cálculo - Fundo de Aposentadoria Programada Individual - FAPI - Remuneração mensal|01012014|
+62|Dedução da base de cálculo - Fundo de Aposentadoria Programada Individual - FAPI - 13º salário|01012014|
+63|Dedução da base de cálculo - Fundação de previdência complementar do servidor público - Remuneração mensal|01012014|
+64|Dedução da base de cálculo - Fundação de previdência complementar do servidor público - 13º salário|01012014|
+67|Dedução da base de cálculo - Plano privado coletivo de assistência à saúde|01012014|
+70|Parcela isenta 65 anos - Remuneração mensal|01012014|
+71|Parcela isenta 65 anos - 13º salário|01012014|
+72|Isenção - Diárias|01012014|
+73|Isenção - Ajuda de custo|01012014|
+74|Isenção - Indenização e rescisão de contrato, inclusive a título de PDV e acidentes de trabalho|01012014|
+75|Isenção - Abono pecuniário|01012014|
+76|Isenção - Rendimento de beneficiário com moléstia grave ou acidente em serviço - Remuneração mensal|01012014|
+77|Isenção - Rendimento de beneficiário com moléstia grave ou acidente em serviço - 13º salário|01012014|
+78|Isenção - Valores pagos a titular ou sócio de microempresa ou empresa de pequeno porte, exceto pró-labore e aluguéis|01012014|
+700|Isenção - Auxílio moradia|01012014|
+701|Isenção - Parte não tributável do valor de serviço de transporte de passageiros ou cargas|01012014|
+79|Outras isenções|01012014|
+7900|Verba transitada pela folha de pagamento de natureza diversa de rendimento ou retenção/isenção/dedução de IR (exemplo: desconto de convênio farmácia, desconto de consignações, etc.)|01012014|
+7950|Rendimento não tributável|01012014|
+7951|Rendimento não tributável em função de acordos internacionais de bitributação|01012014|
+7952|Rendimento tributável - RRA|01012014|
+7953|Retenção de IR - RRA|01012014|
+7954|Previdência Social Oficial - RRA|01012014|
+7955|Pensão alimentícia - RRA|01012014|
+7956|Valores pagos a titular ou sócio de microempresa ou empresa de pequeno porte, exceto pró-labore e aluguéis|01012014|
+7957|Depósito judicial|01012014|
+7958|Compensação judicial do ano-calendário|01012014|
+7959|Compensação judicial de anos anteriores|01012014|
+7960|Exigibilidade suspensa - Remuneração mensal|01012014|
+7961|Exigibilidade suspensa - 13º salário|01012014|
+7962|Exigibilidade suspensa - Férias|01012014|
+7963|Exigibilidade suspensa - PLR|01012014|
+7964|Exigibilidade suspensa - RRA|01012014|
+81|Depósito judicial|01012014|
+82|Compensação judicial do ano calendário|01012014|
+83|Compensação judicial de anos anteriores|01012014|
+91|Incidência suspensa decorrente de decisão judicial - Remuneração mensal|01012014|
+92|Incidência suspensa decorrente de decisão judicial - 13º salário|01012014|
+93|Incidência suspensa decorrente de decisão judicial - Férias|01012014|
+94|Incidência suspensa decorrente de decisão judicial - PLR|01012014|
+95|Incidência suspensa decorrente de decisão judicial - RRA|01012014|
+9011|Exigibilidade suspensa - Rendimento tributável - Remuneração mensal|01012014|
+9012|Exigibilidade suspensa - Rendimento tributável - 13º salário|01012014|
+9014|Exigibilidade suspensa - Rendimento tributável - PLR|01012014|
+9031|Exigibilidade suspensa - Retenção - Remuneração mensal|01012014|
+9032|Exigibilidade suspensa - Retenção - 13º salário|01012014|
+9034|Exigibilidade suspensa - Retenção - PLR|01012014|
+9831|Exigibilidade suspensa - Retenção - Depósito judicial - Mensal|01012014|
+9832|Exigibilidade suspensa - Retenção - Depósito judicial - 13º salário|01012014|
+9834|Exigibilidade suspensa - Retenção - Depósito judicial - PLR|01012014|
+9041|Exigibilidade suspensa - Dedução da base de cálculo - Previdência Social Oficial - PSO - Remuneração mensal|01012014|
+9042|Exigibilidade suspensa - Dedução da base de cálculo - PSO - 13º salário|01012014|
+9046|Exigibilidade suspensa - Dedução da base de cálculo - Previdência privada - Salário mensal|01012014|
+9047|Exigibilidade suspensa - Dedução da base de cálculo - Previdência privada - 13º salário|01012014|
+9051|Exigibilidade suspensa - Dedução da base de cálculo - Pensão alimentícia - Remuneração mensal|01012014|
+9052|Exigibilidade suspensa - Dedução da base de cálculo - Pensão alimentícia - 13º salário|01012014|
+9054|Exigibilidade suspensa - Dedução da base de cálculo - Pensão alimentícia - PLR|01012014|
+9061|Exigibilidade suspensa - Dedução da base de cálculo - Fundo de Aposentadoria Programada Individual - FAPI - Remuneração mensal|01012014|
+9062|Exigibilidade suspensa - Dedução da base de cálculo - Fundo de Aposentadoria Programada Individual - FAPI - 13º salário|01012014|
+9063|Exigibilidade suspensa - Dedução da base de cálculo - Fundação de previdência complementar do servidor público - Remuneração mensal|01012014|
+9064|Exigibilidade suspensa - Dedução da base de cálculo - Fundação de previdência complementar do servidor público - 13º salário|01012014|
+9067|Exigibilidade suspensa - Dedução da base de cálculo - Plano privado coletivo de assistência à saúde|01012014|
+9082|Compensação judicial do ano-calendário|01012014|
+9083|Compensação judicial de anos anteriores|01012014|

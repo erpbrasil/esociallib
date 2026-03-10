@@ -1,0 +1,94 @@
+Codigo|Descricao|DtInicio|DtFim|eSocFilial
+1015|Órgão Público do Poder Executivo Federal|01012014||S
+1023|Órgão Público do Poder Executivo Estadual ou do Distrito Federal|01012014||N
+1031|Órgão Público do Poder Executivo Municipal|01012014||N
+1040|Órgão Público do Poder Legislativo Federal|01012014||S
+1058|Órgão Público do Poder Legislativo Estadual ou do Distrito Federal|01012014||N
+1066|Órgão Público do Poder Legislativo Municipal|01012014||N
+1074|Órgão Público do Poder Judiciário Federal|01012014||S
+1082|Órgão Público do Poder Judiciário Estadual|01012014||N
+1104|Autarquia Federal|01012014||N
+1112|Autarquia Estadual ou do Distrito Federal|01012014||N
+1120|Autarquia Municipal|01012014||N
+1139|Fundação Pública de Direito Público Federal|01012014||N
+1147|Fundação Pública de Direito Público Estadual ou do Distrito Federal|01012014||N
+1155|Fundação Pública de Direito Público Municipal|01012014||N
+1163|Órgão Público Autônomo Federal|01012014||S
+1171|Órgão Público Autônomo Estadual ou do Distrito Federal|01012014||N
+1180|Órgão Público Autônomo Municipal|01012014||N
+1198|Comissão Polinacional|01012014||N
+1201|Fundo Público|01012014||N
+1210|Consórcio Público de Direito Público (Associação Pública)|01012014||N
+1228|Consórcio Público de Direito Privado|01012014||N
+1236|Estado ou Distrito Federal|01012014||N
+1244|Município|01012014||N
+1252|Fundação Pública de Direito Privado Federal|01012014||N
+1260|Fundação Pública de Direito Privado Estadual ou do Distrito Federal|01012014||N
+1279|Fundação Pública de Direito Privado Municipal|01012014||N
+1287|Fundo Público da Administração Indireta Federal|01012014||N
+1295|Fundo Público da Administração Indireta Estadual ou do Distrito Federal|01012014||N
+1309|Fundo Público da Administração Indireta Municipal|01012014||N
+1317|Fundo Público da Administração Direta Federal|01012014||N
+1325|Fundo Público da Administração Direta Estadual ou do Distrito Federal|01012014||N
+1333|Fundo Público da Administração Direta Municipal|01012014||N
+1341|União|01012014||S
+2011|Empresa Pública|01012014||N
+2038|Sociedade de Economia Mista|01012014||N
+2046|Sociedade Anônima Aberta|01012014||N
+2054|Sociedade Anônima Fechada|01012014||N
+2062|Sociedade Empresária Limitada|01012014||N
+2070|Sociedade Empresária em Nome Coletivo|01012014||N
+2089|Sociedade Empresária em Comandita Simples|01012014||N
+2097|Sociedade Empresária em Comandita por Ações|01012014||N
+2127|Sociedade em Conta de Participação|01012014||N
+2135|Empresário (Individual)|01012014||N
+2143|Cooperativa|01012014||N
+2151|Consórcio de Sociedades|01012014||N
+2160|Grupo de Sociedades|01012014||N
+2178|Estabelecimento, no Brasil, de Sociedade Estrangeira|01012014||N
+2194|Estabelecimento, no Brasil, de Empresa Binacional Argentino-Brasileira|01012014||N
+2216|Empresa Domiciliada no Exterior|01012014||N
+2224|Clube/Fundo de Investimento|01012014||N
+2232|Sociedade Simples Pura|01012014||N
+2240|Sociedade Simples Limitada|01012014||N
+2259|Sociedade Simples em Nome Coletivo|01012014||N
+2267|Sociedade Simples em Comandita Simples|01012014||N
+2275|Empresa Binacional|01012014||N
+2283|Consórcio de Empregadores|01012014||N
+2291|Consórcio Simples|01012014||N
+2305|Empresa Individual de Responsabilidade Limitada (de Natureza Empresária)|01012014||N
+2313|Empresa Individual de Responsabilidade Limitada (de Natureza Simples)|01012014||N
+2321|Sociedade Unipessoal de Advogados|01012014||N
+2330|Cooperativas de Consumo|01012014||N
+2348|Empresa Simples de Inovação - Inova Simples|01012014||N
+2356|Investidor Não Residente|01012014||N
+3034|Serviço Notarial e Registral (Cartório)|01012014||N
+3069|Fundação Privada|01012014||N
+3077|Serviço Social Autônomo|01012014||N
+3085|Condomínio Edilício|01012014||N
+3107|Comissão de Conciliação Prévia|01012014||N
+3115|Entidade de Mediação e Arbitragem|01012014||N
+3131|Entidade Sindical|01012014||N
+3204|Estabelecimento, no Brasil, de Fundação ou Associação Estrangeiras|01012014||N
+3212|Fundação ou Associação Domiciliada no Exterior|01012014||N
+3220|Organização Religiosa|01012014||N
+3239|Comunidade Indígena|01012014||N
+3247|Fundo Privado|01012014||N
+3255|Órgão de Direção Nacional de Partido Político|01012014||N
+3263|Órgão de Direção Regional de Partido Político|01012014||N
+3271|Órgão de Direção Local de Partido Político|01012014||N
+3280|Comitê Financeiro de Partido Político|01012014||N
+3298|Frente Plebiscitária ou Referendária|01012014||N
+3301|Organização Social (OS)|01012014||N
+3310|Demais Condomínios|01012014||N
+3328|Plano de Benefícios de Previdência Complementar Fechada|01012014||N
+3999|Associação Privada|01012014||N
+4014|Empresa Individual Imobiliária|01012014||N
+4022|Segurado Especial|01012014||N
+4081|Contribuinte individual|01012014||N
+4090|Candidato a Cargo Político Eletivo|01012014||N
+4111|Leiloeiro|01012014||N
+4120|Produtor Rural (Pessoa Física)|01012014||N
+5010|Organização Internacional|01012014||N
+5029|Representação Diplomática Estrangeira|01012014||N
+5037|Outras Instituições Extraterritoriais|01012014||N

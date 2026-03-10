@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Configuração do gerador xsdata para eSocial S-1.3.
+
+  Para regenerar os bindings após atualização de leiaute:
+    xsdata generate ./esociallib/esocial/schemas/v_s13/ \
+      --config .xsdata.xml
+
+  Os arquivos gerados vão para esociallib/esocial/bindings/v_s13/
+  Nunca edite os bindings manualmente — sempre edite e regenere.
+-->
+<Config xmlns="http://pypi.org/project/xsdata" version="26.2">
+  <Output maxLineLength="119">
+    <Package>esociallib.esocial.bindings.v_s13</Package>
+    <!--
+      "dataclasses" gera classes Python puras, sem dependência do Odoo.
+      Esta é a Opção A da arquitetura: bindings independentes.
+    -->
+    <Format
+      repr="true"
+      eq="true"
+      slots="false"
+      kwOnly="true"
+    >dataclasses</Format>
+    <!--
+      "filenames": um arquivo .py por XSD.
+      tipos.xsd é chameleon (sem targetNamespace). Os tipos
+      compartilhados ficam em tipos.py e são referenciados
+      como 'str' nos evt_*.py. Os builders usam lxml para
+      gerar XML correto; os bindings são úteis para deserialização.
+    -->
+    <Structure>filenames</Structure>
+    <DocstringStyle>reStructuredText</DocstringStyle>
+    <RelativeImports>false</RelativeImports>
+    <CompoundFields>false</CompoundFields>
+    <PostponedAnnotations>false</PostponedAnnotations>
+    <UnnestClasses>false</UnnestClasses>
+    <!-- IgnorePatterns removido — default vazio funciona -->
+  </Output>
+
+  <Conventions>
+    <!--
+      pascalCase para nomes de classe: EvtAdmissao, InfoContrato
+    -->
+    <ClassName case="pascalCase" safePrefix="type"/>
+    <!--
+      originalCase para nomes de campo preserva os nomes do XSD:
+      cpfTrab, vrRubr, dtAdm — facilita debug e leitura do MOD.
+    -->
+    <FieldName case="originalCase" safePrefix="value"/>
+    <ModuleName case="snakeCase" safePrefix="mod"/>
+  </Conventions>
+
+  <Extensions>
+    <!--
+      Injeta CommonMixin em todas as classes geradas.
+      Adiciona to_xml(), from_xml(), from_path(), validate_xsd().
+    -->
+    <Extension
+      type="class"
+      class=".*"
+      import="esociallib.common_mixin.CommonMixin"
+      prepend="false"
+    />
+  </Extensions>
+</Config>

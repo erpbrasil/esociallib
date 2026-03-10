@@ -1,0 +1,49 @@
+CODIGO|DESCRICAO|DTINICIO|DTFIM|GRUPO|ALIQFGTS|OBRIGA|ALIQFGTSCO|CP|ECONSIGNADO
+101|Empregado - Geral, inclusive o empregado público da administração direta ou indireta contratado pela CLT|01012014||SE|8|1||2|S
+102|Empregado - Trabalhador rural por pequeno prazo da Lei 11.718/2008|01012014||SE|8|1||1|N
+103|Empregado - Aprendiz|01012014||SE|2|1||2|N
+104|Empregado - Doméstico|01012014||SE|8|1|3,2|2|S
+105|Empregado - Contrato a termo firmado nos termos da Lei 9.601/1998|01012014||SE|8|1||2|N
+106|Trabalhador temporário - Contrato nos termos da Lei 6.019/1974|01012014||SE|8|1||2|N
+107|Empregado - Contrato de trabalho Verde e Amarelo - sem acordo para antecipação mensal da multa rescisória do FGTS|01012020|31122022|SE|2|1||2|N
+108|Empregado - Contrato de trabalho Verde e Amarelo - com acordo para antecipação mensal da multa rescisória do FGTS|01012020|31122022|SE|0,4|1||2|N
+111|Empregado - Contrato de trabalho intermitente|01012014||SE|8|1||2|N
+201|Trabalhador avulso portuário|01012014||AV|8|2||2|N
+202|Trabalhador avulso não portuário|01012014||AV|8|2||2|N
+301|Servidor público titular de cargo efetivo, magistrado, ministro de Tribunal de Contas, conselheiro de Tribunal de Contas e membro do Ministério Público|01012014||SP||1||2|N
+302|Servidor público ocupante de cargo exclusivo em comissão|01012014||SP||1||2|N
+303|Exercente de mandato eletivo|01012014||SP||1||2|N
+304|Servidor público exercente de mandato eletivo, inclusive com exercício de cargo em comissão|01012014||SP||2||2|N
+305|Servidor público indicado para conselho ou órgão deliberativo, na condição de representante do governo, órgão ou entidade da administração pública|01012014||SP||2||2|N
+306|Servidor público contratado por tempo determinado, sujeito a regime administrativo especial definido em lei própria|01012014||SP||1||2|N
+307|Militar dos Estados e Distrito Federal|01012014||SP||1||2|N
+308|Conscrito|01012014|25042023|SP||2||0|N
+309|Agente público - Outros|01012014||SP||1||2|N
+310|Servidor público eventual|01012014||SP||1||2|N
+311|Ministros, juízes, procuradores, promotores ou oficiais de justiça à disposição da Justiça Eleitoral|01012014||SP||0||0|N
+312|Auxiliar local|01012014||SP||1||2|N
+313|Servidor público exercente de atividade de instrutoria, capacitação, treinamento, curso ou concurso, ou convocado para pareceres técnicos ou depoimentos|01012014||SP||0||0|N
+314|Militar das Forças Armadas|01012014||SP||1||2|N
+401|Dirigente sindical - Informação prestada pelo sindicato|01012014||CE||2||9|N
+410|Trabalhador cedido/exercício em outro órgão/juiz auxiliar - Informação prestada pelo cessionário/destino|01012014||CE||2||9|N
+501|Dirigente sindical - Segurado especial|01012014||SG||0||0|N
+701|Contribuinte individual - Autônomo em geral, exceto se enquadrado em uma das demais categorias de contribuinte individual|01012014||CI||0||3|N
+711|Contribuinte individual - Transportador autônomo de passageiros|01012014||CI||0||3|N
+712|Contribuinte individual - Transportador autônomo de carga|01012014||CI||0||3|N
+721|Contribuinte individual - Diretor não empregado, com FGTS|01012014||CI|8|2||3|S
+722|Contribuinte individual - Diretor não empregado, sem FGTS|01012014||CI||2||3|N
+723|Contribuinte individual - Empresário, sócio e membro de conselho de administração ou fiscal|01012014||CI||2||3|N
+731|Contribuinte individual - Cooperado que presta serviços por intermédio de cooperativa de trabalho|01012014||CI||2||3|N
+734|Contribuinte individual - Transportador cooperado que presta serviços por intermédio de cooperativa de trabalho|01012014||CI||2||3|N
+738|Contribuinte individual - Cooperado filiado a cooperativa de produção|01012014||CI||2||3|N
+741|Contribuinte individual - Microempreendedor individual|01012014||CI||0||3|N
+751|Contribuinte individual - Magistrado classista temporário da Justiça do Trabalho ou da Justiça Eleitoral que seja aposentado de qualquer regime previdenciário|01012014||CI||0||3|N
+761|Contribuinte individual - Associado eleito para direção de cooperativa, associação ou entidade de classe de qualquer natureza ou finalidade, bem como o síndico ou administrador eleito para exercer atividade de direção condominial, desde que recebam remuneração|01012014||CI||2||3|N
+771|Contribuinte individual - Membro de conselho tutelar, nos termos da Lei 8.069/1990|01012014||CI||2||3|N
+781|Ministro de confissão religiosa ou membro de vida consagrada, de congregação ou de ordem religiosa|01012014||CI||0||3|N
+901|Estagiário|01012014||ES||2||0|N
+902|Médico residente, residente em área profissional de saúde ou médico em curso de formação|01012014||ES||2||3|N
+903|Bolsista|01012014||ES||0||0|N
+904|Participante de curso de formação, como etapa de concurso público, sem vínculo de emprego/estatutário|01012014||ES||0||0|N
+905|Atleta não profissional em formação que receba bolsa|01012014|18072021|ES||0||3|N
+906|Beneficiário do Programa Nacional de Prestação de Serviço Civil Voluntário|28012022||ES||2||0|N

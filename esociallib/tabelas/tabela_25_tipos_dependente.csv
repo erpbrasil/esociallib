@@ -1,0 +1,21 @@
+CODIGO|DESCRICAO|DTINICIO|DTFIM
+01|Cônjuge|01012014|
+02|Companheiro(a) com o(a) qual tenha filho ou viva há mais de 5 (cinco) anos|01012014|07012018
+02|Companheiro(a) com o(a) qual tenha filho ou viva há mais de 5 (cinco) anos ou possua declaração de união estável|08012018|
+03|Filho(a) ou enteado(a) até 21 (vinte e um) anos|01012014|07012018
+03|Filho(a) ou enteado(a)|08012018|
+04|Filho(a) ou enteado(a) universitário(a) ou cursando escola técnica de 2º grau, até 24 (vinte e quatro) anos|01012014|07012018
+04|Filho(a) ou enteado(a), universitário(a) ou cursando escola técnica de 2º grau|08012018|25042023
+05|Filho(a) ou enteado(a) em qualquer idade, quando incapacitado física e/ou mentalmente para o trabalho|01012014|07012018
+06|Irmão(ã), neto(a) ou bisneto(a) sem arrimo dos pais, do(a) qual detenha a guarda judicial, até 21 (vinte e um) anos|01012014|07012018
+06|Irmão(ã), neto(a) ou bisneto(a) sem arrimo dos pais, do(a) qual detenha a guarda judicial|08012018|
+07|Irmão(ã), neto(a) ou bisneto(a) sem arrimo dos pais, com idade até 24 anos, se ainda estiver cursando estabelecimento de nível superior ou escola técnica de 2º grau, desde que tenha detido sua guarda judicial até os 21 anos|01012014|07012018
+07|Irmão(ã), neto(a) ou bisneto(a) sem arrimo dos pais, universitário(a) ou cursando escola técnica de 2° grau, do(a) qual detenha a guarda judicial|08012018|25042023
+08|Irmão(ã), neto(a) ou bisneto(a) sem arrimo dos pais, do(a) qual detenha a guarda judicial, em qualquer idade, quando incapacitado física e/ou mentalmente para o trabalho|01012014|07012018
+09|Pais, avós e bisavós|01012014|
+10|Menor pobre, até 21 (vinte e um) anos, que crie e eduque e do qual detenha a guarda judicial|01012014|07012018
+10|Menor pobre do qual detenha a guarda judicial|08012018|
+11|A pessoa absolutamente incapaz, da qual seja tutor ou curador|01012014|
+12|Ex-cônjuge que receba pensão de alimentos|01012014|07012018
+12|Ex-cônjuge|08012018|
+99|Agregado/Outros|01012014|

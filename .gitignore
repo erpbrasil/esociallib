@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# XSDs não são commitados (baixar via scripts/download_xsds.sh)
+esociallib/esocial/schemas/v_s13/*.xsd
+
+# Mas o README das schemas fica
+!esociallib/esocial/schemas/v_s13/README.md
+
+# Certificados — NUNCA commitar
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Testes
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# IDE
+.idea/
+.vscode/
+*.swp

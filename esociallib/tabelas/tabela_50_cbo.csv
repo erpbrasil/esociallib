@@ -1,0 +1,2804 @@
+Codigo|Descricao|DtInicio|DtFim
+010105|Oficial general da aeronáutica|01012014|
+010110|Oficial general do exército|01012014|
+010115|Oficial general da marinha|01012014|
+010205|Oficial da aeronáutica|01012014|
+010210|Oficial do exército|01012014|
+010215|Oficial da marinha|01012014|
+010305|Praça da aeronáutica|01012014|
+010310|Praça do exército|01012014|
+010315|Praça da marinha|01012014|
+020105|Coronel da polícia militar|01012014|
+020110|Tenente-coronel da polícia militar|01012014|
+020115|Major da polícia militar|01012014|
+020205|Capitão da polícia militar|01012014|
+020305|Primeiro tenente de polícia militar|01012014|
+020310|Segundo tenente de polícia militar|01012014|
+021105|Subtenente da policia militar|01012014|
+021110|Sargento da policia militar|01012014|
+021205|Cabo da polícia militar|01012014|
+021210|Soldado da polícia militar|01012014|
+030105|Coronel bombeiro militar|01012014|
+030110|Major bombeiro militar|01012014|
+030115|Tenente-coronel bombeiro militar|01012014|
+030205|Capitão bombeiro militar|01012014|
+030305|Tenente do corpo de bombeiros militar|01012014|
+031105|Subtenente bombeiro militar|01012014|
+031110|Sargento bombeiro militar|01012014|
+031205|Cabo bombeiro militar|01012014|
+031210|Soldado bombeiro militar|01012014|
+111105|Senador|01012014|
+111110|Deputado federal|01012014|
+111115|Deputado estadual e distrital|01012014|
+111120|Vereador|01012014|
+111205|Presidente da república|01012014|
+111210|Vice-presidente da república|01012014|
+111215|Ministro de estado|01012014|
+111220|Secretário - executivo|01012014|
+111225|Membro superior do poder executivo|01012014|
+111230|Governador de estado|01012014|
+111235|Governador do distrito federal|01012014|
+111240|Vice-governador de estado|01012014|
+111245|Vice-governador do distrito federal|01012014|
+111250|Prefeito|01012014|
+111255|Vice-prefeito|01012014|
+111305|Ministro do supremo tribunal federal|01012014|
+111310|Ministro do superior tribunal de justiça|01012014|
+111315|Ministro do superior tribunal militar|01012014|
+111320|Ministro do superior tribunal do trabalho|01012014|
+111325|Juiz de direito|01012014|
+111330|Juiz federal|01012014|
+111335|Juiz auditor federal - justiça militar|01012014|
+111340|Juiz auditor estadual - justiça militar|01012014|
+111345|Juiz do trabalho|01012014|
+111405|Dirigente do serviço público federal|01012014|
+111410|Dirigente do serviço público estadual e distrital|01012014|
+111415|Dirigente do serviço público municipal|01012014|
+111505|Especialista de políticas públicas e gestão governamental - eppgg|01012014|
+111510|Analista de planejamento e orçamento - apo|01012014|
+113005|Cacique|01012014|
+113010|Líder de comunidade caiçara|01012014|
+113015|Membro de liderança quilombola|01012014|
+114105|Dirigente de partido político|01012014|
+114205|Dirigente de entidade de trabalhadores|01012014|
+114210|Dirigente de entidade patronal|01012014|
+114305|Dirigente e administrador de organização religiosa|01012014|
+114405|Dirigente e administrador de organização da sociedade civil sem fins lucrativos|01012014|
+121005|Diretor de planejamento estratégico|01012014|
+121010|Diretor geral de empresa e organizações (exceto de interesse público)|01012014|
+122105|Diretor de produção e operações em empresa agropecuária|01012014|
+122110|Diretor de produção e operações em empresa aquícola|01012014|
+122115|Diretor de produção e operações em empresa florestal|01012014|
+122120|Diretor de produção e operações em empresa pesqueira|01012014|
+122205|Diretor de produção e operações da indústria de transformação, extração mineral e utilidades|01012014|
+122305|Diretor de operações de obras pública e civil|01012014|
+122405|Diretor de operações comerciais (comércio atacadista e varejista)|01012014|
+122505|Diretor de produção e operações de alimentação|01012014|
+122510|Diretor de produção e operações de hotel|01012014|
+122515|Diretor de produção e operações de turismo|01012014|
+122520|Turismólogo|01012014|
+122605|Diretor de operações de correios|01012014|
+122610|Diretor de operações de serviços de armazenamento|01012014|
+122615|Diretor de operações de serviços de telecomunicações|01012014|
+122620|Diretor de operações de serviços de transporte|01012014|
+122705|Diretor comercial em operações de intermediação financeira|01012014|
+122710|Diretor de produtos bancários|01012014|
+122715|Diretor de crédito rural|01012014|
+122720|Diretor de câmbio e comércio exterior|01012014|
+122725|Diretor de compliance|01012014|
+122730|Diretor de crédito (exceto crédito imobiliário)|01012014|
+122735|Diretor de crédito imobiliário|01012014|
+122740|Diretor de leasing|01012014|
+122745|Diretor de mercado de capitais|01012014|
+122750|Diretor de recuperação de créditos em operações de intermediação financeira|01012014|
+122755|Diretor de riscos de mercado|01012014|
+123105|Diretor administrativo|01012014|
+123110|Diretor administrativo e financeiro|01012014|
+123115|Diretor financeiro|01012014|
+123205|Diretor de recursos humanos|01012014|
+123210|Diretor de relações de trabalho|01012014|
+123305|Diretor comercial|01012014|
+123310|Diretor de marketing|01012014|
+123405|Diretor de suprimentos|01012014|
+123410|Diretor de suprimentos no serviço público|01012014|
+123605|Diretor de serviços de informática|01012014|16022020
+123605|Diretor de tecnologia da informação|17022020|
+123705|Diretor de pesquisa e desenvolvimento (p&d)|01012014|
+123805|Diretor de manutenção|01012014|
+131105|Diretor de serviços culturais|01012014|
+131110|Diretor de serviços sociais|01012014|
+131115|Gerente de serviços culturais|01012014|
+131120|Gerente de serviços sociais|01012014|
+131205|Diretor de serviços de saúde|01012014|
+131210|Gerente de serviços de saúde|01012014|
+131215|Tecnólogo em gestão hospitalar|01012014|
+131220|Gerontólogo|01012014|
+131225|Sanitarista|01012014|
+131305|Diretor de instituição educacional da área privada|01012014|
+131310|Diretor de instituição educacional pública|01012014|
+131315|Gerente de instituição educacional da área privada|01012014|
+131320|Gerente de serviços educacionais da área pública|01012014|
+141105|Gerente de produção e operações aquícolas|01012014|
+141110|Gerente de produção e operações florestais|01012014|
+141115|Gerente de produção e operações agropecuárias|01012014|
+141120|Gerente de produção e operações pesqueiras|01012014|
+141205|Gerente de produção e operações|01012014|
+141305|Gerente de produção e operações da construção civil e obras públicas|01012014|
+141405|Comerciante atacadista|01012014|
+141410|Comerciante varejista|01012014|
+141415|Gerente de loja e supermercado|01012014|
+141420|Gerente de operações de serviços de assistência técnica|01012014|
+141505|Gerente de hotel|01012014|
+141510|Gerente de restaurante|01012014|
+141515|Gerente de bar|01012014|
+141520|Gerente de pensão|01012014|
+141525|Gerente de turismo|01012014|
+141605|Gerente de operações de transportes|01012014|
+141610|Gerente de operações de correios e telecomunicações|01012014|
+141615|Gerente de logística (armazenagem e distribuição)|01012014|
+141705|Gerente de produtos bancários|01012014|
+141710|Gerente de agência|01012014|
+141715|Gerente de câmbio e comércio exterior|01012014|
+141720|Gerente de crédito e cobrança|01012014|
+141725|Gerente de crédito imobiliário|01012014|
+141730|Gerente de crédito rural|01012014|
+141735|Gerente de recuperação de crédito|01012014|
+141805|Gerente de administração em aeroportos|01022020|
+141810|Gerente de empresa aérea e empresa de serviços auxiliares ao transporte aéreo (esata) em aeroportos|01022020|
+141815|Gerente de operações em aeroportos|01032020|
+141820|Gerente de operações de cargas|01032020|
+141825|Gerente de segurança da aviação civil|01032020|
+141830|Gerente de segurança operacional (aviação civil)|01032020|
+142105|Gerente administrativo|01012014|
+142110|Gerente de riscos|01012014|
+142115|Gerente financeiro|01012014|
+142120|Tecnólogo em gestão administrativo- financeira|01012014|
+142125|Analista de compliance|01022021|
+142130|Analista de riscos|01022021|
+142135|Oficial de proteção de dados pessoais (dpo)|14032022|
+142140|Gerente de facility management|20032023|
+142205|Gerente de recursos humanos|01012014|
+142210|Gerente de departamento pessoal|01012014|
+142305|Gerente comercial|01012014|
+142310|Gerente de comunicação|01012014|
+142315|Gerente de marketing|01012014|
+142320|Gerente de vendas|01012014|
+142325|Relações públicas|01012014|
+142330|Analista de negócios|01012014|
+142335|Analista de pesquisa de mercado|01012014|
+142340|Ouvidor|01012014|
+142345|Profissional de relações institucionais e governamentais|01022018|
+142350|Profissonal de relações internacionais|01022020|
+142355|Analista de e-commerce|14032022|
+142360|Analista de sucesso do cliente - customer success|01052024|
+142365|Analista de experiência do cliente - customer experience|01052024|
+142405|Gerente de compras|01012014|
+142410|Gerente de suprimentos|01012014|
+142415|Gerente de almoxarifado|01012014|
+142505|Gerente de rede|01012014|16022020
+142505|Gerente de infraestrutura de tecnologia da informação|17022020|
+142510|Gerente de desenvolvimento de sistemas|01012014|
+142515|Gerente de produção de tecnologia da informação|01012014|16022020
+142515|Gerente de operação de tecnologia da informação|17022020|
+142520|Gerente de projetos de tecnologia da informação|01012014|
+142525|Gerente de segurança de tecnologia da informação|01012014|16022020
+142525|Gerente de segurança da informação|17022020|
+142530|Gerente de suporte técnico de tecnologia da informação|01012014|
+142535|Tecnólogo em gestão da tecnologia da informação|01012014|
+142605|Gerente de pesquisa e desenvolvimento (p&d)|01012014|
+142610|Especialista em desenvolvimento de cigarros|01012014|
+142705|Gerente de projetos e serviços de manutenção|01012014|
+142710|Tecnólogo em sistemas biomédicos|01012014|
+201105|Bioengenheiro|01012014|
+201110|Biotecnologista|01012014|
+201115|Geneticista|01012014|
+201205|Pesquisador em metrologia|01012014|
+201210|Especialista em calibrações metrológicas|01012014|
+201215|Especialista em ensaios metrológicos|01012014|
+201220|Especialista em instrumentação metrológica|01012014|
+201225|Especialista em materiais de referência metrológica|01012014|
+202105|Engenheiro mecatrônico|01012014|
+202110|Engenheiro de controle e automação|01012014|
+202115|Tecnólogo em mecatrônica|01012014|
+202120|Tecnólogo em automação industrial|01012014|
+203005|Pesquisador em biologia ambiental|01012014|
+203010|Pesquisador em biologia animal|01012014|
+203015|Pesquisador em biologia de microorganismos e parasitas|01012014|
+203020|Pesquisador em biologia humana|01012014|
+203025|Pesquisador em biologia vegetal|01012014|
+203105|Pesquisador em ciências da computação e informática|01012014|
+203110|Pesquisador em ciências da terra e meio ambiente|01012014|
+203115|Pesquisador em física|01012014|
+203120|Pesquisador em matemática|01012014|
+203125|Pesquisador em química|01012014|
+203205|Pesquisador de engenharia civil|01012014|
+203210|Pesquisador de engenharia e tecnologia (outras áreas da engenharia)|01012014|
+203215|Pesquisador de engenharia elétrica e eletrônica|01012014|
+203220|Pesquisador de engenharia mecânica|01012014|
+203225|Pesquisador de engenharia metalúrgica, de minas e de materiais|01012014|
+203230|Pesquisador de engenharia química|01012014|
+203305|Pesquisador de clínica médica|01012014|
+203310|Pesquisador de medicina básica|01012014|
+203315|Pesquisador em medicina veterinária|01012014|
+203320|Pesquisador em saúde coletiva|01012014|
+203405|Pesquisador em ciências agronômicas|01012014|
+203410|Pesquisador em ciências da pesca e aquicultura|01012014|
+203415|Pesquisador em ciências da zootecnia|01012014|
+203420|Pesquisador em ciências florestais|01012014|
+203505|Pesquisador em ciências sociais e humanas|01012014|
+203510|Pesquisador em economia|01012014|
+203515|Pesquisador em ciências da educação|01012014|
+203520|Pesquisador em história|01012014|
+203525|Pesquisador em psicologia|01012014|
+204105|Perito criminal|01012014|
+204110|Perito judicial|14032022|
+211105|Atuário|01012014|
+211110|Especialista em pesquisa operacional|01012014|
+211115|Matemático|01012014|
+211120|Matemático aplicado|01012014|
+211205|Estatístico|01012014|
+211210|Estatístico (estatística aplicada)|01012014|
+211215|Estatístico teórico|01012014|
+211220|Cientista de dados|20032023|
+212205|Engenheiro de aplicativos em computação|01012014|
+212210|Engenheiro de equipamentos em computação|01012014|
+212215|Engenheiros de sistemas operacionais em computação|01012014|
+212305|Administrador de banco de dados|01012014|
+212310|Administrador de redes|01012014|
+212315|Administrador de sistemas operacionais|01012014|
+212320|Administrador em segurança da informação|01012014|
+212405|Analista de desenvolvimento de sistemas|01012014|
+212410|Analista de redes e de comunicação de dados|01012014|
+212415|Analista de sistemas de automação|01012014|
+212420|Analista de suporte computacional|01012014|
+212425|Arquiteto de soluções de tecnologia da informação|01022020|
+212430|Analista de testes de tecnologia da informação|01022020|
+213105|Físico|01012014|
+213110|Físico (acústica)|01012014|
+213115|Físico (atômica e molecular)|01012014|
+213120|Físico (cosmologia)|01012014|
+213125|Físico (estatística e matemática)|01012014|
+213130|Físico (fluidos)|01012014|
+213135|Físico (instrumentação)|01012014|
+213140|Físico (matéria condensada)|01012014|
+213145|Físico (materiais)|01012014|
+213150|Físico (medicina)|01012014|
+213155|Físico (nuclear e reatores)|01012014|
+213160|Físico (óptica)|01012014|
+213165|Físico (partículas e campos)|01012014|
+213170|Físico (plasma)|01012014|
+213175|Físico (térmica)|01012014|
+213205|Químico|01012014|
+213210|Químico industrial|01012014|
+213215|Tecnólogo em processos químicos|01012014|
+213305|Astrônomo|01012014|
+213310|Geofísico espacial|01012014|
+213315|Meteorologista|01012014|
+213405|Geólogo|01012014|
+213410|Geólogo de engenharia|01012014|
+213415|Geofísico|01012014|
+213420|Geoquímico|01012014|
+213425|Hidrogeólogo|01012014|
+213430|Paleontólogo|01012014|
+213435|Petrógrafo|01012014|
+213440|Oceanógrafo|01012014|
+214005|Engenheiro ambiental|01012014|
+214010|Tecnólogo em meio ambiente|01012014|
+214105|Arquiteto de edificações|01012014|
+214110|Arquiteto de interiores|01012014|
+214115|Arquiteto de patrimônio|01012014|
+214120|Arquiteto paisagista|01012014|
+214125|Arquiteto urbanista|01012014|
+214130|Urbanista|01012014|
+214205|Engenheiro civil|01012014|
+214210|Engenheiro civil (aeroportos)|01012014|
+214215|Engenheiro civil (edificações)|01012014|
+214220|Engenheiro civil (estruturas metálicas)|01012014|
+214225|Engenheiro civil (ferrovias e metrovias)|01012014|
+214230|Engenheiro civil (geotécnia)|01012014|
+214235|Engenheiro civil (hidrologia)|01012014|
+214240|Engenheiro civil (hidráulica)|01012014|
+214245|Engenheiro civil (pontes e viadutos)|01012014|
+214250|Engenheiro civil (portos e vias navegáveis)|01012014|
+214255|Engenheiro civil (rodovias)|01012014|
+214260|Engenheiro civil (saneamento)|01012014|
+214265|Engenheiro civil (túneis)|01012014|
+214270|Engenheiro civil (transportes e trânsito)|01012014|
+214280|Tecnólogo em construção civil|01012014|
+214305|Engenheiro eletricista|01012014|
+214310|Engenheiro eletrônico|01012014|
+214315|Engenheiro eletricista de manutenção|01012014|
+214320|Engenheiro eletricista de projetos|01012014|
+214325|Engenheiro eletrônico de manutenção|01012014|
+214330|Engenheiro eletrônico de projetos|01012014|
+214335|Engenheiro de manutenção de telecomunicações|01012014|
+214340|Engenheiro de telecomunicações|01012014|
+214345|Engenheiro projetista de telecomunicações|01012014|
+214350|Engenheiro de redes de comunicação|01012014|
+214360|Tecnólogo em eletricidade|01012014|
+214365|Tecnólogo em eletrônica|01012014|
+214370|Tecnólogo em telecomunicações|01012014|
+214375|Engenheiro de energia|14032022|
+214380|Engenheiro biomédico|14032022|
+214405|Engenheiro mecânico|01012014|
+214410|Engenheiro mecânico automotivo|01012014|
+214415|Engenheiro mecânico (energia nuclear)|01012014|
+214420|Engenheiro mecânico industrial|01012014|
+214425|Engenheiro aeronáutico|01012014|
+214430|Engenheiro naval|01012014|
+214435|Tecnólogo em fabricação mecânica|01012014|
+214505|Engenheiro químico|01012014|
+214510|Engenheiro químico (indústria química)|01012014|
+214515|Engenheiro químico (mineração, metalurgia, siderurgia, cimenteira e cerâmica)|01012014|
+214520|Engenheiro químico (papel e celulose)|01012014|
+214525|Engenheiro químico (petróleo e borracha)|01012014|
+214530|Engenheiro químico (utilidades e meio ambiente)|01012014|
+214535|Tecnólogo em produção sulcroalcooleira|01012014|
+214540|Engenheiro têxtil|14032022|
+214605|Engenheiro de materiais|01012014|
+214610|Engenheiro metalurgista|01012014|
+214615|Tecnólogo em metalurgia|01012014|
+214705|Engenheiro de minas|01012014|
+214710|Engenheiro de minas (beneficiamento)|01012014|
+214715|Engenheiro de minas (lavra a céu aberto)|01012014|
+214720|Engenheiro de minas (lavra subterrânea)|01012014|
+214725|Engenheiro de minas (pesquisa mineral)|01012014|
+214730|Engenheiro de minas (planejamento)|01012014|
+214735|Engenheiro de minas (processo)|01012014|
+214740|Engenheiro de minas (projeto)|01012014|
+214745|Tecnólogo em petróleo e gás|01012014|
+214750|Tecnólogo em rochas ornamentais|01012014|
+214805|Engenheiro agrimensor|01012014|
+214810|Engenheiro cartógrafo|01012014|
+214905|Engenheiro de produção|01012014|
+214910|Engenheiro de controle de qualidade|01012014|
+214915|Engenheiro de segurança do trabalho|01012014|
+214920|Engenheiro de riscos|01012014|
+214925|Engenheiro de tempos e movimentos|01012014|
+214930|Tecnólogo em produção industrial|01012014|
+214935|Tecnólogo em segurança do trabalho|01012014|
+214940|Higienista ocupacional|01012014|
+214945|Engenheiro de logistica|01022018|
+214950|Ergonomista|01052024|
+215105|Agente de manobra e docagem|01012014|
+215110|Capitão de manobra da marinha mercante|01012014|
+215115|Comandante da marinha mercante|01012014|
+215120|Coordenador de operações de combate à poluição no meio aquaviário|01012014|
+215125|Imediato da marinha mercante|01012014|
+215130|Inspetor de terminal|01012014|
+215135|Inspetor naval|01012014|
+215140|Oficial de quarto de navegação da marinha mercante|01012014|
+215145|Prático de portos da marinha mercante|01012014|
+215150|Vistoriador naval|01012014|
+215205|Oficial superior de máquinas da marinha mercante|01012014|
+215210|Primeiro oficial de máquinas da marinha mercante|01012014|
+215215|Segundo oficial de máquinas da marinha mercante|01012014|
+215220|Superintendente técnico no transporte aquaviário|01012014|
+215305|Piloto de aeronaves|01012014|
+215310|Piloto de ensaios em vôo|01012014|
+215315|Instrutor de vôo|01012014|
+221105|Biólogo|01012014|
+221110|Biólogo em meio ambiente e biodiversidade|01052024|
+221115|Biólogo em saúde|01052024|
+221205|Biomédico|01012014|
+222105|Engenheiro agrícola|01012014|
+222110|Engenheiro agrônomo|01012014|
+222115|Engenheiro de pesca|01012014|
+222120|Engenheiro florestal|01012014|
+222125|Tecnólogo em agronegócio|14032022|
+222130|Agroecólogo|14032025|
+222135|Tecnólogo em agroecologia|14032025|
+222205|Engenheiro de alimentos|01012014|
+222215|Tecnólogo em alimentos|01012014|
+223204|Cirurgião dentista - auditor|01012014|
+223208|Cirurgião dentista - clínico geral|01012014|
+223212|Cirurgião dentista - endodontista|01012014|
+223216|Cirurgião dentista - epidemiologista|01012014|
+223220|Cirurgião dentista - estomatologista|01012014|
+223224|Cirurgião dentista - implantodontista|01012014|
+223228|Cirurgião dentista - odontogeriatra|01012014|
+223232|Cirurgião dentista - odontologista legal|01012014|
+223236|Cirurgião dentista - odontopediatra|01012014|
+223240|Cirurgião dentista - ortopedista e ortodontista|01012014|
+223244|Cirurgião dentista - patologista bucal|01012014|
+223248|Cirurgião dentista - periodontista|01012014|
+223252|Cirurgião dentista - protesiólogo bucomaxilofacial|01012014|
+223256|Cirurgião dentista - protesista|01012014|
+223260|Cirurgião dentista - radiologista|01012014|
+223264|Cirurgião dentista - reabilitador oral|01012014|
+223268|Cirurgião dentista - traumatologista bucomaxilofacial|01012014|
+223272|Cirurgião dentista de saúde coletiva|01012014|
+223276|Cirurgião dentista - odontologia do trabalho|01012014|
+223280|Cirurgião dentista - dentística|01012014|
+223284|Cirurgião dentista - disfunção temporomandibular e dor orofacial|01012014|
+223288|Cirurgião dentista - odontologia para pacientes com necessidades especiais|01012014|
+223293|Cirurgião-dentista da estratégia de saúde da família|01012014|
+223305|Médico veterinário|01012014|
+223310|Zootecnista|01012014|
+223405|Farmacêutico|01012014|
+223415|Farmacêutico analista clínico|01012014|
+223420|Farmacêutico de alimentos|01012014|
+223425|Farmacêutico práticas integrativas e complementares|01012014|
+223430|Farmacêutico em saúde pública|01012014|
+223435|Farmacêutico industrial|01012014|
+223440|Farmacêutico toxicologista|01012014|
+223445|Farmacêutico hospitalar e clínico|01012014|
+223505|Enfermeiro|01012014|
+223510|Enfermeiro auditor|01012014|
+223515|Enfermeiro de bordo|01012014|
+223520|Enfermeiro de centro cirúrgico|01012014|
+223525|Enfermeiro de terapia intensiva|01012014|
+223530|Enfermeiro do trabalho|01012014|
+223535|Enfermeiro nefrologista|01012014|
+223540|Enfermeiro neonatologista|01012014|
+223545|Enfermeiro obstétrico|01012014|
+223550|Enfermeiro psiquiátrico|01012014|
+223555|Enfermeiro puericultor e pediátrico|01012014|
+223560|Enfermeiro sanitarista|01012014|
+223565|Enfermeiro da estratégia de saúde da família|01012014|
+223570|Perfusionista|01012014|
+223575|Obstetriz|14032022|
+223580|Enfermeiro estomaterapeuta|20032023|
+223585|Enfermeiro forense|20032023|
+223605|Fisioterapeuta geral|01012014|
+223625|Fisioterapeuta respiratória|01012014|
+223630|Fisioterapeuta neurofuncional|01012014|
+223635|Fisioterapeuta traumato-ortopédica funcional|01012014|
+223640|Fisioterapeuta osteopata|01012014|
+223645|Fisioterapeuta quiropraxista|01012014|
+223650|Fisioterapeuta acupunturista|01012014|
+223655|Fisioterapeuta esportivo|01012014|
+223660|Fisioterapeuta do trabalho|01012014|
+223705|Dietista|01012014|
+223710|Nutricionista|01012014|
+223810|Fonoaudiólogo geral|01012014|
+223815|Fonoaudiólogo educacional|01012014|
+223820|Fonoaudiólogo em audiologia|01012014|
+223825|Fonoaudiólogo em disfagia|01012014|
+223830|Fonoaudiólogo em linguagem|01012014|
+223835|Fonoaudiólogo em motricidade orofacial|01012014|
+223840|Fonoaudiólogo em saúde coletiva|01012014|
+223845|Fonoaudiólogo em voz|01012014|
+223905|Terapeuta ocupacional|01012014|
+223910|Ortoptista|01012014|
+223915|Psicomotricista|01072019|
+224105|Avaliador físico|01012014|
+224110|Ludomotricista|01012014|
+224115|Preparador de atleta|01012014|
+224120|Preparador físico|01012014|
+224125|Técnico de desporto individual e coletivo (exceto futebol)|01012014|
+224130|Técnico de laboratório e fiscalização desportiva|01012014|
+224135|Treinador profissional de futebol|01012014|
+224140|Profissional de educação física na saúde|01022020|
+225103|Médico infectologista|01012014|
+225105|Médico acupunturista|01012014|
+225106|Médico legista|01012014|
+225109|Médico nefrologista|01012014|
+225110|Médico alergista e imunologista|01012014|
+225112|Médico neurologista|01012014|
+225115|Médico angiologista|01012014|
+225118|Médico nutrologista|01012014|
+225120|Médico cardiologista|01012014|
+225121|Médico oncologista clínico|01012014|
+225122|Médico cancerologista pediátrico|01012014|
+225124|Médico pediatra|01012014|
+225125|Médico clínico|01012014|
+225127|Médico pneumologista|01012014|
+225130|Médico de família e comunidade|01012014|
+225133|Médico psiquiatra|01012014|
+225135|Médico dermatologista|01012014|
+225136|Médico reumatologista|01012014|
+225139|Médico sanitarista|01012014|
+225140|Médico do trabalho|01012014|
+225142|Médico da estratégia de saúde da família|01012014|
+225145|Médico em medicina de tráfego|01012014|
+225148|Médico anatomopatologista|01012014|
+225150|Médico em medicina intensiva|01012014|
+225151|Médico anestesiologista|01012014|
+225154|Médico antroposófico|01012014|
+225155|Médico endocrinologista e metabologista|01012014|
+225160|Médico fisiatra|01012014|
+225165|Médico gastroenterologista|01012014|
+225170|Médico generalista|01012014|
+225175|Médico geneticista|01012014|
+225180|Médico geriatra|01012014|
+225185|Médico hematologista|01012014|
+225195|Médico homeopata|01012014|
+225203|Médico em cirurgia vascular|01012014|
+225210|Médico cirurgião cardiovascular|01012014|
+225215|Médico cirurgião de cabeça e pescoço|01012014|
+225220|Médico cirurgião do aparelho digestivo|01012014|
+225225|Médico cirurgião geral|01012014|
+225230|Médico cirurgião pediátrico|01012014|
+225235|Médico cirurgião plástico|01012014|
+225240|Médico cirurgião torácico|01012014|
+225250|Médico ginecologista e obstetra|01012014|
+225255|Médico mastologista|01012014|
+225260|Médico neurocirurgião|01012014|
+225265|Médico oftalmologista|01012014|
+225270|Médico ortopedista e traumatologista|01012014|
+225275|Médico otorrinolaringologista|01012014|
+225280|Médico coloproctologista|01012014|
+225285|Médico urologista|01012014|
+225290|Médico cancerologista cirurgíco|01012014|
+225295|Médico cirurgião da mão|01012014|
+225305|Médico citopatologista|01012014|
+225310|Médico em endoscopia|01012014|
+225315|Médico em medicina nuclear|01012014|
+225320|Médico em radiologia e diagnóstico por imagem|01012014|
+225325|Médico patologista|01012014|
+225330|Médico radioterapeuta|01012014|
+225335|Médico patologista clínico / medicina laboratorial|01012014|
+225340|Médico hemoterapeuta|01012014|
+225345|Médico hiperbarista|01012014|
+225350|Médico neurofisiologista clínico|01012014|
+225355|Médico radiologista intervencionista|01072019|
+226105|Quiropraxista|01012014|
+226110|Osteopata|01012014|
+226305|Musicoterapeuta|01012014|
+226310|Arteterapeuta|01012014|
+226315|Equoterapeuta|01012014|
+226320|Naturólogo|01012014|
+231105|Professor de nível superior na educação infantil (quatro a seis anos)|01012014|
+231110|Professor de nível superior na educação infantil (zero a três anos)|01012014|
+231205|Professor da educação de jovens e adultos do ensino fundamental (primeira a quarta série)|01012014|
+231210|Professor de nível superior do ensino fundamental (primeira a quarta série)|01012014|
+231305|Professor de ciências exatas e naturais do ensino fundamental|01012014|
+231310|Professor de educação artística do ensino fundamental|01012014|
+231315|Professor de educação física do ensino fundamental|01012014|
+231320|Professor de geografia do ensino fundamental|01012014|
+231325|Professor de história do ensino fundamental|01012014|
+231330|Professor de língua estrangeira moderna do ensino fundamental|01012014|
+231335|Professor de língua portuguesa do ensino fundamental|01012014|
+231340|Professor de matemática do ensino fundamental|01012014|
+232105|Professor de artes no ensino médio|01012014|
+232110|Professor de biologia no ensino médio|01012014|
+232115|Professor de disciplinas pedagógicas no ensino médio|01012014|
+232120|Professor de educação física no ensino médio|01012014|
+232125|Professor de filosofia no ensino médio|01012014|
+232130|Professor de física no ensino médio|01012014|
+232135|Professor de geografia no ensino médio|01012014|
+232140|Professor de história no ensino médio|01012014|
+232145|Professor de língua e literatura brasileira no ensino médio|01012014|
+232150|Professor de língua estrangeira moderna no ensino médio|01012014|
+232155|Professor de matemática no ensino médio|01012014|
+232160|Professor de psicologia no ensino médio|01012014|
+232165|Professor de química no ensino médio|01012014|
+232170|Professor de sociologia no ensino médio|01012014|
+233105|Professor da área de meio ambiente|01012014|
+233110|Professor de desenho técnico|01012014|
+233115|Professor de técnicas agrícolas|01012014|
+233120|Professor de técnicas comerciais e secretariais|01012014|
+233125|Professor de técnicas de enfermagem|01012014|
+233130|Professor de técnicas industriais|01012014|
+233135|Professor de tecnologia e cálculo técnico|01012014|
+233205|Instrutor de aprendizagem e treinamento agropecuário|01012014|
+233210|Instrutor de aprendizagem e treinamento industrial|01012014|
+233215|Instrutor de aprendizagem e treinamento comercial|01012014|
+233220|Professor instrutor de ensino e aprendizagem agroflorestal|01012014|
+233225|Professor instrutor de ensino e aprendizagem em serviços|01012014|
+234105|Professor de matemática aplicada (no ensino superior)|01012014|
+234110|Professor de matemática pura (no ensino superior)|01012014|
+234115|Professor de estatística (no ensino superior)|01012014|
+234120|Professor de computação (no ensino superior)|01012014|
+234125|Professor de pesquisa operacional (no ensino superior)|01012014|
+234205|Professor de física (ensino superior)|01012014|
+234210|Professor de química (ensino superior)|01012014|
+234215|Professor de astronomia (ensino superior)|01012014|
+234305|Professor de arquitetura|01012014|
+234310|Professor de engenharia|01012014|
+234315|Professor de geofísica|01012014|
+234320|Professor de geologia|01012014|
+234405|Professor de ciências biológicas do ensino superior|01012014|
+234410|Professor de educação física no ensino superior|01012014|
+234415|Professor de enfermagem do ensino superior|01012014|
+234420|Professor de farmácia e bioquímica|01012014|
+234425|Professor de fisioterapia|01012014|
+234430|Professor de fonoaudiologia|01012014|
+234435|Professor de medicina|01012014|
+234440|Professor de medicina veterinária|01012014|
+234445|Professor de nutrição|01012014|
+234450|Professor de odontologia|01012014|
+234455|Professor de terapia ocupacional|01012014|
+234460|Professor de zootecnia do ensino superior|01012014|
+234505|Professor de ensino superior na área de didática|01012014|
+234510|Professor de ensino superior na área de orientação educacional|01012014|
+234515|Professor de ensino superior na área de pesquisa educacional|01012014|
+234520|Professor de ensino superior na área de prática de ensino|01012014|
+234604|Professor de língua alemã|01012014|
+234608|Professor de língua italiana|01012014|
+234612|Professor de língua francesa|01012014|
+234616|Professor de língua inglesa|01012014|
+234620|Professor de língua espanhola|01012014|
+234624|Professor de língua portuguesa|01012014|
+234628|Professor de literatura brasileira|01012014|
+234632|Professor de literatura portuguesa|01012014|
+234636|Professor de literatura alemã|01012014|
+234640|Professor de literatura comparada|01012014|
+234644|Professor de literatura espanhola|01012014|
+234648|Professor de literatura francesa|01012014|
+234652|Professor de literatura inglesa|01012014|
+234656|Professor de literatura italiana|01012014|
+234660|Professor de literatura de línguas estrangeiras modernas|01012014|
+234664|Professor de outras línguas e literaturas|01012014|
+234668|Professor de línguas estrangeiras modernas|01012014|
+234672|Professor de linguística e linguística aplicada|01012014|
+234676|Professor de filologia e crítica textual|01012014|
+234680|Professor de semiótica|01012014|
+234684|Professor de teoria da literatura|01012014|
+234689|Professor de língua brasileira de sinais (libras)|20032023|
+234705|Professor de antropologia do ensino superior|01012014|
+234710|Professor de arquivologia do ensino superior|01012014|
+234715|Professor de biblioteconomia do ensino superior|01012014|
+234720|Professor de ciência política do ensino superior|01012014|
+234725|Professor de comunicação social do ensino superior|01012014|
+234730|Professor de direito do ensino superior|01012014|
+234735|Professor de filosofia do ensino superior|01012014|
+234740|Professor de geografia do ensino superior|01012014|
+234745|Professor de história do ensino superior|01012014|
+234750|Professor de jornalismo|01012014|
+234755|Professor de museologia do ensino superior|01012014|
+234760|Professor de psicologia do ensino superior|01012014|
+234765|Professor de serviço social do ensino superior|01012014|
+234770|Professor de sociologia do ensino superior|01012014|
+234805|Professor de economia|01012014|
+234810|Professor de administração|01012014|
+234815|Professor de contabilidade|01012014|
+234905|Professor de artes do espetáculo no ensino superior|01012014|
+234910|Professor de artes visuais no ensino superior (artes plásticas e multimídia)|01012014|
+234915|Professor de música no ensino superior|01012014|
+239205|Professor de alunos com deficiência auditiva e surdos|01012014|
+239210|Professor de alunos com deficiência física|01012014|
+239215|Professor de alunos com deficiência mental|01012014|
+239220|Professor de alunos com deficiência múltipla|01012014|
+239225|Professor de alunos com deficiência visual|01012014|
+239405|Coordenador pedagógico|01012014|
+239410|Orientador educacional|01012014|
+239415|Pedagogo|01012014|
+239420|Professor de técnicas e recursos audiovisuais|01012014|
+239425|Psicopedagogo|01012014|
+239430|Supervisor de ensino|01012014|
+239435|Designer educacional|01012014|
+239440|Neuropsicopedagogo clinico|01072019|
+239445|Neuropsicopedagogo institucional|01072019|
+241005|Advogado|01012014|
+241010|Advogado de empresa|01012014|
+241015|Advogado (direito civil)|01012014|
+241020|Advogado (direito público)|01012014|
+241025|Advogado (direito penal)|01012014|
+241030|Advogado (áreas especiais)|01012014|
+241035|Advogado (direito do trabalho)|01012014|
+241040|Consultor jurídico|01012014|
+241205|Advogado da união|01012014|
+241210|Procurador autárquico|01012014|
+241215|Procurador da fazenda nacional|01012014|
+241220|Procurador do estado|01012014|
+241225|Procurador do município|01012014|
+241230|Procurador federal|01012014|
+241235|Procurador fundacional|01012014|
+241305|Oficial de registro de contratos marítimos|01012014|
+241310|Oficial do registro civil de pessoas jurídicas|01012014|
+241315|Oficial do registro civil de pessoas naturais|01012014|
+241320|Oficial do registro de distribuições|01012014|
+241325|Oficial do registro de imóveis|01012014|
+241330|Oficial do registro de títulos e documentos|01012014|
+241335|Tabelião de notas|01012014|
+241340|Tabelião de protestos|01012014|
+241405|Conselheiro julgador|01022021|
+242205|Procurador da república|01012014|
+242210|Procurador de justiça|01012014|
+242215|Procurador de justiça militar|01012014|
+242220|Procurador do trabalho|01012014|
+242225|Procurador regional da república|01012014|
+242230|Procurador regional do trabalho|01012014|
+242235|Promotor de justiça|01012014|
+242240|Subprocurador de justiça militar|01012014|
+242245|Subprocurador-geral da república|01012014|
+242250|Subprocurador-geral do trabalho|01012014|
+242305|Delegado de polícia|01012014|
+242405|Defensor público|01012014|
+242410|Procurador da assistência judiciária|01012014|
+242905|Oficial de inteligência|01012014|
+242910|Oficial técnico de inteligência|01012014|
+251105|Antropólogo|01012014|
+251110|Arqueólogo|01012014|
+251115|Cientista político|01012014|
+251120|Sociólogo|01012014|
+251205|Economista|01012014|
+251210|Economista agroindustrial|01012014|
+251215|Economista financeiro|01012014|
+251220|Economista industrial|01012014|
+251225|Economista do setor público|01012014|
+251230|Economista ambiental|01012014|
+251235|Economista regional e urbano|01012014|
+251305|Geógrafo|01012014|
+251405|Filósofo|01012014|
+251505|Psicólogo educacional|01012014|
+251510|Psicólogo clínico|01012014|
+251515|Psicólogo do esporte|01012014|
+251520|Psicólogo hospitalar|01012014|
+251525|Psicólogo jurídico|01012014|
+251530|Psicólogo social|01012014|
+251535|Psicólogo do trânsito|01012014|
+251540|Psicólogo do trabalho|01012014|
+251545|Neuropsicólogo|01012014|
+251550|Psicanalista|01012014|
+251555|Psicólogo acupunturista|01012014|
+251605|Assistente social|01012014|
+251610|Economista doméstico|01012014|
+252105|Administrador|01012014|
+252205|Auditor (contadores e afins)|01012014|
+252210|Contador|01012014|
+252215|Perito contábil|01012014|
+252305|Secretária(o) executiva(o)|01012014|
+252310|Secretário bilíngue|01012014|
+252315|Secretária trilíngue|01012014|
+252320|Tecnólogo em secretariado escolar|01012014|
+252405|Analista de recursos humanos|01012014|
+252505|Administrador de fundos e carteiras de investimento|01012014|
+252510|Analista de câmbio|01012014|
+252515|Analista de cobrança (instituições financeiras)|01012014|
+252525|Analista de crédito (instituições financeiras)|01012014|
+252530|Analista de crédito rural|01012014|
+252535|Analista de leasing|01012014|
+252540|Analista de produtos bancários|01012014|
+252545|Analista financeiro (instituições financeiras)|01012014|
+252550|Profissional de relações com investidores|01012014|
+252605|Gestor em segurança|01012014|
+252705|Analista de pcp (programação e controle da produção)|01012014|
+252710|Analista de planejamento de materias|01012014|
+252715|Analista de logistica|01012014|
+252720|Analista de projetos logisticos|01012014|
+252725|Analista de gestão de estoque|01012014|
+253110|Redator de publicidade|01012014|
+253115|Publicitário|01012014|
+253120|Diretor de mídia (publicidade)|01012014|
+253125|Diretor de arte (publicidade)|01012014|
+253130|Diretor de criação|01012014|
+253135|Diretor de contas (publicidade)|01012014|
+253140|Agenciador de propaganda|01012014|
+253205|Gerente de captação (fundos e investimentos institucionais)|01012014|
+253210|Gerente de clientes especiais (private)|01012014|
+253215|Gerente de contas - pessoa física e jurídica|01012014|
+253220|Gerente de grandes contas (corporate)|01012014|
+253225|Operador de negócios|01012014|
+253305|Corretor de valores, ativos financeiros, mercadorias e derivativos|01012014|
+253405|Analista de mídias sociais|01022021|
+253410|Influenciador digital|01022021|
+254105|Auditor-fiscal da receita federal|01012014|
+254110|Técnico da receita federal|01012014|
+254205|Auditor-fiscal da previdência social|01012014|
+254305|Auditor-fiscal do trabalho|01012014|
+254310|Agente de higiene e segurança|01012014|
+254405|Fiscal de tributos estadual|01012014|
+254410|Fiscal de tributos municipal|01012014|
+254415|Técnico de tributos estadual|01012014|
+254420|Técnico de tributos municipal|01012014|
+254505|Fiscal de atividades urbanas|01012014|
+261105|Arquivista pesquisador (jornalismo)|01012014|
+261110|Assessor de imprensa|01012014|
+261115|Diretor de redação|01012014|
+261120|Editor|01012014|
+261125|Jornalista|01012014|
+261130|Produtor de texto|01012014|
+261135|Repórter (exclusive rádio e televisão)|01012014|
+261140|Revisor de texto|01012014|
+261205|Bibliotecário|01012014|
+261210|Documentalista|01012014|
+261215|Analista de informações (pesquisador de informações de rede)|01012014|
+261305|Arquivista|01012014|
+261310|Museólogo|01012014|
+261405|Filólogo|01012014|
+261410|Intérprete|01012014|
+261415|Linguista|01012014|
+261420|Tradutor|01012014|
+261425|Intérprete de língua de sinais|01012014|
+261430|Audiodescritor|01012014|
+261505|Autor-roteirista|01012014|
+261510|Crítico|01012014|
+261515|Escritor de ficção|01012014|
+261520|Escritor de não ficção|01012014|
+261525|Poeta|01012014|
+261530|Redator de textos técnicos|01012014|
+261605|Editor de jornal|01012014|
+261610|Editor de livro|01012014|
+261615|Editor de mídia eletrônica|01012014|
+261620|Editor de revista|01012014|
+261625|Editor de revista científica|01012014|
+261705|Âncora de rádio e televisão|01012014|31012018
+261705|Âncora de mídias audiovisuais|01022018|
+261710|Comentarista de rádio e televisão|01012014|31012018
+261710|Comentarista de mídias audiovisuais|01022018|
+261715|Locutor de rádio e televisão|01012014|31012018
+261715|Locutor de mídias audiovisuais|01022018|
+261720|Locutor publicitário de rádio e televisão|01012014|30042018
+261725|Narrador em programas de rádio e televisão|01012014|30042018
+261730|Repórter de rádio e televisão|01012014|31012018
+261730|Repórter de mídias audiovisuais|01022018|
+261805|Fotógrafo|01012014|
+261810|Fotógrafo publicitário|01012014|
+261815|Fotógrafo retratista|01012014|
+261820|Repórter fotográfico|01012014|
+261905|Continuista|01022018|
+261910|Assistente de direção (tv)|01022018|
+262105|Produtor cultural|01012014|
+262110|Produtor cinematográfico|01012014|
+262115|Produtor de rádio|01012014|
+262120|Produtor de teatro|01012014|
+262125|Produtor de televisão|01012014|
+262130|Tecnólogo em produção fonográfica|01012014|
+262135|Tecnólogo em produção audiovisual|01012014|
+262205|Diretor de cinema|01012014|
+262210|Diretor de programas de rádio|01012014|
+262215|Diretor de programas de televisão|01012014|
+262220|Diretor teatral|01012014|
+262225|Diretor de programação|01022018|
+262230|Diretor de produção|01022018|
+262235|Diretor artístico|01022018|
+262240|Diretor de elenco (audiovisual)|09042025|
+262245|Diretor de animação(audiovisual)|09042025|
+262305|Cenógrafo carnavalesco e festas populares|01012014|
+262310|Cenógrafo de cinema|01012014|
+262315|Cenógrafo de eventos|01012014|
+262320|Cenógrafo de teatro|01012014|
+262325|Cenógrafo de tv|01012014|
+262330|Diretor de arte|01012014|
+262405|Artista (artes visuais)|01012014|
+262410|Desenhista industrial gráfico (designer gráfico)|01012014|
+262415|Conservador-restaurador de bens culturais|01012014|
+262420|Desenhista industrial de produto (designer de produto)|01012014|
+262425|Desenhista industrial de produto de moda (designer de moda)|01012014|
+262505|Ator|01012014|
+262605|Compositor|01012014|
+262610|Músico arranjador|01012014|
+262615|Músico regente|01012014|
+262620|Musicólogo|01012014|
+262705|Músico intérprete cantor|01012014|
+262710|Músico intérprete instrumentista|01012014|
+262805|Assistente de coreografia|01012014|
+262810|Bailarino (exceto danças populares)|01012014|
+262815|Coreógrafo|01012014|
+262820|Dramaturgo de dança|01012014|
+262825|Ensaiador de dança|01012014|
+262830|Professor de dança|01012014|
+262905|Decorador de interiores de nível superior|01012014|
+263105|Ministro de culto religioso|01012014|
+263110|Missionário|01012014|
+263115|Teólogo|01012014|
+271105|Chefe de cozinha|01012014|
+271110|Tecnólogo em gastronomia|01012014|
+300105|Técnico em mecatrônica - automação da manufatura|01012014|
+300110|Técnico em mecatrônica - robótica|01012014|
+300305|Técnico em eletromecânica|01012014|
+301105|Técnico de laboratório industrial|01012014|
+301110|Técnico de laboratório de análises físico-químicas (materiais de construção)|01012014|
+301115|Técnico químico de petróleo|01012014|
+301205|Técnico de apoio à bioengenharia|01012014|
+311105|Técnico químico|01012014|
+311110|Técnico de celulose e papel|01012014|
+311115|Técnico em curtimento|01012014|
+311205|Técnico em petroquímica|01012014|
+311305|Técnico em materiais, produtos cerâmicos e vidros|01012014|
+311405|Técnico em borracha|01012014|
+311410|Técnico em plástico|01012014|
+311505|Técnico de controle de meio ambiente|01012014|
+311510|Técnico de meteorologia|01012014|
+311515|Técnico de utilidade (produção e distribuição de vapor, gases, óleos, combustíveis, energia)|01012014|
+311520|Técnico em tratamento de efluentes|01012014|
+311605|Técnico têxtil|01012014|
+311610|Técnico têxtil (tratamentos químicos)|01012014|
+311615|Técnico têxtil de fiação|01012014|
+311620|Técnico têxtil de malharia|01012014|
+311625|Técnico têxtil de tecelagem|01012014|
+311705|Colorista de papel|01012014|
+311710|Colorista têxtil|01012014|
+311715|Preparador de tintas|01012014|
+311720|Preparador de tintas (fábrica de tecidos)|01012014|
+311725|Tingidor de couros e peles|01012014|13052024
+311725|Tingidor de couros|14052024|
+312105|Técnico de obras civis|01012014|
+312205|Técnico de estradas|01012014|
+312210|Técnico de saneamento|01012014|
+312305|Técnico em agrimensura|01012014|
+312310|Técnico em geodésia e cartografia|01012014|
+312315|Técnico em hidrografia|01012014|
+312320|Topógrafo|01012014|
+313105|Eletrotécnico|01012014|
+313110|Eletrotécnico (produção de energia)|01012014|
+313115|Eletrotécnico na fabricação, montagem e instalação de máquinas e equipamentos|01012014|
+313120|Técnico de manutenção elétrica|01012014|
+313125|Técnico de manutenção elétrica de máquina|01012014|
+313130|Técnico eletricista|01012014|
+313205|Técnico de manutenção eletrônica|01012014|
+313210|Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)|01012014|
+313215|Técnico eletrônico|01012014|
+313220|Técnico em manutenção de equipamentos de informática|01012014|
+313305|Técnico de comunicação de dados|01012014|13052024
+313305|Técnico de comunicação de dados (telecomunicações)|14052024|
+313310|Técnico de rede (telecomunicações)|01012014|
+313315|Técnico de telecomunicações (telefonia)|01012014|
+313320|Técnico de transmissão (telecomunicações)|01012014|
+313405|Técnico em calibração|01012014|
+313410|Técnico em instrumentação|01012014|
+313415|Encarregado de manutenção de instrumentos de controle, medição e similares|01012014|
+313505|Técnico em fotônica|01012014|
+314105|Técnico em mecânica de precisão|01012014|
+314110|Técnico mecânico|01012014|
+314115|Técnico mecânico (calefação, ventilação e refrigeração)|01012014|13032025
+314115|Técnico mecânico (calefação, ventilação, refrigeração e climatização)|14032025|
+314120|Técnico mecânico (máquinas)|01012014|
+314125|Técnico mecânico (motores)|01012014|
+314205|Técnico mecânico na fabricação de ferramentas|01012014|
+314210|Técnico mecânico na manutenção de ferramentas|01012014|
+314305|Técnico em automobilística|01012014|
+314310|Técnico mecânico (aeronaves)|01012014|
+314315|Técnico mecânico (embarcações)|01012014|
+314405|Técnico de manutenção de sistemas e instrumentos|01012014|
+314410|Técnico em manutenção de máquinas|01012014|
+314605|Inspetor de soldagem|01012014|01032021
+314610|Técnico em caldeiraria|01012014|
+314615|Técnico em estruturas metálicas|01012014|
+314620|Técnico em soldagem|01012014|
+314625|Tecnólogo em soldagem|01012014|
+314705|Técnico de acabamento em siderurgia|01012014|
+314710|Técnico de aciaria em siderurgia|01012014|
+314715|Técnico de fundição em siderurgia|01012014|
+314720|Técnico de laminação em siderurgia|01012014|
+314725|Técnico de redução na siderurgia (primeira fusão)|01012014|
+314730|Técnico de refratário em siderurgia|01012014|
+314805|Inspetor de equipamentos|01022021|
+314810|Inspetor de fabricação|01022021|
+314815|Inspetor de ensaios não destrutivos|01022021|
+314825|Inspetor de dutos|01022021|
+314830|Inspetor de controle dimensional|01022021|
+314835|Inspetor de pintura|01022021|
+314840|Inspetor de manutenção|01022021|
+314845|Inspetor de soldagem|01032021|
+316105|Técnico em geofísica|01012014|
+316110|Técnico em geologia|01012014|
+316115|Técnico em geoquímica|01012014|
+316120|Técnico em geotecnia|01012014|
+316305|Técnico de mineração|01012014|
+316310|Técnico de mineração (óleo e petróleo)|01012014|
+316315|Técnico em processamento mineral (exceto petróleo)|01012014|
+316320|Técnico em pesquisa mineral|01012014|
+316325|Técnico de produção em refino de petróleo|01012014|
+316330|Técnico em planejamento de lavra de minas|01012014|
+316335|Desincrustador (poços de petróleo)|01012014|
+316340|Cimentador (poços de petróleo)|01012014|
+317105|Programador de internet|01012014|16022020
+317105|Desenvolvedor web (técnico)|17022020|
+317110|Programador de sistemas de informação|01012014|16022020
+317110|Desenvolvedor de sistemas de tecnologia da informação (técnico)|17022020|
+317115|Programador de máquinas - ferramenta com comando numérico|01012014|
+317120|Programador de multimídia|01012014|16022020
+317120|Desenvolvedor de multimídia|17022020|
+317205|Operador de computador (inclusive microcomputador)|01012014|16022020
+317205|Operador de computador|17022020|
+317210|Técnico de apoio ao usuário de informática (helpdesk)|01012014|16022020
+317210|Técnico de suporte ao usuário de tecnologia da informação|17022020|
+318005|Desenhista técnico|01012014|
+318010|Desenhista copista|01012014|
+318015|Desenhista detalhista|01012014|
+318105|Desenhista técnico (arquitetura)|01012014|
+318110|Desenhista técnico (cartografia)|01012014|
+318115|Desenhista técnico (construção civil)|01012014|
+318120|Desenhista técnico (instalações hidrossanitárias)|01012014|
+318205|Desenhista técnico mecânico|01012014|
+318210|Desenhista técnico aeronáutico|01012014|
+318215|Desenhista técnico naval|01012014|
+318305|Desenhista técnico (eletricidade e eletrônica)|01012014|
+318310|Desenhista técnico (calefação, ventilação e refrigeração)|01012014|
+318405|Desenhista técnico (artes gráficas)|01012014|
+318410|Desenhista técnico (ilustrações artísticas)|01012014|
+318415|Desenhista técnico (ilustrações técnicas)|01012014|
+318420|Desenhista técnico (indústria têxtil)|01012014|
+318425|Desenhista técnico (mobiliário)|01012014|
+318430|Desenhista técnico de embalagens, maquetes e leiautes|01012014|
+318505|Desenhista projetista de arquitetura|01012014|
+318510|Desenhista projetista de construção civil|01012014|
+318605|Desenhista projetista de máquinas|01012014|
+318610|Desenhista projetista mecânico|01012014|
+318705|Desenhista projetista de eletricidade|01012014|
+318710|Desenhista projetista eletrônico|01012014|
+318805|Projetista de móveis|01012014|
+318810|Modelista de roupas|01012014|
+318815|Modelista de calçados|01012014|
+319105|Técnico em calçados e artefatos de couro|01012014|
+319110|Técnico em confecções do vestuário|01012014|
+319205|Técnico do mobiliário|01012014|
+320105|Técnico em bioterismo|01012014|
+320110|Técnico em histologia|01012014|
+321105|Técnico agrícola|01012014|
+321110|Técnico agropecuário|01012014|
+321205|Técnico em madeira|01012014|
+321210|Técnico florestal|01012014|
+321305|Técnico em piscicultura|01012014|
+321310|Técnico em carcinicultura|01012014|
+321315|Técnico em mitilicultura|01012014|
+321320|Técnico em ranicultura|01012014|
+322105|Técnico em acupuntura|01012014|31052024
+322110|Podólogo|01012014|
+322115|Técnico em quiropraxia|01012014|31052024
+322120|Massoterapeuta|01012014|31052024
+322125|Terapeuta holístico|01012014|31052024
+322130|Esteticista|01012014|
+322135|Doula|01012014|
+322140|Instrutor de pilates|20032023|
+322205|Técnico de enfermagem|01012014|
+322210|Técnico de enfermagem de terapia intensiva|01012014|
+322215|Técnico de enfermagem do trabalho|01012014|
+322220|Técnico de enfermagem psiquiátrica|01012014|
+322225|Instrumentador cirúrgico|01012014|
+322230|Auxiliar de enfermagem|01012014|
+322235|Auxiliar de enfermagem do trabalho|01012014|
+322240|Auxiliar de saúde (navegação marítima)|01012014|
+322245|Técnico de enfermagem da estratégia de saúde da família|01012014|
+322250|Auxiliar de enfermagem da estratégia de saúde da família|01012014|
+322255|Técnico em agente comunitário de saúde|14032022|
+322305|Técnico em óptica e optometria|01012014|
+322405|Técnico em saúde bucal|01012014|
+322410|Protético dentário|01012014|
+322415|Auxiliar em saúde bucal|01012014|
+322420|Auxiliar de prótese dentária|01012014|
+322425|Técnico em saúde bucal da estratégia de saúde da família|01012014|
+322430|Auxiliar em saúde bucal da estratégia de saúde da família|01012014|
+322505|Técnico de ortopedia|01012014|
+322605|Técnico de imobilização ortopédica|01012014|
+322705|Técnico em acupuntura|01052024|
+322710|Técnico em quiropraxia|01052024|
+322715|Massoterapeuta|01052024|
+322720|Terapeuta holístico|01052024|
+322725|Facilitador de biodança|01052024|
+322730|Terapeuta reiki|01052024|
+322735|Instrutor de yoga|01052024|
+322740|Instrutor de meditação|01052024|
+322745|Facilitador de grupos de movimento(bioernergética)|01052024|
+323105|Técnico em pecuária|01012014|
+324105|Técnico em métodos eletrográficos em encefalografia|01012014|
+324110|Técnico em métodos gráficos em cardiologia|01012014|
+324115|Técnico em radiologia e imagenologia|01012014|
+324120|Tecnólogo em radiologia|01012014|
+324125|Tecnólogo oftálmico|01012014|
+324130|Técnico em espirometria|01012014|
+324135|Técnico em polissonografia|01072019|
+324140|Dosimetrista clínico|20032023|
+324205|Técnico em patologia clínica|01012014|
+324215|Citotécnico|01012014|
+324220|Técnico em hemoterapia|01012014|
+325005|Enólogo|01012014|
+325010|Aromista|01012014|
+325015|Perfumista|01012014|
+325105|Auxiliar técnico em laboratório de farmácia|01012014|
+325110|Técnico em laboratório de farmácia|01012014|
+325115|Técnico em farmácia|01012014|
+325205|Técnico de alimentos|01012014|
+325210|Técnico em nutrição e dietética|01012014|
+325305|Técnico em biotecnologia|01012014|
+325310|Técnico em imunobiológicos|01012014|
+328105|Embalsamador|01012014|
+328110|Taxidermista|01012014|
+331105|Professor de nível médio na educação infantil|01012014|
+331110|Auxiliar de desenvolvimento infantil|01012014|
+331205|Professor de nível médio no ensino fundamental|01012014|
+331305|Professor de nível médio no ensino profissionalizante|01012014|
+332105|Professor leigo no ensino fundamental|01012014|
+332205|Professor prático no ensino profissionalizante|01012014|
+333105|Instrutor de auto-escola|01012014|
+333110|Instrutor de cursos livres|01012014|
+333115|Professores de cursos livres|01012014|
+334105|Inspetor de alunos de escola privada|01012014|
+334110|Inspetor de alunos de escola pública|01012014|
+334115|Monitor de transporte escolar|01012014|
+341105|Piloto comercial (exceto linhas aéreas)|01012014|
+341110|Piloto comercial de helicóptero (exceto linhas aéreas)|01012014|
+341115|Mecânico de vôo|01012014|
+341120|Piloto agrícola|01012014|
+341205|Contramestre de cabotagem|01012014|
+341210|Mestre de cabotagem|01012014|
+341215|Mestre fluvial|01012014|
+341220|Patrão de pesca de alto-mar|01012014|
+341225|Patrão de pesca na navegação interior|01012014|
+341230|Piloto fluvial|01012014|
+341235|Técnico em sinalização náutica|01012014|
+341240|Técnicos em manobras em equipamentos de convés|01012014|
+341245|Técnico em sinais navais|01012014|
+341250|Auxiliar técnico de sinalização náutica|01012014|
+341305|Condutor maquinista motorista fluvial|01012014|
+341310|Condutor de máquinas|01012014|
+341315|Eletricista de bordo|01012014|
+341320|Condutor de máquinas (bombeador)|01012014|
+341325|Condutor de máquinas (mecânico)|01012014|
+342105|Analista de transporte em comércio exterior|01012014|
+342110|Operador de transporte multimodal|01012014|
+342115|Controlador de serviços de máquinas e veículos|01012014|
+342120|Afretador|01012014|
+342125|Tecnólogo em logística de transporte|01012014|
+342205|Ajudante de despachante aduaneiro|01012014|
+342210|Despachante aduaneiro|01012014|
+342215|Analista de desembaraço aduaneiro|01012014|
+342305|Chefe de serviço de transporte rodoviário (passageiros e cargas)|01012014|
+342310|Inspetor de serviços de transportes rodoviários (passageiros e cargas)|01012014|
+342315|Supervisor de carga e descarga|01012014|
+342405|Agente de estação (ferrovia e metrô)|01012014|
+342410|Operador de centro de controle (ferrovia e metrô)|01012014|
+342505|Controlador de tráfego aéreo|01012014|
+342510|Despachante operacional de vôo|01012014|
+342515|Fiscal de aviação civil (fac)|01012014|
+342520|Gerente da administração de aeroportos|01012014|31032020
+342525|Gerente de empresa aérea em aeroportos|01012014|31032020
+342530|Inspetor de aviação civil|01012014|
+342535|Operador de atendimento aeroviário|01012014|
+342540|Supervisor da administração de aeroportos|01012014|
+342545|Supervisor de empresa aérea em aeroportos|01012014|
+342550|Agente de proteção de aviação civil|01012014|
+342555|Fiscal de pista de aeroporto|01022020|
+342560|Lider de rampa ( transporte aéreo)|01022020|13032022
+342560|Operador de rampa ( transporte aéreo)|14032022|
+342605|Chefe de estação portuária|01012014|
+342610|Supervisor de operações portuárias|01012014|
+351105|Técnico de contabilidade|01012014|
+351110|Chefe de contabilidade (técnico)|01012014|
+351115|Consultor contábil (técnico)|01012014|
+351305|Técnico em administração|01012014|
+351310|Técnico em administração de comércio exterior|01012014|
+351315|Agente de recrutamento e seleção|01012014|
+351405|Escrevente|01012014|
+351410|Escrivão judicial|01012014|
+351415|Escrivão extra - judicial|01012014|
+351420|Escrivão de polícia|01012014|
+351425|Oficial de justiça|01012014|
+351430|Auxiliar de serviços jurídicos|01012014|
+351435|Mediador extrajudicial|01022021|13032022
+351435|Mediador de conflitos|14032022|
+351440|Árbitro extrajudicial|01022021|
+351505|Técnico em secretariado|01012014|
+351510|Taquígrafo|01012014|
+351515|Estenotipista|01012014|
+351605|Técnico em segurança do trabalho|01012014|
+351610|Técnico em higiene ocupacional|01012014|
+351705|Analista de seguros (técnico)|01012014|
+351710|Analista de sinistros|01012014|
+351715|Assistente comercial de seguros|01012014|
+351720|Assistente técnico de seguros|01012014|
+351725|Inspetor de risco|01012014|
+351730|Inspetor de sinistros|01012014|
+351735|Técnico de resseguros|01012014|
+351740|Técnico de seguros|01012014|
+351805|Detetive profissional|01012014|
+351810|Investigador de polícia|01012014|
+351815|Papiloscopista policial|01012014|
+351905|Agente de inteligência|01012014|
+351910|Agente técnico de inteligência|01012014|
+352205|Agente de defesa ambiental|01012014|
+352210|Agente de saúde pública|01012014|
+352305|Metrologista|01012014|
+352310|Agente fiscal de qualidade|01012014|
+352315|Agente fiscal metrológico|01012014|
+352320|Agente fiscal têxtil|01012014|
+352405|Agente de direitos autorais|01012014|
+352410|Avaliador de produtos do meio de comunicação|01012014|25032021
+352410|Avaliador de produtos dos meios de comunicação|26032021|
+352420|Técnico em direitos autorais|01012014|
+353205|Técnico de operações e serviços bancários - câmbio|01012014|
+353210|Técnico de operações e serviços bancários - crédito imobiliário|01012014|
+353215|Técnico de operações e serviços bancários - crédito rural|01012014|
+353220|Técnico de operações e serviços bancários - leasing|01012014|
+353225|Técnico de operações e serviços bancários - renda fixa e variável|01012014|
+353230|Tesoureiro de banco|01012014|
+353235|Chefe de serviços bancários|01012014|
+354120|Agente de vendas de serviços|01012014|
+354125|Assistente de vendas|01012014|
+354130|Promotor de vendas especializado|01012014|
+354135|Técnico de vendas|01012014|
+354140|Técnico em atendimento e vendas|01012014|
+354145|Vendedor pracista|01012014|
+354150|Propagandista de produtos famacêuticos|01012014|
+354205|Comprador|01012014|
+354210|Supervisor de compras|01012014|
+354305|Analista de exportação e importação|01012014|
+354405|Leiloeiro|01012014|
+354410|Avaliador de imóveis|01012014|
+354415|Avaliador de bens móveis|01012014|
+354505|Corretor de seguros|01012014|
+354605|Corretor de imóveis|01012014|
+354610|Corretor de grãos|01022021|
+354705|Representante comercial autônomo|01012014|
+354805|Técnico em turismo|01012014|
+354810|Operador de turismo|01012014|
+354815|Agente de viagem|01012014|
+354820|Organizador de evento|01012014|
+354825|Cerimonialista|01012014|
+371105|Auxiliar de biblioteca|01012014|
+371110|Técnico em biblioteconomia|01012014|
+371205|Colecionador de selos e moedas|01012014|
+371210|Técnico em museologia|01012014|
+371305|Técnico em programação visual|01012014|
+371310|Técnico gráfico|01012014|
+371405|Recreador de acantonamento|01012014|
+371410|Recreador|01012014|
+371415|Brinquedista|01052024|
+372105|Diretor de fotografia|01012014|
+372110|Iluminador (televisão)|01012014|
+372115|Operador de câmera de televisão|01012014|
+372205|Operador de rede de teleprocessamento|01012014|
+372210|Radiotelegrafista|01012014|
+373105|Operador de áudio de continuidade (rádio)|01012014|31012018
+373105|Operador de mídia audiovisual|01022018|
+373110|Operador de central de rádio|01012014|30042018
+373115|Operador de externa (rádio)|01012014|30042018
+373120|Operador de gravação de rádio|01012014|30042018
+373125|Operador de transmissor de rádio|01012014|30042018
+373130|Técnico de sistemas audiovisuais|01022018|
+373135|Operador de controle mestre|01022018|
+373140|Coordenador de programação|01022018|
+373145|Assistente de operações audiovisuais|01022018|
+373205|Técnico em operação de equipamentos de produção para televisão e produtoras de vídeo|01012014|30042018
+373210|Técnico em operação de equipamento de exibição de televisão|01012014|30042018
+373215|Técnico em operação de equipamentos de transmissão/recepção de televisão|01012014|30042018
+373220|Supervisor técnico operacional de sistemas de televisão e produtoras de vídeo|01012014|
+373225|Supervisor de operações (mídias audiovisuais)|01022018|
+373230|Supervisor técnico (mídias audiovisuais)|01022018|
+374105|Técnico em gravação de áudio|01012014|
+374110|Técnico em instalação de equipamentos de áudio|01012014|
+374115|Técnico em masterização de áudio|01012014|
+374120|Projetista de som|01012014|
+374125|Técnico em sonorização|01012014|
+374130|Técnico em mixagem de áudio|01012014|
+374135|Projetista de sistemas de áudio|01012014|
+374140|Microfonista|01012014|
+374145|Dj (disc jockey)|01012014|
+374150|Sonoplasta|01022018|
+374155|Analista musical|01022018|
+374205|Cenotécnico (cinema, vídeo, televisão, teatro e espetáculos)|01012014|
+374210|Maquinista de cinema e vídeo|01012014|
+374215|Maquinista de teatro e espetáculos|01012014|
+374305|Operador de projetor cinematográfico|01012014|
+374310|Operador-mantenedor de projetor cinematográfico|01012014|
+374405|Editor de tv e vídeo|01012014|31012018
+374405|Editor de mídia audiovisual|01022018|
+374410|Finalizador de filmes|01012014|
+374415|Finalizador de vídeo|01012014|
+374420|Montador de filmes|01012014|
+374425|Diretor de imagens (tv)|01022018|
+375105|Designer de interiores|01012014|
+375110|Designer de vitrines|01012014|
+375115|Visual merchandiser|01012014|
+375120|Decorador de eventos|01012014|
+375125|Produtor de moda|01022020|
+375130|Profissional de organização (personal organizer)|14032022|
+376105|Dançarino tradicional|01012014|
+376110|Dançarino popular|01012014|
+376205|Acrobata|01012014|
+376210|Artista aéreo|01012014|
+376215|Artista de circo (outros)|01012014|
+376220|Contorcionista|01012014|
+376225|Domador de animais (circense)|01012014|
+376230|Equilibrista|01012014|
+376235|Mágico|01012014|
+376240|Malabarista|01012014|
+376245|Palhaço|01012014|
+376250|Titeriteiro|01012014|
+376255|Trapezista|01012014|
+376305|Apresentador de eventos|01012014|
+376310|Apresentador de festas populares|01012014|
+376315|Apresentador de programas de rádio|01012014|
+376320|Apresentador de programas de televisão|01012014|
+376325|Apresentador de circo|01012014|
+376330|Mestre de cerimonias|01012014|
+376405|Modelo artístico|01012014|
+376410|Modelo de modas|01012014|
+376415|Modelo publicitário|01012014|
+377105|Atleta profissional (outras modalidades)|01012014|
+377110|Atleta profissional de futebol|01012014|
+377115|Atleta profissional de golfe|01012014|
+377120|Atleta profissional de luta|01012014|
+377125|Atleta profissional de tênis|01012014|
+377130|Jóquei|01012014|
+377135|Piloto de competição automobilística|01012014|
+377140|Profissional de atletismo|01012014|
+377145|Pugilista|01012014|
+377205|Árbitro desportivo|01012014|
+377210|Árbitro de atletismo|01012014|
+377215|Árbitro de basquete|01012014|
+377220|Árbitro de futebol|01012014|
+377225|Árbitro de futebol de salão|01012014|
+377230|Árbitro de judô|01012014|
+377235|Árbitro de karatê|01012014|
+377240|Árbitro de poló aquático|01012014|
+377245|Árbitro de vôlei|01012014|
+391105|Cronoanalista|01012014|
+391110|Cronometrista|01012014|
+391115|Controlador de entrada e saída|01012014|
+391120|Planejista|01012014|
+391125|Técnico de planejamento de produção|01012014|
+391130|Técnico de planejamento e programação da manutenção|01012014|
+391135|Técnico de matéria-prima e material|01012014|
+391140|Analista de manutenção (equipamentos aéreos)|01022020|
+391145|Analista de planejamento de manutenção|01022020|
+391205|Inspetor de qualidade|01012014|
+391210|Técnico de garantia da qualidade|01012014|
+391215|Operador de inspeção de qualidade|01012014|
+391220|Técnico de painel de controle|01012014|
+391225|Escolhedor de papel|01012014|
+391230|Técnico operacional de serviços de correios|01012014|
+395105|Técnico de apoio em pesquisa e desenvolvimento (exceto agropecuário e florestal)|01012014|
+395110|Técnico de apoio em pesquisa e desenvolvimento agropecuário florestal|01012014|
+410105|Supervisor administrativo|01012014|
+410205|Supervisor de almoxarifado|01012014|
+410210|Supervisor de câmbio|01012014|
+410215|Supervisor de contas a pagar|01012014|
+410220|Supervisor de controle patrimonial|01012014|
+410225|Supervisor de crédito e cobrança|01012014|
+410230|Supervisor de orçamento|01012014|
+410235|Supervisor de tesouraria|01012014|
+410240|Supervisor de logística|01012014|
+411005|Auxiliar de escritório|01012014|
+411010|Assistente administrativo|01012014|
+411015|Atendente de judiciário|01012014|
+411020|Auxiliar de judiciário|01012014|
+411025|Auxiliar de cartório|01012014|
+411030|Auxiliar de pessoal|01012014|
+411035|Auxiliar de estatística|01012014|
+411040|Auxiliar de seguros|01012014|
+411045|Auxiliar de serviços de importação e exportação|01012014|
+411050|Agente de microcrédito|01012014|
+411055|Captador de recursos|01022021|
+412105|Datilógrafo|01012014|
+412110|Digitador|01012014|
+412115|Operador de mensagens de telecomunicações (correios)|01012014|
+412120|Supervisor de digitação e operação|01012014|
+412205|Contínuo|01012014|
+413105|Analista de folha de pagamento|01012014|
+413110|Auxiliar de contabilidade|01012014|
+413115|Auxiliar de faturamento|01012014|
+413205|Atendente de agência|01012014|
+413210|Caixa de banco|01012014|
+413215|Compensador de banco|01012014|
+413220|Conferente de serviços bancários|01012014|
+413225|Escriturário de banco|01012014|
+413230|Operador de cobrança bancária|01012014|
+414105|Almoxarife|01012014|
+414110|Armazenista|01012014|
+414115|Balanceiro|01012014|
+414120|Conferente mercadoria (exceto carga e descarga)|01012014|
+414125|Estoquista|01012014|
+414135|Expedidor de mercadorias|01012014|
+414140|Auxiliar de logística|01012014|
+414205|Apontador de mão-de-obra|01012014|
+414210|Apontador de produção|01012014|
+414215|Conferente de carga e descarga|01012014|
+415105|Arquivista de documentos|01012014|
+415115|Codificador de dados|01012014|
+415120|Fitotecário|01012014|
+415125|Kardexista|01012014|
+415130|Operador de máquina copiadora (exceto operador de gráfica rápida)|01012014|
+415205|Carteiro|01012014|
+415210|Operador de triagem e transbordo|01012014|
+415215|Entregador de publicações|01012014|
+415305|Registrador de câncer|01022018|
+415310|Analista de informação em saúde|01022021|
+420105|Supervisor de caixas e bilheteiros (exceto caixa de banco)|01012014|
+420110|Supervisor de cobrança|01012014|
+420115|Supervisor de coletadores de apostas e de jogos|01012014|
+420120|Supervisor de entrevistadores e recenseadores|01012014|
+420125|Supervisor de recepcionistas|01012014|
+420130|Supervisor de telefonistas|01012014|
+420135|Supervisor de telemarketing e atendimento|01012014|
+421105|Atendente comercial (agência postal)|01012014|
+421110|Bilheteiro de transportes coletivos|01012014|
+421115|Bilheteiro no serviço de diversões|01012014|
+421120|Emissor de passagens|01012014|
+421125|Operador de caixa|01012014|
+421205|Recebedor de apostas (loteria)|01012014|
+421210|Recebedor de apostas (turfe)|01012014|
+421305|Cobrador externo|01012014|
+421310|Cobrador interno|01012014|
+421315|Localizador (cobrador)|01012014|
+422105|Recepcionista, em geral|01012014|
+422110|Recepcionista de consultório médico ou dentário|01012014|
+422115|Recepcionista de seguro saúde|01012014|
+422120|Recepcionista de hotel|01012014|
+422125|Recepcionista de banco|01012014|
+422130|Concierge|01012014|
+422205|Telefonista|01012014|
+422210|Teleoperador|01012014|
+422215|Monitor de teleatendimento|01012014|22022021
+422220|Operador de rádio-chamada|01012014|
+422305|Operador de telemarketing ativo|01012014|
+422310|Operador de telemarketing ativo e receptivo|01012014|
+422315|Operador de telemarketing receptivo|01012014|
+422320|Operador de telemarketing técnico|01012014|
+422330|Teleatendente de emergência|01022021|
+422335|Monitor de teleatendimento|01022021|
+423105|Despachante documentalista|01012014|
+423110|Despachante de trânsito|01012014|
+423115|Vistoriador veicular|20032023|
+424105|Entrevistador censitário e de pesquisas amostrais|01012014|
+424110|Entrevistador de pesquisa de opinião e mídia|01012014|
+424115|Entrevistador de pesquisas de mercado|01012014|
+424120|Entrevistador de preços|01012014|
+424125|Escriturário em estatística|01012014|
+424130|Entrevistador social|01012014|
+424205|Coordenador de provas (concurso, avaliação, exame)|01012014|
+424210|Aplicador de provas (concurso, avaliação,exame)|01012014|
+510105|Supervisor de transportes|01012014|
+510110|Administrador de edifícios|01012014|
+510115|Supervisor de andar|01012014|
+510120|Chefe de portaria de hotel|01012014|
+510130|Chefe de bar|01012014|
+510135|Maître|01012014|
+510205|Supervisor de lavanderia|01012014|
+510305|Supervisor de bombeiros|01012014|
+510310|Supervisor de vigilantes|01012014|
+511105|Comissário de vôo|01012014|
+511110|Comissário de trem|01012014|
+511115|Taifeiro (exceto militares)|01012014|
+511205|Fiscal de transportes coletivos (exceto trem)|01012014|
+511210|Despachante de transportes coletivos (exceto trem)|01012014|
+511215|Cobrador de transportes coletivos (exceto trem)|01012014|
+511220|Bilheteiro (estações de metrô, ferroviárias e assemelhadas)|01012014|
+511405|Guia de turismo|01012014|
+511505|Condutor de turismo de aventura|01012014|
+511510|Condutor de turismo de pesca|01012014|
+511515|Condutor turismo náutico|20032023|
+512105|Empregado doméstico nos serviços gerais|01012014|
+512110|Empregado doméstico arrumador|01012014|
+512115|Empregado doméstico faxineiro|01012014|
+512120|Empregado doméstico diarista|01012014|
+513105|Mordomo de residência|01012014|
+513110|Mordomo de hotelaria|01012014|
+513115|Governanta de hotelaria|01012014|
+513205|Cozinheiro geral|01012014|
+513210|Cozinheiro do serviço doméstico|01012014|
+513215|Cozinheiro industrial|01012014|
+513220|Cozinheiro de hospital|01012014|
+513225|Cozinheiro de embarcações|01012014|
+513305|Camareiro de teatro|01012014|
+513310|Camareiro de televisão|01012014|
+513315|Camareiro de hotel|01012014|
+513320|Camareiro de embarcações|01012014|
+513325|Guarda-roupeiro de cinema|01012014|
+513405|Garçom|01012014|
+513410|Garçom (serviços de vinhos)|01012014|13032022
+513410|Sommelier|14032022|
+513415|Cumim|01012014|
+513420|Barman|01012014|
+513425|Copeiro|01012014|
+513430|Copeiro de hospital|01012014|
+513435|Atendente de lanchonete|01012014|
+513440|Barista|01012014|
+513505|Auxiliar nos serviços de alimentação|01012014|
+513510|Lactarista|01052024|
+513605|Churrasqueiro|01012014|
+513610|Pizzaiolo|01012014|
+513615|Sushiman|01012014|
+514105|Ascensorista|01012014|
+514110|Garagista|01012014|
+514115|Sacristão|01012014|
+514120|Zelador de edifício|01012014|
+514205|Coletor de lixo domiciliar|01012014|
+514215|Varredor de rua|01012014|
+514225|Trabalhador de serviços de limpeza e conservação de áreas públicas|01012014|
+514230|Coletor de resíduos sólidos de serviços de saúde|01012014|
+514305|Limpador de vidros|01012014|
+514310|Auxiliar de manutenção predial|01012014|
+514315|Limpador de fachadas|01012014|
+514320|Faxineiro|01012014|
+514325|Trabalhador da manutenção de edificações|01012014|
+514330|Limpador de piscinas|01012014|
+514335|Hidrojatista|01052024|
+515105|Agente comunitário de saúde|01012014|
+515110|Atendente de enfermagem|01012014|
+515115|Parteira leiga|01012014|
+515120|Visitador sanitário|01012014|
+515125|Agente indígena de saúde|01012014|
+515130|Agente indígena de saneamento|01012014|
+515135|Socorrista (exceto médicos e enfermeiros)|01012014|
+515140|Agente de combate às endemias|01012014|
+515205|Auxiliar de banco de sangue|01012014|
+515210|Auxiliar de farmácia de manipulação|01012014|
+515215|Auxiliar de laboratório de análises clínicas|01012014|
+515220|Auxiliar de laboratório de imunobiológicos|01012014|
+515225|Auxiliar de produção farmacêutica|01012014|
+515305|Educador social|01012014|
+515310|Agente de ação social|01012014|
+515315|Monitor de dependente químico|01012014|
+515320|Conselheiro tutelar|01012014|
+515325|Sócioeducador|01012014|
+515330|Monitor de ressocialização prisional|01012014|
+515335|Mediador intercultural|14032025|
+516105|Barbeiro|01012014|
+516110|Cabeleireiro|01012014|
+516120|Manicure|01012014|19032023
+516120|Manicure/pedicure|20032023|
+516125|Maquiador|01012014|
+516130|Maquiador de caracterização|01012014|
+516140|Pedicure|01012014|21032023
+516145|Designer de unhas|20032023|
+516150|Designer de sobrancelhas|20032023|
+516155|Designer de cílios|20032023|
+516160|Confeccionador de perucas|01052024|
+516165|Trancista|14032025|
+516205|Babá|01012014|
+516210|Cuidador de idosos|01012014|
+516215|Mãe social|01012014|
+516220|Cuidador em saúde|01012014|
+516305|Lavadeiro, em geral|01012014|
+516310|Lavador de roupas a maquina|01012014|
+516315|Lavador de artefatos de tapeçaria|01012014|
+516320|Limpador a seco, à máquina|01012014|
+516325|Passador de roupas em geral|01012014|
+516330|Tingidor de roupas|01012014|
+516335|Conferente-expedidor de roupas (lavanderias)|01012014|
+516340|Atendente de lavanderia|01012014|
+516345|Auxiliar de lavanderia|01012014|
+516405|Lavador de roupas|01012014|
+516410|Limpador de roupas a seco, à mão|01012014|
+516415|Passador de roupas, à mão|01012014|
+516505|Agente funerário|01012014|
+516605|Operador de forno (serviços funerários)|01012014|
+516610|Sepultador|01012014|
+516705|Astrólogo|01012014|
+516710|Numerólogo|01012014|
+516805|Esotérico|01012014|
+516810|Paranormal|01012014|
+516815|Ufólogo|01052024|
+516905|Tatuador|20032023|
+516910|Micropigmentador|20032023|
+516915|Body piercer|20032023|
+517105|Bombeiro de aeródromo|01012014|
+517110|Bombeiro civil|01012014|
+517115|Salva-vidas|01012014|
+517120|Brigadista florestal|01022020|
+517125|Chefe de brigada|01022020|
+517130|Agente de proteção e defesa civil|20032023|
+517205|Agente de polícia federal|01012014|
+517210|Policial rodoviário federal|01012014|
+517215|Guarda-civil municipal|01012014|
+517220|Agente de trânsito|01012014|
+517225|Policial legislativo|01022018|
+517230|Policial penal|14032022|
+517235|Guarda portuário|14032022|
+517305|Agente de proteção de aeroporto|01012014|13032022
+517305|Vigilante de proteção de aeroporto|14032022|27032025
+517305|Vigilante aeroportuário|28032025|
+517310|Agente de segurança|01012014|
+517315|Agente de segurança penitenciária|01012014|13032022
+517320|Vigia florestal|01012014|27032025
+517320|Vigilante florestal|28032025|
+517325|Vigia portuário|01012014|27032025
+517325|Vigilante portuário|28032025|
+517330|Vigilante|01012014|27032025
+517330|Vigilante patrimonial|28032025|
+517335|Guarda portuário|01012014|13032022
+517405|Porteiro (hotel)|01012014|
+517410|Porteiro de edifícios|01012014|
+517415|Porteiro de locais de diversão|01012014|22022021
+517415|Agente de portaria|23022021|
+517420|Vigia|01012014|
+517425|Fiscal de loja|01012014|
+519105|Ciclista mensageiro|01012014|
+519110|Motofretista|01012014|
+519115|Mototaxista|01012014|
+519205|Catador de material reciclável|01012014|
+519210|Selecionador de material reciclável|01012014|
+519215|Operador de prensa de material reciclável|01012014|
+519305|Auxiliar de veterinário|01012014|
+519310|Esteticista de animais domésticos|01012014|
+519315|Banhista de animais domésticos|01012014|
+519320|Tosador de animais domésticos|01012014|
+519325|Monitor de animais domésticos|01052024|
+519330|Condutor de cães domésticos|01052024|
+519805|Profissional do sexo|01012014|
+519905|Cartazeiro|01012014|
+519910|Controlador de pragas|01012014|
+519915|Engraxate|01012014|
+519920|Gandula|01012014|
+519925|Guardador de veículos|01012014|
+519930|Lavador de garrafas, vidros e outros utensílios|01012014|
+519935|Lavador de veículos|01012014|
+519940|Leiturista|01012014|
+519945|Recepcionista de casas de espetáculos|01012014|
+520105|Supervisor de vendas de serviços|01012014|
+520110|Supervisor de vendas comercial|01012014|
+521105|Vendedor em comércio atacadista|01012014|
+521110|Vendedor de comércio varejista|01012014|
+521115|Promotor de vendas|01012014|
+521120|Demonstrador de mercadorias|01012014|
+521125|Repositor de mercadorias|01012014|
+521130|Atendente de farmácia - balconista|01012014|
+521135|Frentista|01012014|
+521140|Atendente de lojas e mercados|01012014|
+523105|Instalador de cortinas e persianas, portas sanfonadas e boxe|01012014|
+523110|Instalador de som e acessórios de veículos|01012014|
+523115|Chaveiro|01012014|
+523120|Aplicador de vinil autoadesivo|01022021|
+523125|Estampador de placa de identificação veicular (epiv)|14032022|
+524105|Vendedor em domicílio|01012014|
+524205|Feirante|01012014|
+524210|Jornaleiro (em banca de jornal)|01012014|
+524215|Vendedor permissionário|01012014|
+524305|Vendedor ambulante|01012014|
+524310|Pipoqueiro ambulante|01012014|
+524315|Baiana de acarajé|01012014|
+611005|Produtor agropecuário, em geral|01012014|
+612005|Produtor agrícola polivalente|01012014|
+612105|Produtor de arroz|01012014|
+612110|Produtor de cana-de-açúcar|01012014|
+612115|Produtor de cereais de inverno|01012014|
+612120|Produtor de gramíneas forrageiras|01012014|
+612125|Produtor de milho e sorgo|01012014|
+612205|Produtor de algodão|01012014|
+612210|Produtor de curauá|01012014|
+612215|Produtor de juta|01012014|
+612220|Produtor de rami|01012014|
+612225|Produtor de sisal|01012014|
+612305|Produtor na olericultura de legumes|01012014|
+612310|Produtor na olericultura de raízes, bulbos e tubérculos|01012014|
+612315|Produtor na olericultura de talos, folhas e flores|01012014|
+612320|Produtor na olericultura de frutos e sementes|01012014|
+612405|Produtor de flores de corte|01012014|
+612410|Produtor de flores em vaso|01012014|
+612415|Produtor de forrações|01012014|
+612420|Produtor de plantas ornamentais|01012014|
+612505|Produtor de árvores frutíferas|01012014|
+612510|Produtor de espécies frutíferas rasteiras|01012014|
+612515|Produtor de espécies frutíferas trepadeiras|01012014|
+612605|Cafeicultor|01012014|
+612610|Produtor de cacau|01012014|
+612615|Produtor de erva-mate|01012014|
+612620|Produtor de fumo|01012014|
+612625|Produtor de guaraná|01012014|
+612705|Produtor da cultura de amendoim|01012014|
+612710|Produtor da cultura de canola|01012014|
+612715|Produtor da cultura de coco-da-baia|01012014|
+612720|Produtor da cultura de dendê|01012014|
+612725|Produtor da cultura de girassol|01012014|
+612730|Produtor da cultura de linho|01012014|
+612735|Produtor da cultura de mamona|01012014|
+612740|Produtor da cultura de soja|01012014|
+612805|Produtor de especiarias|01012014|
+612810|Produtor de plantas aromáticas e medicinais|01012014|
+613005|Criador em pecuária polivalente|01012014|
+613010|Criador de animais domésticos|01012014|
+613105|Criador de asininos e muares|01012014|
+613110|Criador de bovinos (corte)|01012014|
+613115|Criador de bovinos (leite)|01012014|
+613120|Criador de bubalinos (corte)|01012014|
+613125|Criador de bubalinos (leite)|01012014|
+613130|Criador de equínos|01012014|
+613205|Criador de caprinos|01012014|
+613210|Criador de ovinos|01012014|
+613215|Criador de suínos|01012014|
+613305|Avicultor|01012014|
+613310|Cunicultor|01012014|
+613405|Apicultor|01012014|
+613410|Criador de animais produtores de veneno|01012014|
+613415|Minhocultor|01012014|
+613420|Sericultor|01012014|
+620105|Supervisor de exploração agrícola|01012014|
+620110|Supervisor de exploração agropecuária|01012014|
+620115|Supervisor de exploração pecuária|01012014|
+621005|Trabalhador agropecuário em geral|01012014|
+622005|Caseiro (agricultura)|01012014|
+622010|Jardineiro|01012014|
+622015|Trabalhador na produção de mudas e sementes|01012014|
+622020|Trabalhador volante da agricultura|01012014|
+622105|Trabalhador da cultura de arroz|01012014|
+622110|Trabalhador da cultura de cana-de-açúcar|01012014|
+622115|Trabalhador da cultura de milho e sorgo|01012014|
+622120|Trabalhador da cultura de trigo, aveia, cevada e triticale|01012014|
+622205|Trabalhador da cultura de algodão|01012014|
+622210|Trabalhador da cultura de sisal|01012014|
+622215|Trabalhador da cultura do rami|01012014|
+622305|Trabalhador na olericultura (frutos e sementes)|01012014|
+622310|Trabalhador na olericultura (legumes)|01012014|
+622315|Trabalhador na olericultura (raízes, bulbos e tubérculos)|01012014|
+622320|Trabalhador na olericultura (talos, folhas e flores)|01012014|
+622405|Trabalhador no cultivo de flores e folhagens de corte|01012014|
+622410|Trabalhador no cultivo de flores em vaso|01012014|
+622415|Trabalhador no cultivo de forrações|01012014|
+622420|Trabalhador no cultivo de mudas|01012014|
+622425|Trabalhador no cultivo de plantas ornamentais|01012014|
+622505|Trabalhador no cultivo de árvores frutíferas|01012014|
+622510|Trabalhador no cultivo de espécies frutíferas rasteiras|01012014|
+622515|Trabalhador no cultivo de trepadeiras frutíferas|01012014|
+622605|Trabalhador da cultura de cacau|01012014|
+622610|Trabalhador da cultura de café|01012014|
+622615|Trabalhador da cultura de erva-mate|01012014|
+622620|Trabalhador da cultura de fumo|01012014|
+622625|Trabalhador da cultura de guaraná|01012014|
+622705|Trabalhador na cultura de amendoim|01012014|
+622710|Trabalhador na cultura de canola|01012014|
+622715|Trabalhador na cultura de coco-da-baía|01012014|
+622720|Trabalhador na cultura de dendê|01012014|
+622725|Trabalhador na cultura de mamona|01012014|
+622730|Trabalhador na cultura de soja|01012014|
+622735|Trabalhador na cultura do girassol|01012014|
+622740|Trabalhador na cultura do linho|01012014|
+622805|Trabalhador da cultura de especiarias|01012014|
+622810|Trabalhador da cultura de plantas aromáticas e medicinais|01012014|
+623005|Adestrador de animais|01012014|
+623010|Inseminador|01012014|
+623015|Trabalhador de pecuária polivalente|01012014|
+623020|Tratador de animais|01012014|
+623025|Casqueador de animais|01012014|
+623030|Ferrador de animais|01012014|
+623035|Instrutor de mobilidade com cães-guia|01052024|
+623105|Trabalhador da pecuária (asininos e muares)|01012014|
+623110|Trabalhador da pecuária (bovinos corte)|01012014|
+623115|Trabalhador da pecuária (bovinos leite)|01012014|
+623120|Trabalhador da pecuária (bubalinos)|01012014|
+623125|Trabalhador da pecuária (equinos)|01012014|
+623205|Trabalhador da caprinocultura|01012014|
+623210|Trabalhador da ovinocultura|01012014|
+623215|Trabalhador da suinocultura|01012014|
+623305|Trabalhador da avicultura de corte|01012014|
+623310|Trabalhador da avicultura de postura|01012014|
+623315|Operador de incubadora|01012014|13032025
+623315|Operador de incubadora de ovos|14032025|
+623320|Trabalhador da cunicultura|01012014|
+623325|Sexador|01012014|
+623405|Trabalhador em criatórios de animais produtores de veneno|01012014|
+623410|Trabalhador na apicultura|01012014|
+623415|Trabalhador na minhocultura|01012014|
+623420|Trabalhador na sericicultura|01012014|
+630105|Supervisor da aquicultura|01012014|
+630110|Supervisor da área florestal|01012014|
+631005|Catador de caranguejos e siris|01012014|
+631010|Catador de mariscos|01012014|
+631015|Pescador artesanal de lagostas|01012014|
+631020|Pescador artesanal de peixes e camarões|01012014|
+631105|Pescador artesanal de água doce|01012014|
+631205|Pescador industrial|01012014|
+631210|Pescador profissional|01012014|
+631305|Criador de camarões|01012014|
+631310|Criador de jacarés|01012014|
+631315|Criador de mexilhões|01012014|
+631320|Criador de ostras|01012014|
+631325|Criador de peixes|01012014|
+631330|Criador de quelônios|01012014|
+631335|Criador de rãs|01012014|
+631405|Gelador industrial|01012014|
+631410|Gelador profissional|01012014|
+631415|Proeiro|01012014|
+631420|Redeiro (pesca)|01012014|
+632005|Guia florestal|01012014|
+632010|Raizeiro|01012014|
+632015|Viveirista florestal|01012014|
+632105|Classificador de toras|01012014|
+632110|Cubador de madeira|01012014|
+632115|Identificador florestal|01012014|
+632120|Operador de motosserra|01012014|
+632125|Trabalhador de extração florestal, em geral|01012014|
+632205|Seringueiro|01012014|
+632210|Trabalhador da exploração de espécies produtoras de gomas não elásticas|01012014|
+632215|Trabalhador da exploração de resinas|01012014|
+632305|Trabalhador da exploração de andiroba|01012014|
+632310|Trabalhador da exploração de babaçu|01012014|
+632315|Trabalhador da exploração de bacaba|01012014|
+632320|Trabalhador da exploração de buriti|01012014|
+632325|Trabalhador da exploração de carnaúba|01012014|
+632330|Trabalhador da exploração de coco-da-praia|01012014|
+632335|Trabalhador da exploração de copaíba|01012014|
+632340|Trabalhador da exploração de malva (pãina)|01012014|
+632345|Trabalhador da exploração de murumuru|01012014|
+632350|Trabalhador da exploração de oiticica|01012014|
+632355|Trabalhador da exploração de ouricuri|01012014|
+632360|Trabalhador da exploração de pequi|01012014|
+632365|Trabalhador da exploração de piaçava|01012014|
+632370|Trabalhador da exploração de tucum|01012014|
+632405|Trabalhador da exploração de açaí|01012014|
+632410|Trabalhador da exploração de castanha|01012014|
+632415|Trabalhador da exploração de pinhão|01012014|
+632420|Trabalhador da exploração de pupunha|01012014|
+632505|Trabalhador da exploração de árvores e arbustos produtores de substâncias aromáticas, medicinais e tóxicas|01012014|
+632510|Trabalhador da exploração de cipós produtores de substâncias aromáticas, medicinais e tóxicas|01012014|
+632515|Trabalhador da exploração de madeiras tanantes|01012014|
+632520|Trabalhador da exploração de raízes produtoras de substâncias aromáticas, medicinais e tóxicas|01012014|
+632525|Trabalhador da extração de substâncias aromáticas, medicinais e tóxicas, em geral|01012014|
+632605|Carvoeiro|01012014|
+632610|Carbonizador|01012014|
+632615|Ajudante de carvoaria|01012014|
+641005|Operador de colheitadeira|01012014|
+641010|Operador de máquinas de beneficiamento de produtos agrícolas|01012014|
+641015|Tratorista agrícola|01012014|
+642005|Operador de colhedor florestal|01012014|
+642010|Operador de máquinas florestais estáticas|01012014|
+642015|Operador de trator florestal|01012014|
+643005|Trabalhador na operação de sistema de irrigação localizada (microaspersão e gotejamento)|01012014|
+643010|Trabalhador na operação de sistema de irrigação por aspersão (pivô central)|01012014|
+643015|Trabalhador na operação de sistemas convencionais de irrigação por aspersão|01012014|
+643020|Trabalhador na operação de sistemas de irrigação e aspersão (alto propelido)|01012014|
+643025|Trabalhador na operação de sistemas de irrigação por superfície e drenagem|01012014|
+710105|Supervisor de apoio operacional na mineração|01012014|
+710110|Supervisor de extração de sal|01012014|
+710115|Supervisor de perfuração e desmonte|01012014|
+710120|Supervisor de produção na mineração|01012014|
+710125|Supervisor de transporte na mineração|01012014|
+710205|Mestre (construção civil)|01012014|
+710210|Mestre de linhas (ferrovias)|01012014|
+710215|Inspetor de terraplenagem|01012014|
+710220|Supervisor de usina de concreto|01012014|
+710225|Fiscal de pátio de usina de concreto|01012014|
+711105|Amostrador de minérios|01012014|
+711110|Canteiro|01012014|
+711115|Destroçador de pedra|01012014|
+711120|Detonador|01012014|
+711125|Escorador de minas|01012014|
+711130|Mineiro|01012014|
+711205|Operador de caminhão (minas e pedreiras)|01012014|
+711210|Operador de carregadeira|01012014|13032025
+711210|Operador de pá carregadeira|14032025|
+711215|Operador de máquina cortadora (minas e pedreiras)|01012014|
+711220|Operador de máquina de extração contínua (minas de carvão)|01012014|
+711225|Operador de máquina perfuradora (minas e pedreiras)|01012014|
+711230|Operador de máquina perfuratriz|01012014|
+711235|Operador de motoniveladora (extração de minerais sólidos)|01012014|
+711240|Operador de schutthecar|01012014|
+711245|Operador de trator (minas e pedreiras)|01012014|
+711305|Operador de sonda a percussão|01012014|
+711310|Operador de sonda rotativa|01012014|
+711315|Sondador (poços de petróleo e gás)|01012014|
+711320|Sondador de poços (exceto de petróleo e gás)|01012014|
+711325|Plataformista (petróleo)|01012014|
+711330|Torrista (petróleo)|01012014|
+711405|Garimpeiro|01012014|
+711410|Operador de salina (sal marinho)|01012014|
+712105|Moleiro de minérios|01012014|
+712110|Operador de aparelho de flotação|01012014|
+712115|Operador de aparelho de precipitação (minas de ouro ou prata)|01012014|
+712120|Operador de britador de mandíbulas|01012014|
+712125|Operador de espessador|01012014|
+712130|Operador de jig (minas)|01012014|
+712135|Operador de peneiras hidráulicas|01012014|
+712205|Cortador de pedras|01012014|
+712210|Gravador de inscrições em pedra|01012014|
+712215|Gravador de relevos em pedra|01012014|
+712220|Polidor de pedras|01012014|
+712225|Torneiro (lavra de pedra)|01012014|
+712230|Traçador de pedras|01012014|
+715105|Operador de bate-estacas|01012014|
+715110|Operador de compactadora de solos|01012014|
+715115|Operador de escavadeira|01012014|
+715120|Operador de máquina de abrir valas|01012014|
+715125|Operador de máquinas de construção civil e mineração|01012014|
+715130|Operador de motoniveladora|01012014|
+715135|Operador de pá carregadeira|01012014|
+715140|Operador de pavimentadora (asfalto, concreto e materiais similares)|01012014|
+715145|Operador de trator de lâmina|01012014|
+715205|Calceteiro|01012014|
+715210|Pedreiro|01012014|
+715215|Pedreiro (chaminés industriais)|01012014|
+715220|Pedreiro (material refratário)|01012014|
+715225|Pedreiro (mineração)|01012014|
+715230|Pedreiro de edificações|01012014|
+715305|Armador de estrutura de concreto|01012014|
+715310|Moldador de corpos de prova em usinas de concreto|01012014|
+715315|Armador de estrutura de concreto armado|01012014|
+715405|Operador de betoneira|01012014|
+715410|Operador de bomba de concreto|01012014|
+715415|Operador de central de concreto|01012014|
+715420|Operador de usina de asfalto|14032022|
+715505|Carpinteiro|01012014|
+715510|Carpinteiro (esquadrias)|01012014|
+715515|Carpinteiro (cenários)|01012014|
+715520|Carpinteiro (mineração)|01012014|
+715525|Carpinteiro de obras|01012014|
+715530|Carpinteiro (telhados)|01012014|
+715535|Carpinteiro de fôrmas para concreto|01012014|
+715540|Carpinteiro de obras civis de arte (pontes, túneis, barragens)|01012014|
+715545|Montador de andaimes (edificações)|01012014|
+715605|Eletricista de instalações (cenários)|01012014|
+715610|Eletricista de instalações (edifícios)|01012014|
+715615|Eletricista de instalações|01012014|
+715705|Aplicador de asfalto impermeabilizante (coberturas)|01012014|
+715710|Instalador de isolantes acústicos|01012014|
+715715|Instalador de isolantes térmicos (refrigeração e climatização)|01012014|
+715720|Instalador de isolantes térmicos de caldeira e tubulações|01012014|
+715725|Instalador de material isolante, à mão (edificações)|01012014|
+715730|Instalador de material isolante, à máquina (edificações)|01012014|
+716105|Acabador de superfícies de concreto|01012014|
+716110|Revestidor de superfícies de concreto|01012014|
+716205|Telhador (telhas de argila e materiais similares)|01012014|
+716210|Telhador (telhas de cimento-amianto)|01012014|13032025
+716210|Telhador (telhas de fibrocimento)|14032025|
+716215|Telhador (telhas metálicas)|01012014|
+716220|Telhador (telhas plásticas)|01012014|
+716305|Vidraceiro|01012014|
+716310|Vidraceiro (edificações)|01012014|
+716315|Vidraceiro (vitrais)|01012014|
+716405|Gesseiro|01012014|
+716505|Assoalhador|01012014|13032025
+716505|Assentador de revestimentos e laminados de madeira|14032025|
+716510|Ladrilheiro|01012014|31012018
+716510|Assentador de revestimentos cerâmicos|01022018|
+716515|Pastilheiro|01012014|
+716520|Lustrador de piso|01012014|
+716525|Marmorista (construção)|01012014|13032025
+716525|Assentador de mármores, granitos e outras pedras decorativas|14032025|
+716530|Mosaísta|01012014|
+716535|Taqueiro|01012014|
+716540|Rejuntador de revestimentos|01022018|
+716605|Calafetador|01012014|
+716610|Pintor de obras|01012014|
+716615|Revestidor de interiores (papel, material plástico e emborrachados)|01012014|
+717005|Demolidor de edificações|01012014|
+717010|Operador de martelete|01012014|
+717015|Poceiro (edificações)|01012014|
+717020|Servente de obras|01012014|
+717025|Vibradorista|01012014|
+720105|Mestre (afiador de ferramentas)|01012014|
+720110|Mestre de caldeiraria|01012014|
+720115|Mestre de ferramentaria|01012014|
+720120|Mestre de forjaria|01012014|
+720125|Mestre de fundição|01012014|
+720130|Mestre de galvanoplastia|01012014|
+720135|Mestre de pintura (tratamento de superfícies)|01012014|
+720140|Mestre de soldagem|01012014|
+720145|Mestre de trefilação de metais|01012014|
+720150|Mestre de usinagem|01012014|
+720155|Mestre serralheiro|01012014|
+720160|Supervisor de controle de tratamento térmico|01012014|
+720205|Mestre (construção naval)|01012014|
+720210|Mestre (indústria de automotores e material de transportes)|01012014|
+720215|Mestre (indústria de máquinas e outros equipamentos mecânicos)|01012014|
+720220|Mestre de construção de fornos|01012014|
+721105|Ferramenteiro|01012014|
+721110|Ferramenteiro de mandris, calibradores e outros dispositivos|01012014|
+721115|Modelador de metais (fundição)|01012014|
+721205|Operador de máquina de eletroerosão|01012014|
+721210|Operador de máquinas operatrizes|01012014|
+721215|Operador de máquinas-ferramenta convencionais|01012014|
+721220|Operador de usinagem convencional por abrasão|01012014|
+721225|Preparador de máquinas-ferramenta|01012014|
+721305|Afiador de cardas|01012014|
+721310|Afiador de cutelaria|01012014|
+721315|Afiador de ferramentas|01012014|
+721320|Afiador de serras|01012014|
+721325|Polidor de metais|01012014|
+721405|Operador de centro de usinagem com comando numérico|01012014|
+721410|Operador de fresadora com comando numérico|01012014|
+721415|Operador de mandriladora com comando numérico|01012014|
+721420|Operador de máquina eletroerosão, à fio, com comando numérico|01012014|
+721425|Operador de retificadora com comando numérico|01012014|
+721430|Operador de torno com comando numérico|01012014|
+722105|Forjador|01012014|
+722110|Forjador a martelo|01012014|
+722115|Forjador prensista|01012014|
+722205|Fundidor de metais|01012014|
+722210|Lingotador|01012014|19032023
+722210|Operador de lingotamento|20032023|
+722215|Operador de acabamento de peças fundidas|01012014|
+722220|Operador de máquina centrifugadora de fundição|01012014|22022021
+722220|Operador de máquina de fundição|23022021|
+722225|Operador de máquina de fundir sob pressão|01012014|21032023
+722230|Operador de vazamento (lingotamento)|01012014|19032023
+722230|Operador de vazamento|20032023|
+722235|Preparador de panelas (lingotamento)|01012014|19032023
+722235|Preparador de panelas|20032023|
+722305|Macheiro, a mão|01012014|
+722310|Macheiro, a máquina|01012014|
+722315|Moldador, a mão|01012014|13032025
+722315|Moldador e fundição, a mão|14032025|
+722320|Moldador, a máquina|01012014|13032025
+722320|Moldador em fundição, a máquina|14032025|
+722325|Operador de equipamentos de preparação de areia|01012014|
+722330|Operador de máquina de moldar automatizada|01012014|
+722405|Cableador|01012014|
+722410|Estirador de tubos de metal sem costura|01012014|
+722415|Trefilador de metais, à máquina|01012014|
+723105|Cementador de metais|01012014|
+723110|Normalizador de metais e de compósitos|01012014|
+723115|Operador de equipamento para resfriamento|01012014|
+723120|Operador de forno de tratamento térmico de metais|01012014|
+723125|Temperador de metais e de compósitos|01012014|
+723205|Decapador|01012014|
+723210|Fosfatizador|01012014|
+723215|Galvanizador|01012014|
+723220|Metalizador, à pistola|01012014|
+723225|Metalizador (banho quente)|01012014|
+723230|Operador de máquina recobridora de arame|01012014|
+723235|Operador de zincagem (processo eletrolítico)|01012014|
+723240|Oxidador|01012014|
+723305|Operador de equipamento de secagem de pintura|01012014|
+723310|Pintor a pincel e rolo (exceto obras e estruturas metálicas)|01012014|
+723315|Pintor de estruturas metálicas|01012014|
+723320|Pintor de veículos (fabricação)|01012014|
+723325|Pintor por imersão|01012014|
+723330|Pintor, a pistola (exceto obras e estruturas metálicas)|01012014|
+724105|Assentador de canalização (edificações)|01012014|
+724110|Encanador|01012014|
+724115|Instalador de tubulações|01012014|
+724120|Instalador de tubulações (aeronaves)|01012014|
+724125|Instalador de tubulações (embarcações)|01012014|
+724130|Instalador de tubulações de gás combustível (produção e distribuição)|01012014|
+724135|Instalador de tubulações de vapor (produção e distribuição)|01012014|
+724205|Montador de estruturas metálicas|01012014|
+724210|Montador de estruturas metálicas de embarcações|01012014|
+724215|Rebitador a martelo pneumático|01012014|
+724220|Preparador de estruturas metálicas|01012014|
+724225|Riscador de estruturas metálicas|01012014|
+724230|Rebitador, a mão|01012014|
+724305|Brasador|01012014|
+724310|Oxicortador a mão e a máquina|01012014|
+724315|Soldador|01012014|
+724320|Soldador a oxigás|01012014|
+724325|Soldador elétrico|01012014|
+724405|Caldeireiro (chapas de cobre)|01012014|
+724410|Caldeireiro (chapas de ferro e aço)|01012014|
+724415|Chapeador|01012014|
+724420|Chapeador de carrocerias metálicas (fabricação)|01012014|
+724425|Chapeador naval|01012014|
+724430|Chapeador de aeronaves|01012014|
+724435|Funileiro industrial|01012014|
+724440|Serralheiro|01012014|
+724505|Operador de máquina de cilindrar chapas|01012014|
+724510|Operador de máquina de dobrar chapas|01012014|
+724515|Prensista (operador de prensa)|01012014|
+724605|Operador de laços de cabos de aço|01012014|
+724610|Trançador de cabos de aço|01012014|
+725005|Ajustador ferramenteiro|01012014|
+725010|Ajustador mecânico|01012014|
+725015|Ajustador mecânico (usinagem em bancada e em máquinas-ferramentas)|01012014|
+725020|Ajustador mecânico em bancada|01012014|
+725025|Ajustador naval (reparo e construção)|01012014|
+725030|Operador de manutenção e recarga de extintor de incêndio|14032022|
+725105|Montador de máquinas, motores e acessórios (montagem em série)|01012014|
+725205|Montador de máquinas|01012014|
+725210|Montador de máquinas gráficas|01012014|
+725215|Montador de máquinas operatrizes para madeira|01012014|
+725220|Montador de máquinas têxteis|01012014|
+725225|Montador de máquinas-ferramentas (usinagem de metais)|01012014|
+725305|Montador de equipamento de levantamento|01012014|
+725310|Montador de máquinas agrícolas|01012014|
+725315|Montador de máquinas de minas e pedreiras|01012014|
+725320|Montador de máquinas de terraplenagem|01012014|
+725405|Mecânico montador de motores de aeronaves|01012014|
+725410|Mecânico montador de motores de embarcações|01012014|
+725415|Mecânico montador de motores de explosão e diesel|01012014|
+725420|Mecânico montador de turboalimentadores|01012014|
+725505|Montador de veículos (linha de montagem)|01012014|
+725510|Operador de time de montagem|01012014|
+725605|Montador de estruturas de aeronaves|01012014|
+725610|Montador de sistemas de combustível de aeronaves|01012014|
+725705|Mecânico de refrigeração|01012014|13032025
+725705|Mecânico de refrigeração e climatização|14032025|
+730105|Supervisor de montagem e instalação eletroeletrônica|01012014|
+731105|Montador de equipamentos eletrônicos (aparelhos médicos)|01012014|13032025
+731105|Montador de equipamentos eletroeletrônicos odonto-médico-hospitalares|14032025|
+731110|Montador de equipamentos eletrônicos (computadores e equipamentos auxiliares)|01012014|
+731115|Montador de equipamentos elétricos (instrumentos de medição)|01012014|13032025
+731115|Montador de equipamentos eletroeletrônicos (instrumentos de medição)|14032025|
+731120|Montador de equipamentos elétricos (aparelhos eletrodomésticos)|01012014|13032025
+731120|Montador de equipamentos eletroeletrônicos (aparelhos eletrodomésticos)|14032025|
+731125|Montador de equipamentos elétricos (centrais elétricas)|01012014|
+731130|Montador de equipamentos elétricos (motores e dínamos)|01012014|
+731135|Montador de equipamentos elétricos|01012014|
+731140|Montador de equipamentos eletrônicos (instalações de sinalização)|01012014|
+731145|Montador de equipamentos eletrônicos (máquinas industriais)|01012014|13032025
+731145|Montador de equipamentos eletroeletrônicos (máquinas industriais)|14032025|
+731150|Montador de equipamentos eletrônicos|01012014|
+731155|Montador de equipamentos elétricos (elevadores e equipamentos similares)|01012014|
+731160|Montador de equipamentos elétricos (transformadores)|01012014|
+731165|Bobinador eletricista, à mão|01012014|
+731170|Bobinador eletricista, à máquina|01012014|
+731175|Operador de linha de montagem (aparelhos elétricos)|01012014|
+731180|Operador de linha de montagem (aparelhos eletrônicos)|01012014|
+731205|Montador de equipamentos eletrônicos (estação de rádio, tv e equipamentos de radar)|01012014|
+731305|Instalador-reparador de equipamentos de comutação em telefonia|01012014|
+731310|Instalador-reparador de equipamentos de energia em telefonia|01012014|
+731315|Instalador-reparador de equipamentos de transmissão em telefonia|01012014|
+731320|Instalador-reparador de linhas e aparelhos de telecomunicações|01012014|
+731325|Instalador-reparador de redes e cabos telefônicos|01012014|
+731330|Reparador de aparelhos de telecomunicações em laboratório|01012014|
+732105|Eletricista de manutenção de linhas elétricas, telefônicas e de comunicação de dados|01012014|
+732110|Emendador de cabos elétricos e telefônicos (aéreos e subterrâneos)|01012014|
+732115|Examinador de cabos, linhas elétricas e telefônicas|01012014|
+732120|Instalador de linhas elétricas de alta e baixa tensão (rede aérea e subterrânea)|01012014|
+732125|Instalador eletricista (tração de veículos)|01012014|
+732130|Instalador-reparador de redes telefônicas e de comunicação de dados|01012014|
+732135|Ligador de linhas telefônicas|01012014|13032025
+732135|Ligador de linhas de comunicação de voz e dados|14032025|
+732140|Instalador de sistemas fotovoltaicos|01022018|
+740105|Supervisor da mecânica de precisão|01012014|
+740110|Supervisor de fabricação de instrumentos musicais|01012014|
+741105|Ajustador de instrumentos de precisão|01012014|
+741110|Montador de instrumentos de óptica|01012014|
+741115|Montador de instrumentos de precisão|01012014|
+741120|Relojoeiro (fabricação)|01012014|
+741125|Relojoeiro (reparação)|01012014|
+742105|Afinador de instrumentos musicais|01012014|
+742110|Confeccionador de acordeão|01012014|
+742115|Confeccionador de instrumentos de corda|01012014|
+742120|Confeccionador de instrumentos de percussão (pele, couro ou plástico)|01012014|
+742125|Confeccionador de instrumentos de sopro (madeira)|01012014|
+742130|Confeccionador de instrumentos de sopro (metal)|01012014|
+742135|Confeccionador de órgão|01012014|
+742140|Confeccionador de piano|01012014|13032025
+742140|Confeccionador de piano acústico|14032025|
+750105|Supervisor de joalheria|01012014|
+750205|Supervisor da indústria de minerais não metálicos (exceto os derivados de petróleo e carvão)|01012014|
+751005|Engastador (joias)|01012014|
+751010|Joalheiro|01012014|
+751015|Joalheiro (reparações)|01012014|
+751020|Lapidador (joias)|01012014|
+751105|Bate-folha a máquina|01012014|
+751110|Fundidor (joalheria e ourivesaria)|01012014|
+751115|Gravador (joalheria e ourivesaria)|01012014|
+751120|Laminador de metais preciosos a mão|01012014|13032025
+751120|Laminador de metais preciosos à máquina|14032025|
+751125|Ourives|01012014|
+751130|Trefilador (joalheria e ourivesaria)|01012014|
+752105|Artesão modelador (vidros)|01012014|
+752110|Moldador (vidros)|01012014|
+752115|Soprador de vidro|01012014|
+752120|Transformador de tubos de vidro|01012014|
+752205|Aplicador serigráfico em vidros|01012014|
+752210|Cortador de vidro|01012014|
+752215|Gravador de vidro a água-forte|01012014|
+752220|Gravador de vidro a esmeril|01012014|
+752225|Gravador de vidro a jato de areia|01012014|
+752230|Lapidador de vidros e cristais|01012014|
+752235|Surfassagista|01012014|
+752305|Ceramista|01012014|
+752310|Ceramista (torno de pedal e motor)|01012014|
+752315|Ceramista (torno semiautomático)|01012014|
+752320|Ceramista modelador|01012014|
+752325|Ceramista moldador|01012014|
+752330|Ceramista prensador|01012014|
+752405|Decorador de cerâmica|01012014|
+752410|Decorador de vidro|01012014|
+752415|Decorador de vidro à pincel|01012014|
+752420|Operador de esmaltadeira|01012014|
+752425|Operador de espelhamento|01012014|
+752430|Pintor de cerâmica, a pincel|01012014|
+760105|Contramestre de acabamento (indústria têxtil)|01012014|
+760110|Contramestre de fiação (indústria têxtil)|01012014|
+760115|Contramestre de malharia (indústria têxtil)|01012014|
+760120|Contramestre de tecelagem (indústria têxtil)|01012014|
+760125|Mestre (indústria têxtil e de confecções)|01012014|
+760205|Supervisor de curtimento|01012014|
+760305|Encarregado de corte na confecção do vestuário|01012014|
+760310|Encarregado de costura na confecção do vestuário|01012014|
+760405|Supervisor (indústria de calçados e artefatos de couro)|01012014|
+760505|Supervisor da confecção de artefatos de tecidos, couros e afins|01012014|
+760605|Supervisor das artes gráficas (indústria editorial e gráfica)|01012014|
+761005|Operador polivalente da indústria têxtil|01012014|
+761105|Classificador de fibras têxteis|01012014|
+761110|Lavador de lã|01012014|
+761205|Operador de abertura (fiação)|01012014|
+761210|Operador de binadeira|01012014|
+761215|Operador de bobinadeira|01012014|
+761220|Operador de cardas|01012014|
+761225|Operador de conicaleira|01012014|
+761230|Operador de filatório|01012014|
+761235|Operador de laminadeira e reunideira|01012014|
+761240|Operador de maçaroqueira|01012014|
+761245|Operador de open-end|01012014|
+761250|Operador de passador (fiação)|01012014|
+761255|Operador de penteadeira|01012014|
+761260|Operador de retorcedeira|01012014|
+761303|Tecelão (redes)|01012014|
+761306|Tecelão (rendas e bordados)|01012014|
+761309|Tecelão (tear automático)|01012014|
+761312|Tecelão (tear jacquard)|01012014|
+761315|Tecelão (tear mecânico de maquineta)|01012014|
+761318|Tecelão (tear mecânico de xadrez)|01012014|
+761321|Tecelão (tear mecânico liso)|01012014|
+761324|Tecelão (tear mecânico, exceto jacquard)|01012014|
+761327|Tecelão de malhas, a máquina|01012014|
+761330|Tecelão de malhas (máquina circular)|01012014|
+761333|Tecelão de malhas (máquina retilínea)|01012014|
+761336|Tecelão de meias, a máquina|01012014|
+761339|Tecelão de meias (máquina circular)|01012014|
+761342|Tecelão de meias (máquina retilínea)|01012014|
+761345|Tecelão de tapetes, a máquina|01012014|
+761348|Operador de engomadeira de urdume|01012014|
+761351|Operador de espuladeira|01012014|
+761354|Operador de máquina de cordoalha|01012014|
+761357|Operador de urdideira|01012014|
+761360|Passamaneiro a máquina|01012014|
+761363|Remetedor de fios|01012014|
+761366|Picotador de cartões jacquard|01012014|
+761405|Alvejador (tecidos)|01012014|
+761410|Estampador de tecido|01012014|
+761415|Operador de calandras (tecidos)|01012014|
+761420|Operador de chamuscadeira de tecidos|01012014|
+761425|Operador de impermeabilizador de tecidos|01012014|
+761430|Operador de máquina de lavar fios e tecidos|01012014|
+761435|Operador de rameuse|01012014|
+761805|Inspetor de estamparia (produção têxtil)|01012014|
+761810|Revisor de fios (produção têxtil)|01012014|
+761815|Revisor de tecidos acabados|01012014|
+761820|Revisor de tecidos crus|01012014|
+762005|Trabalhador polivalente do curtimento de couros e peles|01012014|
+762105|Classificador de peles|01012014|
+762110|Descarnador de couros e peles, à maquina|01012014|
+762115|Estirador de couros e peles (preparação)|01012014|
+762120|Fuloneiro|01012014|
+762125|Rachador de couros e peles|01012014|
+762205|Curtidor (couros e peles)|01012014|
+762210|Classificador de couros|01012014|
+762215|Enxugador de couros|01012014|
+762220|Rebaixador de couros|01012014|
+762305|Estirador de couros e peles (acabamento)|01012014|
+762310|Fuloneiro no acabamento de couros e peles|01012014|
+762315|Lixador de couros e peles|01012014|
+762320|Matizador de couros e peles|01012014|
+762325|Operador de máquinas do acabamento de couros e peles|01012014|
+762330|Prensador de couros e peles|01012014|
+762335|Palecionador de couros e peles|01012014|
+762340|Preparador de couros curtidos|01012014|
+762345|Vaqueador de couros e peles|01012014|
+763005|Alfaiate|01012014|
+763010|Costureira de peças sob encomenda|01012014|
+763015|Costureira de reparação de roupas|01012014|
+763020|Costureiro de roupa de couro e pele|01012014|
+763105|Auxiliar de corte (preparação da confecção de roupas)|01012014|
+763110|Cortador de roupas|01012014|
+763115|Enfestador de roupas|01012014|
+763120|Riscador de roupas|01012014|
+763125|Ajudante de confecção|01012014|
+763205|Costureiro de roupas de couro e pele, a máquina na confecção em série|01012014|
+763210|Costureiro na confecção em série|01012014|
+763215|Costureiro, a máquina na confecção em série|01012014|
+763305|Arrematadeira|01012014|
+763310|Bordador, à máquina|01012014|
+763315|Marcador de peças confeccionadas para bordar|01012014|
+763320|Operador de máquina de costura para acabamento|01012014|
+763325|Passadeira de peças confeccionadas|01012014|
+764005|Trabalhador polivalente da confecção de calçados|01012014|
+764105|Cortador de calçados, a máquina (exceto solas e palmilhas)|01012014|
+764110|Cortador de solas e palmilhas, a máquina|01012014|
+764115|Preparador de calçados|01012014|
+764120|Preparador de solas e palmilhas|01012014|
+764205|Costurador de calçados, a máquina|01012014|
+764210|Montador de calçados|01012014|
+764305|Acabador de calçados|01012014|
+765005|Confeccionador de artefatos de couro (exceto sapatos)|01012014|
+765010|Chapeleiro de senhoras|01012014|
+765015|Boneleiro|01012014|
+765105|Cortador de artefatos de couro (exceto roupas e calçados)|01012014|
+765110|Cortador de tapeçaria|01012014|
+765205|Colchoeiro (confecção de colchões)|01012014|
+765215|Confeccionador de brinquedos de pano|01012014|
+765225|Confeccionador de velas náuticas, barracas e toldos|01012014|
+765230|Estofador de aviões|01012014|
+765235|Estofador de móveis|01012014|
+765240|Tapeceiro de autos|01012014|
+765310|Costurador de artefatos de couro, à máquina (exceto roupas e calçados)|01012014|
+765315|Montador de artefatos de couro (exceto roupas e calçados)|01012014|
+765405|Trabalhador do acabamento de artefatos de tecidos e couros|01012014|
+766105|Copiador de chapa|01012014|
+766115|Gravador de matriz para flexografia (clicherista)|01012014|
+766120|Editor de texto e imagem|01012014|
+766125|Montador de fotolito (analógico e digital)|01012014|
+766130|Gravador de matriz para rotogravura (eletromecânico e químico)|01012014|
+766135|Gravador de matriz calcográfica|01012014|
+766140|Gravador de matriz serigráfica|01012014|
+766145|Operador de sistemas de prova (analógico e digital)|01012014|
+766150|Operador de processo de tratamento de imagem|01012014|
+766155|Programador visual gráfico|01012014|
+766205|Impressor (serigrafia)|01012014|
+766210|Impressor calcográfico|01012014|
+766215|Impressor de ofsete (plano e rotativo)|01012014|
+766220|Impressor de rotativa|01012014|
+766225|Impressor de rotogravura|01012014|
+766230|Impressor digital|01012014|
+766235|Impressor flexográfico|01012014|
+766240|Impressor letterset|01012014|
+766245|Impressor tampográfico|01012014|
+766250|Impressor tipográfico|01012014|
+766305|Acabador de embalagens (flexíveis e cartotécnicas)|01012014|
+766310|Impressor de corte e vinco|01012014|
+766315|Operador de acabamento (indústria gráfica)|01012014|
+766320|Operador de guilhotina (corte de papel)|01012014|
+766325|Preparador de matrizes de corte e vinco|01012014|
+766405|Laboratorista fotográfico|01012014|
+766410|Revelador de filmes fotográficos, em preto e branco|01012014|
+766415|Revelador de filmes fotográficos, em cores|01012014|
+766420|Auxiliar de radiologia (revelação fotográfica)|01012014|
+768105|Tecelão (tear manual)|01012014|
+768110|Tecelão de tapetes, à mão|01012014|
+768115|Tricoteiro, à mão|01012014|
+768120|Redeiro|01012014|
+768125|Chapeleiro (chapéus de palha)|01012014|
+768130|Crocheteiro, a mão|01012014|
+768205|Bordador, à mão|01012014|
+768210|Cerzidor|01012014|
+768305|Artífice do couro|01012014|
+768310|Cortador de calçados, à mão (exceto solas)|01012014|
+768315|Costurador de artefatos de couro, à mão (exceto roupas e calçados)|01012014|
+768320|Sapateiro (calçados sob medida)|01012014|
+768325|Seleiro|01012014|
+768605|Tipógrafo|01012014|
+768610|Linotipista|01012014|
+768615|Monotipista|01012014|
+768620|Paginador|01012014|
+768625|Pintor de letreiros|01012014|
+768630|Confeccionador de carimbos de borracha|01012014|
+768705|Gravador, à mão (encadernação)|01012014|13032025
+768705|Encadernador e gravador de capas e lombadas|14032025|
+768710|Restaurador de livros|01012014|
+770105|Mestre (indústria de madeira e mobiliário)|01012014|13032025
+770105|Encarregado de produção (indústria de madeira e mobiliário)|14032025|
+770110|Mestre carpinteiro|01012014|13032025
+770110|Encarregado de carpintaria|14032025|
+771105|Marceneiro|01012014|
+771110|Modelador de madeira|01012014|
+771115|Maquetista na marcenaria|01012014|
+771120|Tanoeiro|01012014|
+772105|Classificador de madeira|01012014|
+772110|Impregnador de madeira|01012014|
+772115|Secador de madeira|01012014|13032025
+772115|Operador de secagem de madeira|14032025|
+773105|Cortador de laminados de madeira|01012014|
+773110|Operador de serras no desdobramento de madeira|01012014|
+773115|Serrador de bordas no desdobramento de madeira|01012014|
+773120|Serrador de madeira|01012014|
+773125|Serrador de madeira (serra circular múltipla)|01012014|
+773130|Serrador de madeira (serra de fita múltipla)|01012014|
+773205|Operador de máquina intercaladora de placas (compensados)|01012014|
+773210|Prensista de aglomerados|01012014|
+773215|Prensista de compensados|01012014|
+773220|Preparador de aglomerantes|01012014|
+773305|Operador de desempenadeira na usinagem convencional de madeira|01012014|
+773310|Operador de entalhadeira (usinagem de madeira)|01012014|
+773315|Operador de fresadora (usinagem de madeira)|01012014|
+773320|Operador de lixadeira (usinagem de madeira)|01012014|
+773325|Operador de máquina de usinagem madeira, em geral|01012014|
+773330|Operador de molduradora (usinagem de madeira)|01012014|
+773335|Operador de plaina desengrossadeira|01012014|
+773340|Operador de serras (usinagem de madeira)|01012014|
+773345|Operador de torno automático (usinagem de madeira)|01012014|
+773350|Operador de tupia (usinagem de madeira)|01012014|
+773355|Torneiro na usinagem convencional de madeira|01012014|
+773405|Operador de máquina bordatriz|01012014|
+773410|Operador de máquina de cortina d'água (produção de móveis)|01012014|
+773415|Operador de máquina de usinagem de madeira (produção em série)|01012014|
+773420|Operador de prensa de alta frequência na usinagem de madeira|01012014|13032025
+773420|Operador de prensa de alta frequência na produção de painéis de madeira|14032025|
+773505|Operador de centro de usinagem de madeira (cnc)|01012014|
+773510|Operador de máquinas de usinar madeira (cnc)|01012014|
+774105|Montador de móveis e artefatos de madeira|01012014|
+775105|Entalhador de madeira|01012014|
+775110|Folheador de móveis de madeira|01012014|
+775115|Lustrador de peças de madeira|01012014|
+775120|Marcheteiro|01012014|
+776405|Cesteiro|01012014|
+776410|Confeccionador de escovas, pincéis e produtos similares (à mão)|01012014|
+776415|Confeccionador de escovas, pincéis e produtos similares (à máquina)|01012014|
+776420|Confeccionador de móveis de vime, junco e bambu|01012014|
+776425|Esteireiro|01012014|
+776430|Vassoureiro|01012014|
+777105|Carpinteiro naval (construção de pequenas embarcações)|01012014|
+777110|Carpinteiro naval (embarcações)|01012014|
+777115|Carpinteiro naval (estaleiros)|01012014|
+777205|Carpinteiro de carretas|01012014|
+777210|Carpinteiro de carrocerias|01012014|
+780105|Supervisor de embalagem e etiquetagem|01012014|
+781105|Condutor de processos robotizados de pintura|01012014|
+781110|Condutor de processos robotizados de soldagem|01012014|
+781305|Operador de veículos subaquáticos controlados remotamente|01012014|
+781310|Operador de aeronaves não tripuladas|01022021|
+781705|Mergulhador profissional (raso e profundo)|01012014|
+782105|Operador de draga|01012014|
+782110|Operador de guindaste (fixo)|01012014|
+782115|Operador de guindaste móvel|01012014|
+782120|Operador de máquina rodoferroviária|01012014|
+782125|Operador de monta-cargas (construção civil)|01012014|
+782130|Operador de ponte rolante|01012014|
+782135|Operador de pórtico rolante|01012014|
+782140|Operador de talha elétrica|01012014|
+782145|Sinaleiro (ponte rolante)|01012014|
+782205|Guincheiro (construção civil)|01012014|
+782210|Operador de docagem|01012014|
+782220|Operador de empilhadeira|01012014|
+782305|Motorista de carro de passeio|01012014|
+782310|Motorista de furgão ou veículo similar|01012014|
+782315|Motorista de táxi|01012014|
+782320|Condutor de ambulância|01012014|
+782405|Motorista de ônibus rodoviário|01012014|
+782410|Motorista de ônibus urbano|01012014|
+782415|Motorista de trólebus|01012014|
+782420|Condutor escolar (terrestre)|01052024|
+782505|Caminhoneiro autônomo (rotas regionais e internacionais)|01012014|
+782510|Motorista de caminhão (rotas regionais e internacionais)|01012014|
+782515|Motorista operacional de guincho|01012014|
+782605|Operador de trem de metrô|01012014|
+782610|Maquinista de trem|01012014|
+782615|Maquinista de trem metropolitano|01012014|
+782620|Motorneiro|01012014|
+782625|Auxiliar de maquinista de trem|01012014|
+782630|Operador de teleférico (passageiros)|01012014|
+782705|Marinheiro de convés (marítimo e fluviário)|01012014|
+782710|Marinheiro de máquinas|01012014|
+782715|Moço de convés (marítimo e fluviário)|01012014|
+782720|Moço de máquinas (marítimo e fluviário)|01012014|
+782725|Marinheiro de esporte e recreio|01012014|
+782730|Marinheiro auxiliar de convés (marítimo e aquaviario)|01012014|
+782735|Marinheiro auxiliar de máquinas (marítimo e aquaviário)|01012014|
+782805|Condutor de veículos de tração animal (ruas e estradas)|01012014|
+782810|Tropeiro|01012014|
+782815|Boiadeiro|01012014|
+782820|Condutor de veículos a pedais|01012014|
+783105|Agente de pátio|01012014|
+783110|Manobrador|01012014|
+783205|Carregador (aeronaves)|01012014|
+783210|Carregador (armazém)|01012014|
+783215|Carregador (veículos de transportes terrestres)|01012014|
+783220|Estivador|01012014|
+783225|Ajudante de motorista|01012014|
+783230|Bloqueiro (trabalhador portuário)|01012014|
+783235|Trabalhador portuário de capatazia|01012014|
+783240|Amarrador e desamarrador de embarcações|01022018|
+784105|Embalador, a mão|01012014|
+784110|Embalador, a máquina|01012014|
+784115|Operador de máquina de etiquetar|01012014|
+784120|Operador de máquina de envasar líquidos|01012014|
+784125|Operador de prensa de enfardamento|01012014|
+784205|Alimentador de linha de produção|01012014|
+791105|Artesão bordador|01012014|
+791110|Artesão ceramista|01012014|
+791115|Artesão com material reciclável|01012014|
+791120|Artesão confeccionador de biojóias e ecojóias|01012014|
+791125|Artesão do couro|01012014|
+791130|Artesão escultor|01012014|
+791135|Artesão moveleiro (exceto reciclado)|01012014|
+791140|Artesão tecelão|01012014|
+791145|Artesão trançador|01012014|
+791150|Artesão crocheteiro|01012014|
+791155|Artesão tricoteiro|01012014|
+791160|Artesão rendeiro|01012014|
+810105|Mestre (indústria petroquímica e carboquímica)|01012014|
+810110|Mestre de produção química|01012014|
+810205|Mestre (indústria de borracha e plástico)|01012014|
+810305|Mestre de produção farmacêutica|01012014|
+811005|Operador de processos químicos e petroquímicos|01012014|
+811010|Operador de sala de controle de instalações químicas, petroquímicas e afins|01012014|
+811105|Moleiro (tratamentos químicos e afins)|01012014|
+811110|Operador de máquina misturadeira (tratamentos químicos e afins)|01012014|
+811115|Operador de britadeira (tratamentos químicos e afins)|01012014|
+811120|Operador de concentração|01012014|
+811125|Trabalhador da fabricação de resinas e vernizes|01012014|
+811130|Trabalhador de fabricação de tintas|01012014|
+811205|Operador de calcinação (tratamento químico e afins)|01012014|
+811215|Operador de tratamento químico de materiais radioativos|01012014|
+811305|Operador de centrifugadora (tratamentos químicos e afins)|01012014|
+811310|Operador de exploração de petróleo|01012014|
+811315|Operador de filtro de secagem (mineração)|01012014|
+811320|Operador de filtro de tambor rotativo (tratamentos químicos e afins)|01012014|
+811325|Operador de filtro-esteira (mineração)|01012014|
+811330|Operador de filtro-prensa (tratamentos químicos e afins)|01012014|
+811335|Operador de filtros de parafina (tratamentos químicos e afins)|01012014|
+811405|Destilador de madeira|01012014|
+811410|Destilador de produtos químicos (exceto petróleo)|01012014|13052024
+811410|Destilador de produtos químicos por batelada (exceto petróleo)|14052024|
+811415|Operador de alambique de funcionamento contínuo (produtos químicos, exceto petróleo)|01012014|13052024
+811415|Operador de destilação de produtos químicos por processo contínuo (exceto petróleo)|14052024|
+811420|Operador de aparelho de reação e conversão (produtos químicos, exceto petróleo)|01012014|
+811425|Operador de equipamento de destilação de álcool|01012014|
+811430|Operador de evaporador na destilação|01012014|
+811505|Operador de painel de controle (refinação de petróleo)|01012014|
+811510|Operador de transferência e estocagem - na refinação do petróleo|01012014|
+811605|Operador de britador de coque|01012014|
+811610|Operador de carro de apagamento e coque|01012014|
+811615|Operador de destilação e subprodutos de coque|01012014|
+811620|Operador de enfornamento e desenfornamento de coque|01012014|
+811625|Operador de exaustor (coqueria)|01012014|
+811630|Operador de painel de controle|01012014|13052024
+811630|Operador de painel de controle (coqueificação)|14052024|
+811635|Operador de preservação e controle térmico|01012014|
+811640|Operador de reator de coque de petróleo|01012014|
+811645|Operador de refrigeração (coqueria)|01012014|
+811650|Operador de sistema de reversão (coqueria)|01012014|
+811705|Bamburista|01012014|
+811710|Calandrista de borracha|01012014|
+811715|Confeccionador de pneumáticos|01012014|
+811725|Confeccionador de velas por imersão|01012014|
+811735|Confeccionador de velas por moldagem|01012014|
+811745|Laminador de plástico|01012014|
+811750|Moldador de borracha por compressão|01012014|
+811760|Moldador de plástico por compressão|01012014|
+811770|Moldador de plástico por injeção|01012014|
+811775|Trefilador de borracha|01012014|
+811805|Operador de máquina de produtos farmacêuticos|01012014|
+811810|Drageador (medicamentos)|01012014|
+811815|Operador de máquina de fabricação de cosméticos|01012014|
+811820|Operador de máquina de fabricação de produtos de higiene e limpeza (sabão, sabonete, detergente, absorvente, fraldas cotonetes e outros)|01012014|
+812105|Pirotécnico|01012014|
+812110|Trabalhador da fabricação de munição e explosivos|01012014|
+813105|Cilindrista (petroquímica e afins)|01012014|
+813110|Operador de calandra (química, petroquímica e afins)|01012014|
+813115|Operador de extrusora (química, petroquímica e afins)|01012014|
+813120|Operador de processo (química, petroquímica e afins)|01012014|
+813125|Operador de produção (química, petroquímica e afins)|01012014|
+813130|Técnico de operação (química, petroquímica e afins)|01012014|
+818105|Assistente de laboratório industrial|01012014|
+818110|Auxiliar de laboratório de análises físico-químicas|01012014|
+820105|Mestre de siderurgia|01012014|
+820110|Mestre de aciaria|01012014|
+820115|Mestre de alto-forno|01012014|
+820120|Mestre de forno elétrico|01012014|
+820125|Mestre de laminação|01012014|
+820205|Supervisor de fabricação de produtos cerâmicos, porcelanatos e afins|01012014|
+820210|Supervisor de fabricação de produtos de vidro|01012014|
+821105|Operador de centro de controle|01012014|10042022
+821105|Operador de centro de controle (sinterização)|11042022|
+821110|Operador de máquina de sinterizar|01012014|
+821205|Forneiro e operador (alto-forno)|01012014|
+821210|Forneiro e operador (conversor a oxigênio)|01012014|
+821215|Forneiro e operador (forno elétrico)|01012014|
+821220|Forneiro e operador (refino de metais não-ferrosos)|01012014|
+821225|Forneiro e operador de forno de redução direta|01012014|
+821230|Operador de aciaria (basculamento de convertedor)|01012014|
+821235|Operador de aciaria (dessulfuração de gusa)|01012014|
+821240|Operador de aciaria (recebimento de gusa)|01012014|
+821245|Operador de área de corrida|01012014|
+821250|Operador de desgaseificação|01012014|
+821255|Soprador de convertedor|01012014|
+821305|Operador de laminador|01012014|
+821310|Operador de laminador de barras a frio|01012014|
+821315|Operador de laminador de barras a quente|01012014|
+821320|Operador de laminador de metais não-ferrosos|01012014|
+821325|Operador de laminador de tubos|01012014|
+821330|Operador de montagem de cilindros e mancais|01012014|
+821335|Recuperador de guias e cilindros|01012014|
+821405|Encarregado de acabamento de chapas e metais (têmpera)|01012014|
+821410|Escarfador|01012014|
+821415|Marcador de produtos (siderúrgico e metalúrgico)|01012014|
+821420|Operador de bobinadeira de tiras a quente, no acabamento de chapas e metais|01012014|
+821425|Operador de cabine de laminação (fio-máquina)|01012014|
+821430|Operador de escória e sucata|01012014|
+821435|Operador de jato abrasivo|01012014|
+821440|Operador de tesoura mecânica e máquina de corte, no acabamento de chapas e metais|01012014|
+821445|Preparador de sucata e aparas|01012014|
+821450|Rebarbador de metal|01012014|
+822105|Forneiro de cubilô|01012014|
+822110|Forneiro de forno-poço|01012014|
+822115|Forneiro de fundição (forno de redução)|01012014|
+822120|Forneiro de reaquecimento e tratamento térmico na metalurgia|01012014|
+822125|Forneiro de revérbero|01012014|
+823105|Preparador de massa (fabricação de abrasivos)|01012014|
+823110|Preparador de massa (fabricação de vidro)|01012014|
+823115|Preparador de massa de argila|01012014|
+823120|Preparador de barbotina|01012014|
+823125|Preparador de esmaltes (cerâmica)|01012014|
+823130|Preparador de aditivos|01012014|
+823135|Operador de atomizador|01012014|
+823210|Extrusor de fios ou fibras de vidro|01012014|
+823215|Forneiro na fundição de vidro|01012014|
+823220|Forneiro no recozimento de vidro|01012014|
+823230|Moldador de abrasivos na fabricação de cerâmica, vidro e porcelana|01012014|
+823235|Operador de banho metálico de vidro por flutuação|01012014|
+823240|Operador de máquina de soprar vidro|01012014|
+823245|Operador de máquina extrusora de varetas e tubos de vidro|01012014|
+823250|Operador de prensa de moldar vidro|01012014|
+823255|Temperador de vidro|01012014|
+823265|Trabalhador na fabricação de produtos abrasivos|01012014|
+823305|Classificador e empilhador de tijolos refratários|01012014|
+823315|Forneiro (materiais de construção)|01012014|
+823320|Trabalhador da elaboração de pré-fabricados (cimento amianto)|01012014|13032025
+823320|Trabalhador da elaboração de pré-fabricados (fibrocimento sem amianto)|14032025|
+823325|Trabalhador da elaboração de pré-fabricados (concreto armado)|01012014|
+823330|Trabalhador da fabricação de pedras artificiais|01012014|
+828105|Oleiro (fabricação de telhas)|01012014|
+828110|Oleiro (fabricação de tijolos)|01012014|
+830105|Mestre (indústria de celulose, papel e papelão)|01012014|
+831105|Cilindreiro na preparação de pasta para fabricação de papel|01012014|
+831110|Operador de branqueador de pasta para fabricação de papel|01012014|
+831115|Operador de digestor de pasta para fabricação de papel|01012014|
+831120|Operador de lavagem e depuração de pasta para fabricação de papel|01012014|
+831125|Operador de máquina de secar celulose|01012014|
+832105|Calandrista de papel|01012014|
+832110|Operador de cortadeira de papel|01012014|
+832115|Operador de máquina de fabricar papel (fase úmida)|01012014|
+832120|Operador de máquina de fabricar papel (fase seca)|01012014|
+832125|Operador de máquina de fabricar papel e papelão|01012014|
+832135|Operador de rebobinadeira na fabricação de papel e papelão|01012014|
+833105|Cartonageiro, a máquina|01012014|
+833110|Confeccionador de bolsas, sacos e sacolas e papel, a máquina|01012014|
+833115|Confeccionador de sacos de celofane, a máquina|01012014|
+833120|Operador de máquina de cortar e dobrar papelão|01012014|
+833125|Operador de prensa de embutir papelão|01012014|
+833205|Cartonageiro, a mão (caixas de papelão)|01012014|
+840105|Supervisor de produção da indústria alimentícia|01012014|
+840110|Supervisor da indústria de bebidas|01012014|
+840115|Supervisor da indústria de fumo|01012014|
+840120|Chefe de confeitaria|01012014|
+841105|Moleiro de cereais (exceto arroz)|01012014|
+841110|Moleiro de especiarias|01012014|
+841115|Operador de processo de moagem|01012014|
+841205|Moedor de sal|01012014|
+841210|Refinador de sal|01012014|
+841305|Operador de cristalização na refinação de açucar|01012014|
+841310|Operador de equipamentos de refinação de açúcar (processo contínuo)|01012014|
+841315|Operador de moenda na fabricação de açúcar|01012014|
+841320|Operador de tratamento de calda na refinação de açúcar|01012014|
+841408|Cozinhador (conservação de alimentos)|01012014|
+841416|Cozinhador de carnes|01012014|
+841420|Cozinhador de frutas e legumes|01012014|
+841428|Cozinhador de pescado|01012014|
+841432|Desidratador de alimentos|01012014|
+841440|Esterilizador de alimentos|01012014|
+841444|Hidrogenador de óleos e gorduras|01012014|
+841448|Lagareiro|01012014|
+841456|Operador de câmaras frias|01012014|
+841460|Operador de preparação de grãos vegetais (óleos e gorduras)|01012014|
+841464|Prensador de frutas (exceto oleaginosas)|01012014|
+841468|Preparador de rações|01012014|
+841472|Refinador de óleo e gordura|01012014|
+841476|Trabalhador de fabricação de margarina|01012014|
+841484|Trabalhador de preparação de pescados (limpeza)|01012014|
+841505|Trabalhador de tratamento do leite e fabricação de laticínios e afins|01012014|
+841605|Misturador de café|01012014|
+841610|Torrador de café|01012014|
+841615|Moedor de café|01012014|
+841620|Operador de extração de café solúvel|01012014|
+841625|Torrador de cacau|01012014|
+841630|Misturador de chá ou mate|01012014|
+841705|Alambiqueiro|01012014|
+841710|Filtrador de cerveja|01012014|
+841715|Fermentador|01012014|
+841720|Trabalhador de fabricação de vinhos|01012014|
+841725|Malteiro (germinação)|01012014|
+841730|Cozinhador de malte|01012014|
+841735|Dessecador de malte|01012014|
+841740|Vinagreiro|01012014|
+841745|Xaropeiro|01012014|
+841805|Operador de forno (fabricação de pães, biscoitos e similares)|01012014|
+841810|Operador de máquinas de fabricação de doces, salgados e massas alimentícias|01012014|
+841815|Operador de máquinas de fabricação de chocolates e achocolatados|01012014|
+842105|Preparador de melado e essência de fumo|01012014|
+842110|Processador de fumo|01012014|
+842115|Classificador de fumo|01012014|
+842120|Auxiliar de processamento de fumo|01012014|
+842125|Operador de máquina (fabricação de cigarros)|01012014|
+842135|Operador de máquina de preparação de matéria prima para produção de cigarros|01012014|
+842205|Preparador de fumo na fabricação de charutos|01012014|
+842210|Operador de máquina de fabricar charutos e cigarrilhas|01012014|
+842215|Classificador de charutos|01012014|
+842220|Cortador de charutos|01012014|
+842225|Celofanista na fabricação de charutos|01012014|
+842230|Charuteiro a mão|01012014|
+842235|Degustador de charutos|01012014|
+848105|Defumador de carnes e pescados|01012014|
+848110|Salgador de alimentos|01012014|
+848115|Salsicheiro (fabricação de linguiça, salsicha e produtos similares)|01012014|
+848205|Pasteurizador|01012014|
+848210|Queijeiro na fabricação de laticínio|01012014|
+848215|Manteigueiro na fabricação de laticínio|01012014|
+848305|Padeiro|01012014|
+848310|Confeiteiro|01012014|
+848315|Masseiro (massas alimentícias)|01012014|
+848325|Trabalhador de fabricação de sorvete|01012014|
+848405|Degustador de café|01012014|
+848410|Degustador de chá|01012014|
+848415|Degustador de derivados de cacau|01012014|
+848420|Degustador de vinhos ou licores|01012014|
+848425|Classificador de grãos|01012014|
+848505|Abatedor|01012014|
+848510|Açougueiro|01012014|
+848515|Desossador|01012014|
+848520|Magarefe|01012014|
+848525|Retalhador de carne|01012014|
+848605|Trabalhador do beneficiamento de fumo|01012014|
+860105|Supervisor de manutenção eletromecânica (utilidades)|01012014|
+860110|Supervisor de operação de fluidos (distribuição, captação, tratamento de água, gases, vapor)|01012014|
+860115|Supervisor de operação elétrica (geração, transmissão e distribuição de energia elétrica)|01012014|
+861105|Operador de central hidrelétrica|01012014|
+861110|Operador de quadro de distribuição de energia elétrica|01012014|
+861115|Operador de central termoelétrica|01012014|
+861120|Operador de reator nuclear|01012014|
+861205|Operador de subestação|01012014|
+862105|Foguista (locomotivas a vapor)|01012014|
+862110|Maquinista de embarcações|01012014|
+862115|Operador de bateria de gás de hulha|01012014|
+862120|Operador de caldeira|01012014|
+862130|Operador de compressor de ar|01012014|
+862140|Operador de estação de bombeamento|01012014|
+862150|Operador de máquinas fixas, em geral|01012014|
+862155|Operador de utilidade (produção e distribuição de vapor, gás, óleo, combustível, energia, oxigênio)|01012014|
+862160|Operador de abastecimento de combustível de aeronave|01012014|
+862205|Operador de estação de captação, tratamento e distribuição de água|01012014|
+862305|Operador de estação de tratamento de água e efluentes|01012014|
+862310|Operador de forno de incineração no tratamento de água, efluentes e resíduos industriais|01012014|
+862405|Operador de instalação de extração, processamento, envasamento e distribuição de gases|01012014|
+862505|Operador de instalação de refrigeração|01012014|
+862510|Operador de refrigeração com amônia|01012014|
+862515|Operador de instalação de ar-condicionado|01012014|
+910105|Encarregado de manutenção mecânica de sistemas operacionais|01012014|
+910110|Supervisor de manutenção de aparelhos térmicos, de climatização e de refrigeração|01012014|
+910115|Supervisor de manutenção de bombas, motores, compressores e equipamentos de transmissão|01012014|
+910120|Supervisor de manutenção de máquinas gráficas|01012014|
+910125|Supervisor de manutenção de máquinas industriais têxteis|01012014|
+910130|Supervisor de manutenção de máquinas operatrizes e de usinagem|01012014|
+910205|Supervisor da manutenção e reparação de veículos leves|01012014|
+910210|Supervisor da manutenção e reparação de veículos pesados|01012014|
+910905|Supervisor de reparos linhas férreas|01012014|
+910910|Supervisor de manutenção de vias férreas|01012014|
+911105|Mecânico de manutenção de bomba injetora (exceto de veículos automotores)|01012014|
+911110|Mecânico de manutenção de bombas|01012014|
+911115|Mecânico de manutenção de compressores de ar|01012014|
+911120|Mecânico de manutenção de motores diesel (exceto de veículos automotores)|01012014|
+911125|Mecânico de manutenção de redutores|01012014|
+911130|Mecânico de manutenção de turbinas (exceto de aeronaves)|01012014|
+911135|Mecânico de manutenção de turbocompressores|01012014|
+911205|Mecânico de manutenção e instalação de aparelhos de climatização e refrigeração|01012014|
+911305|Mecânico de manutenção de máquinas, em geral|01012014|
+911310|Mecânico de manutenção de máquinas gráficas|01012014|
+911315|Mecânico de manutenção de máquinas operatrizes (lavra de madeira)|01012014|
+911320|Mecânico de manutenção de máquinas têxteis|01012014|
+911325|Mecânico de manutenção de máquinas-ferramentas (usinagem de metais)|01012014|
+913105|Mecânico de manutenção de aparelhos de levantamento|01012014|
+913110|Mecânico de manutenção de equipamento de mineração|01012014|
+913115|Mecânico de manutenção de máquinas agrícolas|01012014|
+913120|Mecânico de manutenção de máquinas de construção e terraplenagem|01012014|
+913125|Vulcanizador de correias transportadoras|20032023|
+914105|Mecânico de manutenção de aeronaves, em geral|01012014|
+914110|Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar)|01012014|
+914205|Mecânico de manutenção de motores e equipamentos navais|01012014|
+914305|Mecânico de manutenção de veículos ferroviários|01012014|
+914405|Mecânico de manutenção de automóveis, motocicletas e veículos similares|01012014|13032025
+914405|Mecânico de manutenção de automóveis e veículos similares|14032025|
+914410|Mecânico de manutenção de empilhadeiras e outros veículos de cargas leves|01012014|
+914415|Mecânico de manutenção de motocicletas|01012014|
+914420|Mecânico de manutenção de tratores|01012014|
+914425|Mecânico de veículos automotores a diesel (exceto tratores)|01012014|
+915105|Técnico em manutenção de instrumentos de medição e precisão|01012014|
+915110|Técnico em manutenção de hidrômetros|01012014|
+915115|Técnico em manutenção de balanças|01012014|
+915205|Restaurador de instrumentos musicais (exceto cordas arcadas)|01012014|
+915210|Reparador de instrumentos musicais|01012014|
+915215|Luthier (restauração de cordas arcadas)|01012014|
+915305|Técnico em manutenção de equipamentos e instrumentos médico-hospitalares|01012014|13032025
+915305|Técnico em manutenção de equipamentos e instrumentos odonto-médico-hospitalares|14032025|
+915405|Reparador de equipamentos fotográficos|01012014|
+919105|Lubrificador industrial|01012014|
+919110|Lubrificador de veículos automotores (exceto embarcações)|01012014|
+919115|Lubrificador de embarcações|01012014|
+919205|Mecânico de manutenção de máquinas cortadoras de grama, roçadeiras, motosserras e similares|01012014|
+919305|Mecânico de manutenção de aparelhos esportivos e de ginástica|01012014|
+919310|Mecânico de manutenção de bicicletas e veículos similares|01012014|
+919315|Montador de bicicletas|01012014|
+950105|Supervisor de manutenção elétrica de alta tensão industrial|01012014|
+950110|Supervisor de manutenção eletromecânica industrial, comercial e predial|01012014|
+950205|Encarregado de manutenção elétrica de veículos|01012014|13052024
+950205|Encarregado de manutenção eletroeletrônica de veículos|14052024|
+950305|Supervisor de manutenção eletromecânica|01012014|
+951105|Eletricista de manutenção eletroeletrônica|01012014|
+951305|Instalador de sistemas eletroeletrônicos de segurança|01012014|
+951310|Mantenedor de sistemas eletroeletrônicos de segurança|01012014|
+951315|Monitor de sistemas eletrônicos de segurança interno|01012014|
+951320|Monitor de sistemas eletrônicos de segurança externo|01012014|
+953105|Eletricista de instalações (aeronaves)|01012014|
+953110|Eletricista de instalações (embarcações)|01012014|
+953115|Eletricista de instalações (veículos automotores e máquinas operatrizes, exceto aeronaves e embarcações)|01012014|
+954105|Eletromecânico de manutenção de elevadores|01012014|
+954110|Eletromecânico de manutenção de escadas rolantes|01012014|
+954115|Eletromecânico de manutenção de portas automáticas|01012014|
+954120|Mecânico de manutenção de instalações mecânicas de edifícios|01012014|
+954125|Operador eletromecânico|01012014|
+954205|Reparador de aparelhos eletrodomésticos (exceto imagem e som)|01012014|
+954210|Reparador de rádio, tv e som|01012014|
+954305|Reparador de equipamentos de escritório|01012014|
+991105|Conservador de via permanente (trilhos)|01012014|
+991110|Inspetor de via permanente (trilhos)|01012014|
+991115|Operador de máquinas especiais em conservação de via permanente (trilhos)|01012014|
+991120|Soldador aluminotérmico em conservação de trilhos|01012014|
+991205|Mantenedor de equipamentos de parques de diversões e similares|01012014|
+991305|Funileiro de veículos (reparação)|01012014|
+991310|Montador de veículos (reparação)|01012014|
+991315|Pintor de veículos (reparação)|01012014|
+992105|Alinhador de pneus|01012014|13032025
+992105|Alinhador veicular|14032025|
+992110|Balanceador|01012014|
+992115|Borracheiro|01012014|
+992120|Lavador de peças|01012014|
+992205|Encarregado geral de operações de conservação de vias permanentes (exceto trilhos)|01012014|
+992210|Encarregado de equipe de conservação de vias permanentes (exceto trilhos)|01012014|
+992215|Operador de ceifadeira na conservação de vias permanentes|01012014|
+992220|Pedreiro de conservação de vias permanentes (exceto trilhos)|01012014|
+992225|Auxiliar geral de conservação de vias permanentes (exceto trilhos)|01012014|
