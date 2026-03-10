@@ -1,5 +1,10 @@
 # esociallib
 
+[![CI](https://github.com/erpbrasil/esociallib/actions/workflows/ci.yml/badge.svg)](https://github.com/erpbrasil/esociallib/actions/workflows/ci.yml)
+[![PyPI version](https://badge.fury.io/py/esociallib.svg)](https://pypi.org/project/esociallib/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/esociallib)](https://pypi.org/project/esociallib/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Biblioteca Python para geração, validação, assinatura e transmissão de eventos **eSocial S-1.3**.
 
 Desenvolvida pela [KMEE](https://kmee.com.br) como componente pip do módulo `l10n_br_esocial` para Odoo.
