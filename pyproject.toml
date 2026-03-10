@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "esociallib"
-version = "0.1.2"
+version = "0.1.3"
 description = "Biblioteca Python para geração, validação e transmissão de eventos eSocial S-1.3"
 readme = "README.md"
 license = { text = "MIT" }
@@ -28,8 +28,8 @@ dependencies = [
     "xsdata[lxml]>=24.0",
     "lxml",
     # Ecossistema erpbrasil — assinatura ICP-Brasil e transmissão SOAP mTLS
-    "erpbrasil.assinatura>=1.8.0",
-    "erpbrasil.transmissao>=1.1.0",
+    "erpbrasil.assinatura",
+    "erpbrasil.transmissao",
     # Utilitários brasileiros (CPF/CNPJ, etc)
     "erpbrasil.base>=2.3",
 ]
