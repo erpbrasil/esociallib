@@ -1,10 +1,9 @@
 """Testes unitários das exceções."""
-import pytest
 from esociallib.exceptions import (
-    EsocialValidationError,
+    EsocialBatchError,
     EsocialSignatureError,
     EsocialTransmissionError,
-    EsocialBatchError,
+    EsocialValidationError,
 )
 
 

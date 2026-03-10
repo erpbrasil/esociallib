@@ -33,15 +33,15 @@ Uso básico::
                                cert_password="senha", environment="restricted")
 """
 
-from esociallib.validators import validate_xsd
-from esociallib.generator import to_xml, generate_unsigned, list_supported_events
 from esociallib.exceptions import (
+    EsocialBatchError,
     EsocialError,
-    EsocialValidationError,
     EsocialSignatureError,
     EsocialTransmissionError,
-    EsocialBatchError,
+    EsocialValidationError,
 )
+from esociallib.generator import generate_unsigned, list_supported_events, to_xml
+from esociallib.validators import validate_xsd
 
 # erpbrasil wrappers — optional at import time (required at call time)
 try:
@@ -51,14 +51,14 @@ except ImportError:
     info_certificado = None  # type: ignore[assignment]
 
 try:
-    from esociallib.transmissao import enviar_lote, consultar_lote, LoteResult, EventoResult
+    from esociallib.transmissao import EventoResult, LoteResult, consultar_lote, enviar_lote
 except ImportError:
     enviar_lote = None  # type: ignore[assignment]
     consultar_lote = None  # type: ignore[assignment]
     LoteResult = None  # type: ignore[assignment]
     EventoResult = None  # type: ignore[assignment]
 
-__version__ = "1.0.0"
+__version__ = "0.1.1"
 __author__ = "KMEE"
 __all__ = [
     "to_xml",

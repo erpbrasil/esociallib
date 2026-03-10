@@ -8,7 +8,7 @@ from __future__ import annotations
 
 import importlib.resources
 from pathlib import Path
-from typing import TYPE_CHECKING, Optional, Type, TypeVar
+from typing import TYPE_CHECKING, TypeVar
 
 from lxml import etree
 from xsdata.formats.dataclass.context import XmlContext
@@ -42,13 +42,13 @@ class CommonMixin:
 
     # Namespace do evento — sobrescrito nas subclasses geradas.
     # Ex: "http://www.esocial.gov.br/schema/evt/evtAdmissao/v_S_01_03_00"
-    _namespace: Optional[str] = None
+    _namespace: str | None = None
 
     # Nome do arquivo XSD correspondente (sem extensão).
     # Ex: "evtAdmissao" — usado para localizar o XSD bundled.
-    _xsd_name: Optional[str] = None
+    _xsd_name: str | None = None
 
-    def to_xml(self, ns_map: Optional[dict] = None) -> str:
+    def to_xml(self, ns_map: dict | None = None) -> str:
         """
         Serializa o objeto para string XML UTF-8.
 
@@ -60,12 +60,12 @@ class CommonMixin:
         serializer = XmlSerializer(context=_context, config=_SERIALIZER_CONFIG)
         return serializer.render(self, ns_map=effective_ns_map)
 
-    def to_xml_bytes(self, ns_map: Optional[dict] = None) -> bytes:
+    def to_xml_bytes(self, ns_map: dict | None = None) -> bytes:
         """Retorna XML como bytes UTF-8."""
         return self.to_xml(ns_map).encode("utf-8")
 
     @classmethod
-    def from_xml(cls: Type[T], xml: str | bytes) -> T:
+    def from_xml(cls: type[T], xml: str | bytes) -> T:
         """
         Desserializa XML para a classe correspondente.
 
@@ -79,7 +79,7 @@ class CommonMixin:
         return parser.from_bytes(xml, cls)
 
     @classmethod
-    def from_path(cls: Type[T], path: str | Path) -> T:
+    def from_path(cls: type[T], path: str | Path) -> T:
         """
         Desserializa XML a partir de arquivo.
 

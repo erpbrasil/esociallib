@@ -1,15 +1,16 @@
 """Testes unitários do generator (sem XSDs nem certificados)."""
-import pytest
-from unittest.mock import patch, MagicMock
+from unittest.mock import MagicMock, patch
 
-from esociallib.generator import (
-    register_builder,
-    generate_unsigned,
-    to_xml,
-    list_supported_events,
-    _BUILDERS,
-)
+import pytest
+
 from esociallib.exceptions import EsocialValidationError
+from esociallib.generator import (
+    _BUILDERS,
+    generate_unsigned,
+    list_supported_events,
+    register_builder,
+    to_xml,
+)
 
 
 @pytest.fixture(autouse=True)

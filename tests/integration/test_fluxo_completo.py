@@ -3,13 +3,13 @@
 Simula o ciclo de vida real de um evento eSocial, com transmissão
 mockada como feito em erpbrasil.edoc.
 """
+from unittest.mock import MagicMock, patch
+
 import pytest
-from unittest.mock import patch, MagicMock
 
-from esociallib.generator import to_xml
 from esociallib.assinatura import assinar
-from esociallib.transmissao import enviar_lote, consultar_lote
-
+from esociallib.generator import to_xml
+from esociallib.transmissao import consultar_lote, enviar_lote
 
 # ── Respostas SOAP simuladas ─────────────────────────────────────────────────
 

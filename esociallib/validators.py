@@ -8,7 +8,6 @@ from __future__ import annotations
 
 import importlib.resources
 import logging
-from contextlib import contextmanager
 from pathlib import Path
 
 from lxml import etree

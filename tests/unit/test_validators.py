@@ -1,12 +1,12 @@
 """Testes unitários do módulo validators."""
+
 import pytest
-from unittest.mock import patch, MagicMock
 
 from esociallib.validators import (
-    validate_xsd,
     _EVENT_XSD_MAP,
     _resolve_xsd_path,
     clear_schema_cache,
+    validate_xsd,
 )
 
 

@@ -3,8 +3,8 @@ import pytest
 from lxml import etree
 
 from esociallib.assinatura import assinar, info_certificado
-from esociallib.builders.s_2200 import build_s2200
 from esociallib.builders.s_1000 import build_s1000
+from esociallib.builders.s_2200 import build_s2200
 
 
 @pytest.fixture

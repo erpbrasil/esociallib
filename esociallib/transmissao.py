@@ -13,10 +13,10 @@ from __future__ import annotations
 
 import logging
 from dataclasses import dataclass, field
-from typing import Optional
-from xml.etree import ElementTree as ET
+from xml.sax.saxutils import escape as xml_escape
 
 from erpbrasil.transmissao import TransmissaoSOAP
+from lxml import etree
 
 logger = logging.getLogger(__name__)
 
@@ -58,9 +58,9 @@ _SOAP_ACTION_CONSULTA = (
 @dataclass
 class EventoResult:
     event_id: str
-    nr_recibo: Optional[str] = None
-    code: Optional[str] = None
-    description: Optional[str] = None
+    nr_recibo: str | None = None
+    code: str | None = None
+    description: str | None = None
     aceito: bool = False
 
 
@@ -185,7 +185,7 @@ def _montar_envelope_consulta(protocolo: str) -> str:
       <v1:consulta>
         <eSocial xmlns="http://www.esocial.gov.br/schema/lote/eventos/envio/consulta/retornoEnvio/v1_1_1">
           <download>
-            <protocoloEnvio>{protocolo}</protocoloEnvio>
+            <protocoloEnvio>{xml_escape(protocolo)}</protocoloEnvio>
           </download>
         </eSocial>
       </v1:consulta>
@@ -195,7 +195,8 @@ def _montar_envelope_consulta(protocolo: str) -> str:
 
 
 def _extrair_protocolo(resposta_xml: str) -> str:
-    root = ET.fromstring(resposta_xml)
+    raw = resposta_xml.encode("utf-8") if isinstance(resposta_xml, str) else resposta_xml
+    root = etree.fromstring(raw)
     ns = {"es": "http://www.esocial.gov.br/schema/lote/eventos/envio/retornoEnvio/v1_1_1"}
     el = root.find(".//es:protocoloEnvio", ns)
     if el is not None and el.text:
@@ -204,7 +205,8 @@ def _extrair_protocolo(resposta_xml: str) -> str:
 
 
 def _parsear_resultado(protocolo: str, resposta_xml: str) -> LoteResult:
-    root = ET.fromstring(resposta_xml)
+    raw = resposta_xml.encode("utf-8") if isinstance(resposta_xml, str) else resposta_xml
+    root = etree.fromstring(raw)
     ns = {"es": "http://www.esocial.gov.br/schema/lote/eventos/envio/consulta/retornoEnvio/v1_1_1"}
 
     cd_el = root.find(".//es:cdResposta", ns)
@@ -237,11 +239,12 @@ def _parsear_resultado(protocolo: str, resposta_xml: str) -> LoteResult:
 
 def _extrair_event_id(xml: str) -> str:
     try:
-        root = ET.fromstring(xml.encode("utf-8"))
+        root = etree.fromstring(xml.encode("utf-8"))
         for child in root:
             id_val = child.get("Id")
             if id_val:
                 return id_val
     except Exception:
-        pass
+        logger.warning("Falha ao extrair Id do evento XML")
+    logger.warning("Id não encontrado no evento, usando fallback 'evt001'")
     return "evt001"

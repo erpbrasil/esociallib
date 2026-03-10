@@ -3,7 +3,6 @@ from lxml import etree
 
 from esociallib.builders.xml_builder import EventoXml, make_esocial, sub
 
-
 NS = "http://www.esocial.gov.br/schema/evt/evtAdmissao/v_S_01_03_00"
 
 

@@ -36,7 +36,7 @@ def generate_event_id(
 
     global _counter
     with _lock:
-        _counter += 1
+        _counter = (_counter + 1) % 100000
         seq = _counter
 
     return f"ID{int(tp_insc)}{nr}{ts}{seq:05d}"

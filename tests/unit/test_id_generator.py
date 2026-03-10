@@ -1,5 +1,6 @@
 """Testes unitários do gerador de IDs de evento."""
 import pytest
+
 from esociallib.utils.id_generator import generate_event_id, reset_counters
 
 

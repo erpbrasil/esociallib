@@ -3,7 +3,6 @@
 Cada builder gera XML que deve passar na validação XSD oficial,
 exceto pelo elemento <Signature> (adicionado pela assinatura).
 """
-import pytest
 from esociallib.validators import validate_xsd
 
 

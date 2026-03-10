@@ -1,20 +1,20 @@
 """Testes unitários do módulo transmissao (sem rede, tudo mockado)."""
+from unittest.mock import MagicMock, patch
+
 import pytest
-from unittest.mock import patch, MagicMock
 
 from esociallib.transmissao import (
-    enviar_lote,
-    consultar_lote,
-    LoteResult,
-    EventoResult,
     MAX_EVENTOS_POR_LOTE,
-    _montar_envelope_envio,
-    _montar_envelope_consulta,
-    _extrair_protocolo,
+    EventoResult,
+    LoteResult,
     _extrair_event_id,
+    _extrair_protocolo,
+    _montar_envelope_consulta,
+    _montar_envelope_envio,
     _parsear_resultado,
+    consultar_lote,
+    enviar_lote,
 )
-
 
 # ── Testes de envelope ─────────────────────────────────────────────────────────
 
