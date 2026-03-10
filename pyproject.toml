@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "esociallib"
-version = "0.1.1"
+version = "0.1.2"
 description = "Biblioteca Python para geração, validação e transmissão de eventos eSocial S-1.3"
 readme = "README.md"
 license = { text = "MIT" }

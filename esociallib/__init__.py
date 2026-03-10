@@ -58,7 +58,7 @@ except ImportError:
     LoteResult = None  # type: ignore[assignment]
     EventoResult = None  # type: ignore[assignment]
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __author__ = "KMEE"
 __all__ = [
     "to_xml",
