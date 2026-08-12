@@ -62,6 +62,10 @@ class EventoResult:
     code: str | None = None
     description: str | None = None
     aceito: bool = False
+    # XML do <retornoEvento> devolvido pelo governo para este evento. Carrega os
+    # eventos totalizadores (S-5001/S-5002/S-5011/S-5012) quando houver — use
+    # esociallib.retorno_totalizadores.parse_totalizadores() para lê-los.
+    retorno_xml: str | None = None
 
 
 @dataclass
@@ -219,6 +223,8 @@ def _parsear_resultado(protocolo: str, resposta_xml: str) -> LoteResult:
     else:
         status = "erro"
 
+    retornos = extrair_retornos_evento(root)
+
     eventos = []
     for oc in root.findall(".//es:ocorrencias/es:ocorrencia", ns):
         def _txt(tag):
@@ -226,15 +232,79 @@ def _parsear_resultado(protocolo: str, resposta_xml: str) -> LoteResult:
             return el.text.strip() if el is not None and el.text else None
 
         code = _txt("cdResposta")
+        event_id = _txt("id") or ""
         eventos.append(EventoResult(
-            event_id=_txt("id") or "",
+            event_id=event_id,
             nr_recibo=_txt("nrRecibo"),
             code=code,
             description=_txt("dscResposta"),
             aceito=(code == "201"),
+            retorno_xml=retornos.get(event_id),
+        ))
+
+    # Retornos de evento sem ocorrência correspondente ainda precisam chegar ao
+    # consumidor: é neles que vêm os totalizadores do evento aceito.
+    ids_vistos = {evento.event_id for evento in eventos}
+    for event_id, retorno_xml in retornos.items():
+        if event_id in ids_vistos:
+            continue
+        eventos.append(EventoResult(
+            event_id=event_id,
+            nr_recibo=_extrair_nr_recibo(retorno_xml),
+            aceito=(status == "processado"),
+            retorno_xml=retorno_xml,
         ))
 
     return LoteResult(protocolo=protocolo, status=status, eventos=eventos)
+
+
+def extrair_retornos_evento(resposta) -> dict[str, str]:
+    """Extrai o XML de retorno de cada evento, indexado pelo Id do evento.
+
+    Agnóstico de namespace (busca por local-name), porque o wrapper e a versão
+    do schema de retorno mudam entre consulta de lote, consulta por
+    identificador e download de eventos.
+
+    :param resposta: XML de resposta (string, bytes ou Element já parseado).
+    :returns: dict {Id do evento: XML do retorno}. Vazio se nada for encontrado.
+    """
+    if isinstance(resposta, (str, bytes)):
+        raw = resposta.encode("utf-8") if isinstance(resposta, str) else resposta
+        try:
+            root = etree.fromstring(raw)
+        except (etree.XMLSyntaxError, ValueError):
+            logger.warning("Retorno eSocial ilegível ao extrair retornos de evento.")
+            return {}
+    else:
+        root = resposta
+
+    retornos: dict[str, str] = {}
+    for el in root.iter():
+        if not isinstance(el.tag, str):
+            continue
+        if el.tag.rsplit("}", 1)[-1] != "evento":
+            continue
+        event_id = el.get("Id") or el.get("id")
+        if not event_id:
+            continue
+        retornos[event_id] = etree.tostring(el, encoding="unicode")
+    return retornos
+
+
+def _extrair_nr_recibo(retorno_xml: str | None) -> str | None:
+    """Lê o nrRecibo dentro de um <retornoEvento> (agnóstico de namespace)."""
+    if not retorno_xml:
+        return None
+    try:
+        root = etree.fromstring(retorno_xml.encode("utf-8"))
+    except (etree.XMLSyntaxError, ValueError):
+        return None
+    for el in root.iter():
+        if not isinstance(el.tag, str):
+            continue
+        if el.tag.rsplit("}", 1)[-1] == "nrRecibo" and el.text:
+            return el.text.strip()
+    return None
 
 
 def _extrair_event_id(xml: str) -> str:

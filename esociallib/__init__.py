@@ -41,6 +41,12 @@ from esociallib.exceptions import (
     EsocialValidationError,
 )
 from esociallib.generator import generate_unsigned, list_supported_events, to_xml
+from esociallib.retorno_totalizadores import (
+    Totalizador,
+    TotalizadorLinha,
+    parse_totalizador,
+    parse_totalizadores,
+)
 from esociallib.validators import validate_xsd
 
 # erpbrasil wrappers — optional at import time (required at call time)
@@ -65,6 +71,10 @@ __all__ = [
     "generate_unsigned",
     "list_supported_events",
     "validate_xsd",
+    "parse_totalizadores",
+    "parse_totalizador",
+    "Totalizador",
+    "TotalizadorLinha",
     "assinar",
     "info_certificado",
     "enviar_lote",
